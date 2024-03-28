@@ -22,8 +22,7 @@ C. AWS Config
 
 D. Amazon GuardDuty
 
-## 3. A company has a centralized group of users with large file storage requirements that have exceeded the space available on premises. The company wants to extend its file storage capabilities for this group while retaining the
-## performance benefit of sharing content locally. What is the MOST operationally efficient AWS solution for this scenario?
+## 3. A company has a centralized group of users with large file storage requirements that have exceeded the space available on premises. The company wants to extend its file storage capabilities for this group while retaining the performance benefit of sharing content locally. What is the MOST operationally efficient AWS solution for this scenario?
 
 A. Create an Amazon S3 bucket for each user. Mount each bucket by using an S3 file system mounting utility.
 
@@ -33,79 +32,108 @@ C. Move each user’s working environment to Amazon WorkSpaces. Set up an Amazon
 
 D. Deploy an Amazon EC2 instance and attach an Amazon Elastic Block Store (Amazon EBS) Provisioned IOPS volume. Share the EBS volume directly with the users.
 
-4. According to security best practices, how should an Amazon EC2 instance be given access to an Amazon S3 bucket?
+## 4. According to security best practices, how should an Amazon EC2 instance be given access to an Amazon S3 bucket?
 
 A. Hard code an IAM user’s secret key and access key directly in the application, and upload the file.
+
 B. Store the IAM user’s secret key and access key in a text file on the EC2 instance, read the keys, then upload the file.
+
 C. Have the EC2 instance assume a role to obtain the privileges to upload the file.
+
 D. Modify the S3 bucket policy so that any service can upload to it at any time.
 
-5. Which option is a customer responsibility when using Amazon DynamoDB under the AWS Shared Responsibility Model?
+## 5. Which option is a customer responsibility when using Amazon DynamoDB under the AWS Shared Responsibility Model?
 
 A. Physical security of DynamoDB
+
 B. Patching of DynamoDB
+
 C. Access to DynamoDB tables
+
 D. Encryption of data at rest in DynamoDB
 
-6. Which option is a perspective that includes foundational capabilities of the AWS Cloud Adoption Framework (AWS CAF)?
+## 6. Which option is a perspective that includes foundational capabilities of the AWS Cloud Adoption Framework (AWS CAF)?
 
 A. Sustainability
+
 B. Performance efficiency
+
 C. Governance
+
 D. Reliability
 
-7. A company is running and managing its own Docker environment on Amazon EC2 instances. The company wants an alternative to help manage cluster size, scheduling, and environment maintenance.
-Which AWS service meets these requirements?
+## 7. A company is running and managing its own Docker environment on Amazon EC2 instances. The company wants an alternative to help manage cluster size, scheduling, and environment maintenance. Which AWS service meets these requirements?
 
 A. AWS Lambda
+
 B. Amazon RDS
+
 C. AWS Fargate
+
 D. Amazon Athena
 
-8. A company wants to run a NoSQL database on Amazon EC2 instances.
-Which task is the responsibility of AWS in this scenario?
+## 8. A company wants to run a NoSQL database on Amazon EC2 instances. Which task is the responsibility of AWS in this scenario?
 
 A. Update the guest operating system of the EC2 instances.
+
 B. Maintain high availability at the database layer.
+
 C. Patch the physical infrastructure that hosts the EC2 instances.
+
 D. Configure the security group firewall.
 
-9. Which AWS services or tools can identify rightsizing opportunities for Amazon EC2 instances? (Choose two.)
+## 9. Which AWS services or tools can identify rightsizing opportunities for Amazon EC2 instances? (Choose two.)
 
 A. AWS Cost Explorer
+
 B. AWS Billing Conductor
+
 C. Amazon CodeGuru
+
 D. Amazon SageMaker
+
 E. AWS Compute Optimizer
 
-10. Which of the following are benefits of using AWS Trusted Advisor? (Choose two.)
+## 10. Which of the following are benefits of using AWS Trusted Advisor? (Choose two.)
 
 A. Providing high-performance container orchestration
+
 B. Creating and rotating encryption keys
+
 C. Detecting underutilized resources to save costs
+
 D. Improving security by proactively monitoring the AWS environment
+
 E. Implementing enforced tagging across AWS resources
 
-11. Which of the following is an advantage that users experience when they move on-premises workloads to the AWS Cloud?
+## 11. Which of the following is an advantage that users experience when they move on-premises workloads to the AWS Cloud?
 
 A. Elimination of expenses for running and maintaining data centers
+
 B. Price discounts that are identical to discounts from hardware providers
+
 C. Distribution of all operational controls to AWS
+
 D. Elimination of operational expenses
 
-12. A company wants to manage deployed IT services and govern its infrastructure as code (IaC) templates.
-Which AWS service will meet this requirement?
+## 12. A company wants to manage deployed IT services and govern its infrastructure as code (IaC) templates. Which AWS service will meet this requirement?
 
 A. AWS Resource Explorer
+
 B. AWS Service Catalog
+
 C. AWS Organizations
+
 D. AWS Systems Manager
 
-13. Which AWS service or tool helps users visualize, understand, and manage spending and usage over time?
+## 13. Which AWS service or tool helps users visualize, understand, and manage spending and usage over time?
 
 A. AWS Organizations
+
 B. AWS Pricing Calculator
+
 C. AWS Cost Explorer
+
 D. AWS Service Catalog
 
 14. A company is using a central data platform to manage multiple types of data for its customers. The company wants to use AWS services to discover, transform, and visualize the data.
