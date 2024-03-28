@@ -201,108 +201,147 @@ C. AWS Direct Connect
 ## 20. An online gaming company needs to choose a purchasing option to run its Amazon EC2 instances for 1 year. The web traffic is consistent, and any increases in traffic are predictable. The EC2 instances must be online and available without any disruption. Which EC2 instance purchasing option will meet these requirements MOST cost-effectively?
 
 A. On-Demand Instances
+
 B. Reserved Instances
+
 C. Spot Instances
+
 D. Spot Fleet
 
 21. Which AWS service or feature allows a user to establish a dedicated network connection between a company’s on-premises data center and the AWS Cloud?
 
 A. AWS Direct Connect
+
 B. VPC peering
+
 C. AWS VPN
+
 D. Amazon Route 53
 
 22. Which option is a physical location of the AWS global infrastructure?
 
 A. AWS DataSync
+
 B. AWS Region
+
 C. Amazon Connect
+
 D. AWS Organizations
 
-23. A company wants to protect its AWS Cloud information, systems, and assets while performing risk assessment and mitigation tasks.
-Which pillar of the AWS Well-Architected Framework is supported by these goals?
+23. A company wants to protect its AWS Cloud information, systems, and assets while performing risk assessment and mitigation tasks. Which pillar of the AWS Well-Architected Framework is supported by these goals?
 
 A. Reliability
+
 B. Security
+
 C. Operational excellence
+
 D. Performance efficiency
 
 24. What is the purpose of having an internet gateway within a VPC?
 
 A. To create a VPN connection to the VPC
+
 B. To allow communication between the VPC and the internet
+
 C. To impose bandwidth constraints on internet traffic
+
 D. To load balance traffic from the internet across Amazon EC2 instances
 
-25. A company is running a monolithic on-premises application that does not scale and is difficult to maintain. The company has a plan to migrate the application to AWS and divide the application into microservices.
-Which best practice of the AWS Well-Architected Framework is the company following with this plan?
+25. A company is running a monolithic on-premises application that does not scale and is difficult to maintain. The company has a plan to migrate the application to AWS and divide the application into microservices. Which best practice of the AWS Well-Architected Framework is the company following with this plan?
 
 A. Integrate functional testing as part of AWS deployment.
+
 B. Use automation to deploy changes.
+
 C. Deploy the application to multiple locations.
+
 D. Implement loosely coupled dependencies.
 
-26. A company has an AWS account. The company wants to audit its password and access key rotation details for compliance purposes.
-Which AWS service or tool will meet this requirement?
+26. A company has an AWS account. The company wants to audit its password and access key rotation details for compliance purposes. Which AWS service or tool will meet this requirement?
 
 A. IAM Access Analyzer
+
 B. AWS Artifact
+ 
 C. IAM credential report
+
 D. AWS Audit Manager
 
-27. A company wants to receive a notification when a specific AWS cost threshold is reached.
-Which AWS services or tools can the company use to meet this requirement? (Choose two.)
+27. A company wants to receive a notification when a specific AWS cost threshold is reached. Which AWS services or tools can the company use to meet this requirement? (Choose two.)
 
 A. Amazon Simple Queue Service (Amazon SQS)
+
 B. AWS Budgets
+
 C. Cost Explorer
+
 D. Amazon CloudWatch
+
 E. AWS Cost and Usage Report
 
-28. Which AWS service or resource provides answers to the most frequently asked security-related questions that AWS receives from its users?
+## 28. Which AWS service or resource provides answers to the most frequently asked security-related questions that AWS receives from its users?
 
 A. AWS Artifact
+
 B. Amazon Connect
+
 C. AWS Chatbot
+
 D. AWS Knowledge Center
 
-29. Which tasks are customer responsibilities, according to the AWS shared responsibility model? (Choose two.)
+## 29. Which tasks are customer responsibilities, according to the AWS shared responsibility model? (Choose two.)
 
 A. Configure the AWS provided security group firewall.
+
 B. Classify company assets in the AWS Cloud.
+
 C. Determine which Availability Zones to use for Amazon S3 buckets.
+
 D. Patch or upgrade Amazon DynamoDB.
+
 E. Select Amazon EC2 instances to run AWS Lambda on.
 
-30. Which of the following are pillars of the AWS Well-Architected Framework? (Choose two.)
+## 30. Which of the following are pillars of the AWS Well-Architected Framework? (Choose two.)
 
 A. Availability
-B. Reliability
+
+**B. Reliability**
+
 C. Scalability
+
 D. Responsive design
-E. Operational excellence
 
-31. Which AWS service or feature is used to send both text and email messages from distributed applications?
+**E. Operational excellence**
 
-A. Amazon Simple Notification Service (Amazon SNS)
+## 31. Which AWS service or feature is used to send both text and email messages from distributed applications?
+
+**A. Amazon Simple Notification Service (Amazon SNS)**
+
 B. Amazon Simple Email Service (Amazon SES)
+
 C. Amazon CloudWatch alerts
+
 D. Amazon Simple Queue Service (Amazon SQS)
 
-32. A user needs programmatic access to AWS resources through the AWS CLI or the AWS API.
-Which option will provide the user with the appropriate access?
+## 32. A user needs programmatic access to AWS resources through the AWS CLI or the AWS API. Which option will provide the user with the appropriate access?
 
 A. Amazon Inspector
-B. Access keys
+
+**B. Access keys**
+
 C. SSH public keys
+
 D. AWS Key Management Service (AWS KMS) keys
 
-33. A company runs thousands of simultaneous simulations using AWS Batch. Each simulation is stateless, is fault tolerant, and runs for up to 3 hours.
-Which pricing model enables the company to optimize costs and meet these requirements?
+## 33. A company runs thousands of simultaneous simulations using AWS Batch. Each simulation is stateless, is fault tolerant, and runs for up to 3 hours. Which pricing model enables the company to optimize costs and meet these requirements?
 
 A. Reserved Instances
+
 B. Spot Instances
+
 C. On-Demand Instances
+
 D. Dedicated Instances
 
 34. What does the concept of agility mean in AWS Cloud computing? (Choose two.)
