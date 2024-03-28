@@ -402,12 +402,16 @@ B. Grant broad permissions so that all company employees can access the resource
 
 D. Avoid rotating credentials to prevent issues in production applications.
 
-40. Elasticity in the AWS Cloud refers to which of the following? (Choose two.)
+## 40. Elasticity in the AWS Cloud refers to which of the following? (Choose two.)
 
 A. How quickly an Amazon EC2 instance can be restarted
+
 B. The ability to rightsize resources as demand shifts
+
 C. The maximum amount of RAM an Amazon EC2 instance can use
+
 D. The pay-as-you-go billing model
+
 E. How easily resources can be procured when they are needed
 
 41. Which service enables customers to audit API calls in their AWS accounts?
