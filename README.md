@@ -543,89 +543,115 @@ B. Amazon Athena
 C. Amazon RDS
 D. Amazon EMR
 
-64. A company wants to provide managed Windows virtual desktops and applications to its remote employees over secure network connections.
-Which AWS services can the company use to meet these requirements? (Choose two.)
+## 64. A company wants to provide managed Windows virtual desktops and applications to its remote employees over secure network connections. Which AWS services can the company use to meet these requirements? (Choose two.)
 
 A. Amazon Connect
+
 B. Amazon AppStream 2.0
+
 C. Amazon WorkSpaces
+
 D. AWS Site-to-Site VPN
+
 E. Amazon Elastic Container Service (Amazon ECS)
 
-65. A company wants to monitor for misconfigured security groups that are allowing unrestricted access to specific ports.
-Which AWS service will meet this requirement?
+## 65. A company wants to monitor for misconfigured security groups that are allowing unrestricted access to specific ports. Which AWS service will meet this requirement?
 
-A. AWS Trusted Advisor
+**A. AWS Trusted Advisor**
+
 B. Amazon CloudWatch
+
 C. Amazon GuardDuty
+
 D. AWS Health Dashboard
 
-66. Which AWS service is a key-value database that provides sub-millisecond latency on a large scale?
+## 66. Which AWS service is a key-value database that provides sub-millisecond latency on a large scale?
 
-A. Amazon DynamoDB
+**A. Amazon DynamoDB**
+
 B. Amazon Aurora
+
 C. Amazon DocumentDB (with MongoDB compatibility)
+
 D. Amazon Neptune
 
-67. A company is deploying a machine learning (ML) research project that will require a lot of compute power over several months. The ML processing jobs do not need to run at specific times.
-Which Amazon EC2 instance purchasing option will meet these requirements at the lowest cost?
+## 67. A company is deploying a machine learning (ML) research project that will require a lot of compute power over several months. The ML processing jobs do not need to run at specific times. Which Amazon EC2 instance purchasing option will meet these requirements at the lowest cost?
 
 A. On-Demand Instances
+
 B. Spot Instances
+
 C. Reserved Instances
+
 D. Dedicated Instances
 
-68. Which AWS services or features provide disaster recovery solutions for Amazon EC2 instances? (Choose two.)
+## 68. Which AWS services or features provide disaster recovery solutions for Amazon EC2 instances? (Choose two.)
 
 A. EC2 Reserved Instances
-B. EC2 Amazon Machine Images (AMIs)
-C. Amazon Elastic Block Store (Amazon EBS) snapshots
+
+**B. EC2 Amazon Machine Images (AMIs)**
+
+**C. Amazon Elastic Block Store (Amazon EBS) snapshots**
+
 D. AWS Shield
+
 E. Amazon GuardDuty
 
-69. Which AWS service provides command line access to AWS tools and resources directly from a web browser?
+## 69. Which AWS service provides command line access to AWS tools and resources directly from a web browser?
 
 A. AWS CloudHSM
-B. AWS CloudShell
+
+**B. AWS CloudShell**
+
 C. Amazon WorkSpaces
+
 D. AWS Cloud Map
 
-70. A network engineer needs to build a hybrid cloud architecture connecting on-premises networks to the AWS Cloud using AWS Direct Connect. The company has a few VPCs in a single AWS Region and expects to increase the number of VPCs to hundreds over time.
-Which AWS service or feature should the engineer use to simplify and scale this connectivity as the VPCs increase in number?
+## 70. A network engineer needs to build a hybrid cloud architecture connecting on-premises networks to the AWS Cloud using AWS Direct Connect. The company has a few VPCs in a single AWS Region and expects to increase the number of VPCs to hundreds over time. Which AWS service or feature should the engineer use to simplify and scale this connectivity as the VPCs increase in number?
 
 A. VPC endpoints
+
 B. AWS Transit Gateway
+
 C. Amazon Route 53
+
 D. AWS Secrets Manager
 
-71. A company wants to assess its operational readiness. It also wants to identify and mitigate any operational risks ahead of a new product launch.
-Which AWS Support plan offers guidance and support for this kind of event at no additional charge?
+## 71. A company wants to assess its operational readiness. It also wants to identify and mitigate any operational risks ahead of a new product launch. Which AWS Support plan offers guidance and support for this kind of event at no additional charge?
 
 A. AWS Business Support
-B. AWS Basic Support
-C. AWS Developer Support
-(X) D. AWS Enterprise Support
 
-72. A company wants to establish a schedule for rotating database user credentials.
-Which AWS service will support this requirement with the LEAST amount of operational overhead?
+B. AWS Basic Support
+
+C. AWS Developer Support
+
+**D. AWS Enterprise Support**
+
+## 72. A company wants to establish a schedule for rotating database user credentials. Which AWS service will support this requirement with the LEAST amount of operational overhead?
 
 A. AWS Systems Manager
-(X) B. AWS Secrets Manager
+**B. AWS Secrets Manager**
 C. AWS License Manager
 D. AWS Managed Services
 
-73. Which AWS service or feature can be used to create a private connection between an on-premises workload and an AWS Cloud workload?
+## 73. Which AWS service or feature can be used to create a private connection between an on-premises workload and an AWS Cloud workload?
 
 A. Amazon Route 53
+
 B. Amazon Macie
-(X) C. AWS Direct Connect
+
+**C. AWS Direct Connect**
+
 D. AWS PrivateLink
 
-74. Which AWS service is used to provide encryption for Amazon EBS?
+## 74. Which AWS service is used to provide encryption for Amazon EBS?
 
 A. AWS Certificate Manager
+
 B. AWS Systems Manager
+
 (X) C. AWS KMS
+
 D. AWS Config
 
 75. A company wants to manage its AWS Cloud resources through a web interface.
