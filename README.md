@@ -343,20 +343,24 @@ C. Open a case with AWS Support.
 
 D. Generate the reports with Amazon Macie.
 
-38. An ecommerce company has migrated its IT infrastructure from an on-premises data center to the AWS Cloud.
-Which cost is the company’s direct responsibility?
+## 38. An ecommerce company has migrated its IT infrastructure from an on-premises data center to the AWS Cloud. Which cost is the company’s direct responsibility?
 
-A. Cost of application software licenses
+**A. Cost of application software licenses**
+
 B. Cost of the hardware infrastructure on AWS
+
 C. Cost of power for the AWS servers
+
 D. Cost of physical security for the AWS data center
 
-39. A company is setting up AWS Identity and Access Management (IAM) on an AWS account.
-Which recommendation complies with IAM security best practices?
+## 39. A company is setting up AWS Identity and Access Management (IAM) on an AWS account. Which recommendation complies with IAM security best practices?
 
 A. Use the account root user access keys for administrative tasks.
+
 B. Grant broad permissions so that all company employees can access the resources they need.
-C. Turn on multi-factor authentication (MFA) for added security during the login process.
+
+**C. Turn on multi-factor authentication (MFA) for added security during the login process.**
+
 D. Avoid rotating credentials to prevent issues in production applications.
 
 40. Elasticity in the AWS Cloud refers to which of the following? (Choose two.)
