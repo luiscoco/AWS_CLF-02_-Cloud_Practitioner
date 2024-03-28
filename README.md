@@ -2797,54 +2797,70 @@ A. Economy of scale
 C. Agility
 D. High availability
 
-373. Which AWS service makes it easier to monitor and troubleshoot application logs and cloud resources?
+## 373. Which AWS service makes it easier to monitor and troubleshoot application logs and cloud resources?
 
 A. Amazon EC2
+
 B. AWS Identity and Access Management (IAM)
-(X)C. Amazon CloudWatch
+
+**C. Amazon CloudWatch**
+
 D. AWS CloudTrail
 
-374. Which AWS service uses AWS Compute Optimizer to provide sizing recommendations based on workload metrics?
+## 374. Which AWS service uses AWS Compute Optimizer to provide sizing recommendations based on workload metrics?
 
-A. Amazon EC2
+**A. Amazon EC2**
+
 B. Amazon RDS
+
 C. Amazon Lightsail
+
 D. AWS Step Functions
 
-375. Which AWS service will help a company plan a migration to AWS by collecting the configuration, usage, and behavior data of on-premises data centers?
+## 375. Which AWS service will help a company plan a migration to AWS by collecting the configuration, usage, and behavior data of on-premises data centers?
 
 A. AWS Resource Groups
-(X)B. AWS Application Discovery Service
+
+**B. AWS Application Discovery Service**
+
 C. AWS Service Catalog
+
 D. AWS Systems Manager
 
-376. Which AWS service uses a combination of publishers and subscribers?
+## 376. Which AWS service uses a combination of publishers and subscribers?
 
 A. AWS Lambda
-(X)B. Amazon Simple Notification Service (Amazon SNS)
+
+**B. Amazon Simple Notification Service (Amazon SNS)**
+
 C. Amazon CloudWatch
+
 D. AWS CloudFormation
 
-377. A company is in the early stages of planning a migration to AWS. The company wants to obtain the monthly predicted total AWS cost of ownership for future Amazon EC2 instances and associated storage. Which AWS service or tool should the company use to meet these requirements?
+## 377. A company is in the early stages of planning a migration to AWS. The company wants to obtain the monthly predicted total AWS cost of ownership for future Amazon EC2 instances and associated storage. Which AWS service or tool should the company use to meet these requirements?
  
-(X)A. AWS Pricing Calculator
+**A.AWS Pricing Calculator**
 B. AWS Compute Optimizer
 C. AWS Trusted Advisor
 D. AWS Application Migration Service
 
-378. A company deploys a new application to Amazon EC2 instances. The application code is stored in an AWS CodeCommit repository. The company uses an AWS CodePipeline pipeline to deploy the code to the EC2 instances through a continuous integration and continuous delivery (CI/CD) process.
+## 378. A company deploys a new application to Amazon EC2 instances. The application code is stored in an AWS CodeCommit repository. The company uses an AWS CodePipeline pipeline to deploy the code to the EC2 instances through a continuous integration and continuous delivery (CI/CD) process.
 
 A SysOps administrator needs to ensure that sensitive database information is configured properly on the EC2 instances to prevent accidental leakage of credentials.
 
 Which solutions will store and retrieve the sensitive information in the MOST secure manner? (Choose two.)
 
-(X)A. Store the values in AWS Secrets Manager. Update the code to retrieve these values when the application starts. Store the values as environmental variables that the application can use.
-(X)B. Store the values in AWS Systems Manager Parameter Store as secret strings. Update the code to retrieve these values when the application starts. Store the values as environmental variables that the application can use.
+**A.** Store the values in **AWS Secrets Manager**. Update the code to retrieve these values when the application starts. Store the values as environmental variables that the application can use.
+
+B. Store the values in AWS Systems Manager Parameter Store as secret strings. Update the code to retrieve these values when the application starts. Store the values as environmental variables that the application can use.
+
 C. Store the values in an AWS Lambda function. Update the code to invoke the Lambda function when the application starts. Configure the Lambda function to inject the values as environmental variables that the application can use.
+
 D. Store the configuration information in a file on the EC2 instances. Ensure that the underlying drives are encrypted by AWS Key Management Service (AWS KMS). Update the application to read the file when the application starts. Store the values as environmental variables.
+
 E. Store the values in a text file in an Amazon S3 bucket. In the CI/CD pipeline, copy the file to the EC2 instance in an appropriate location on a disk that the application can read.
 
-379. A large company is migrating its entire IT portfolio to AWS. Each business unit in the company has a standalone AWS account that supports both development and test environments. New accounts to support production workloads will be needed soon.
+## 379. A large company is migrating its entire IT portfolio to AWS. Each business unit in the company has a standalone AWS account that supports both development and test environments. New accounts to support production workloads will be needed soon.
 
 The finance department requires a centralized method for payment but must maintain visibility into each group's spending to allocate costs.
 
@@ -2853,24 +2869,34 @@ The security team requires a centralized mechanism to control IAM usage in all t
 What combination of the following options meets the company’s needs with the LEAST effort? (Choose two.)
 
 A. Use a collection of parameterized AWS CloudFormation templates defining common IAM permissions that are launched into each account. Require all new and existing accounts to launch the appropriate stacks to enforce the least privilege model.
-(X)B. Use AWS Organizations to create a new organization from a chosen payer account and define an organizational unit hierarchy. Invite the existing accounts to join the organization and create new accounts using Organizations.
+
+**B.** Use **AWS Organizations** to create a new organization from a chosen payer account and define an organizational unit hierarchy. Invite the existing accounts to join the organization and create new accounts using Organizations.
+
 C. Require each business unit to use its own AWS accounts. Tag each AWS account appropriately and enable Cost Explorer to administer chargebacks.
-(X)D. Enable all features of AWS Organizations and establish appropriate service control policies that filter IAM permissions for sub-accounts.
+
+**D.** Enable all features of AWS Organizations and establish appropriate service control policies that filter IAM permissions for sub-accounts.
+
 E. Consolidate all of the company's AWS accounts into a single AWS account. Use tags for billing purposes and the IAM’s Access Advisor feature to enforce the least privilege model.
 
-380. A company needs to analyze its AWS Cloud environment to determine whether the company is following security best practices. The company wants recommendations about how to close security gaps. Which AWS service should the company use to obtain these recommendations?
+## 380. A company needs to analyze its AWS Cloud environment to determine whether the company is following security best practices. The company wants recommendations about how to close security gaps. Which AWS service should the company use to obtain these recommendations?
 
 A. AWS WAF
+
 B. AWS Systems Manager
-(X)C. AWS Trusted Advisor
+
+**C. AWS Trusted Advisor**
+
 D. AWS Shield
 
-381. A company is using AWS Identity and Access Management (IAM). Who can manage the access keys of the AWS account root user?
+## 381. A company is using AWS Identity and Access Management (IAM). Who can manage the access keys of the AWS account root user?
 
 A. IAM users in the same account that have been granted permission
+
 B. IAM roles in any account that have been granted permission
+
 C. IAM users and roles that have been granted permission
-(X)D. The AWS account owner
+
+**D. The AWS account owner**
 
 ## 382. A company needs a managed NFS file system that the company can use with its AWS compute resources. Which AWS service or feature will meet these requirements?
 
@@ -2880,11 +2906,11 @@ B. AWS Storage Gateway Tape Gateway
 
 C. Amazon S3 Glacier Flexible Retrieval
 
-(X)D. Amazon Elastic File System (Amazon EFS)
+**D. Amazon Elastic File System (Amazon EFS)**
 
 ## 383. A company is migrating to the cloud. It wants to evaluate the configurations of virtual machines in its existing data center environment to ensure that it can size new Amazon EC2 instances accurately. The company wants to collect metrics, such as CPU, memory, and disk utilization, and it needs an inventory of what processes are running on each instance. The company would also like to monitor network connections to map communications between servers. Which would enable the collection of this data MOST cost effectively?
 
-(X)A. Use AWS Application Discovery Service and deploy the data collection agent to each virtual machine in the data center.
+**A.** Use **AWS Application Discovery Service** and deploy the data collection agent to each virtual machine in the data center.
 
 B. Configure the Amazon CloudWatch agent on all servers within the local environment and publish metrics to Amazon CloudWatch Logs.
 
@@ -2894,7 +2920,7 @@ D. Enable AWS Application Discovery Service in the AWS Management Console and co
 
 ## 384. An application requires a database that offers consistent performance and latency that can be measured in single-digit milliseconds. Which AWS service meets these requirements?
 
-(X)A. Amazon DynamoDB
+**A. Amazon DynamoDB**
 
 B. Amazon RDS
 
