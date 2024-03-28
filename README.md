@@ -2872,23 +2872,32 @@ B. IAM roles in any account that have been granted permission
 C. IAM users and roles that have been granted permission
 (X)D. The AWS account owner
 
-382. A company needs a managed NFS file system that the company can use with its AWS compute resources. Which AWS service or feature will meet these requirements?
+## 382. A company needs a managed NFS file system that the company can use with its AWS compute resources. Which AWS service or feature will meet these requirements?
 
 A. Amazon Elastic Block Store (Amazon EBS)
+
 B. AWS Storage Gateway Tape Gateway
+
 C. Amazon S3 Glacier Flexible Retrieval
+
 (X)D. Amazon Elastic File System (Amazon EFS)
 
-383. A company is migrating to the cloud. It wants to evaluate the configurations of virtual machines in its existing data center environment to ensure that it can size new Amazon EC2 instances accurately. The company wants to collect metrics, such as CPU, memory, and disk utilization, and it needs an inventory of what processes are running on each instance. The company would also like to monitor network connections to map communications between servers. Which would enable the collection of this data MOST cost effectively?
+## 383. A company is migrating to the cloud. It wants to evaluate the configurations of virtual machines in its existing data center environment to ensure that it can size new Amazon EC2 instances accurately. The company wants to collect metrics, such as CPU, memory, and disk utilization, and it needs an inventory of what processes are running on each instance. The company would also like to monitor network connections to map communications between servers. Which would enable the collection of this data MOST cost effectively?
 
 (X)A. Use AWS Application Discovery Service and deploy the data collection agent to each virtual machine in the data center.
+
 B. Configure the Amazon CloudWatch agent on all servers within the local environment and publish metrics to Amazon CloudWatch Logs.
+
 C. Use AWS Application Discovery Service and enable agentless discovery in the existing virtualization environment.
+
 D. Enable AWS Application Discovery Service in the AWS Management Console and configure the corporate firewall to allow scans over a VPN.
 
-384. An application requires a database that offers consistent performance and latency that can be measured in single-digit milliseconds. Which AWS service meets these requirements?
+## 384. An application requires a database that offers consistent performance and latency that can be measured in single-digit milliseconds. Which AWS service meets these requirements?
 
 (X)A. Amazon DynamoDB
+
 B. Amazon RDS
+
 C. Amazon Redshift
+
 D. Amazon EMR
