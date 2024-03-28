@@ -300,27 +300,34 @@ C. The ability to experiment quickly
 D. The elimination of wasted capacity
 E. The low cost of entry into cloud computing
 
-35. A company needs to block SQL injection attacks.
-Which AWS service or feature can meet this requirement?
+## 35. A company needs to block SQL injection attacks. Which AWS service or feature can meet this requirement?
 
-A. AWS WAF
+**A. AWS WAF**
+
 B. AWS Shield
+
 C. Network ACLs
+
 D. Security groups
 
-36. Which AWS service or feature identifies whether an Amazon S3 bucket or an IAM role has been shared with an external entity?
+## 36. Which AWS service or feature identifies whether an Amazon S3 bucket or an IAM role has been shared with an external entity?
 
 A. AWS Service Catalog
+
 B. AWS Systems Manager
-C. AWS IAM Access Analyzer
+
+**C. AWS IAM Access Analyzer**
+
 D. AWS Organizations
 
-37. A cloud practitioner needs to obtain AWS compliance reports before migrating an environment to the AWS Cloud.
-How can these reports be generated?
+## 37. A cloud practitioner needs to obtain AWS compliance reports before migrating an environment to the AWS Cloud. How can these reports be generated?
 
 A. Contact the AWS Compliance team.
+
 B. Download the reports from AWS Artifact.
+
 C. Open a case with AWS Support.
+
 D. Generate the reports with Amazon Macie.
 
 38. An ecommerce company has migrated its IT infrastructure from an on-premises data center to the AWS Cloud.
