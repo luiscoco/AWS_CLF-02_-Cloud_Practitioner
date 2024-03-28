@@ -152,7 +152,7 @@ E. Amazon Quantum Ledger Database (Amazon QLDB)
 
 A. AWS Support
 
-B. AWS Professional Services
+**B. AWS Professional Services**
 
 C. AWS Launch Wizard
 
@@ -160,7 +160,7 @@ D. AWS Managed Services (AMS)
 
 ## 16. An e-learning platform needs to run an application for 2 months each year. The application will be deployed on Amazon EC2 instances. Any application downtime during those 2 months must be avoided. Which EC2 purchasing option will meet these requirements MOST cost-effectively?
 
-A. Reserved Instances
+**A. Reserved Instances**
 
 B. Dedicated Hosts
 
@@ -172,7 +172,7 @@ D. On-Demand Instances
 
 A. Amazon EC2
 
-B. AWS Elastic Beanstalk
+**B. AWS Elastic Beanstalk**
 
 C. AWS CodeBuild
 
@@ -188,15 +188,17 @@ C. S3 bucket policies
 
 D. S3 server-side encryption
 
-19. Which AWS service provides the ability to manage infrastructure as code?
+## 19. Which AWS service provides the ability to manage infrastructure as code?
 
 A. AWS CodePipeline
-B. AWS CodeDeploy
-C. AWS Direct Connect
-D. AWS CloudFormation
 
-20. An online gaming company needs to choose a purchasing option to run its Amazon EC2 instances for 1 year. The web traffic is consistent, and any increases in traffic are predictable. The EC2 instances must be online and available without any disruption.
-Which EC2 instance purchasing option will meet these requirements MOST cost-effectively?
+B. AWS CodeDeploy
+
+C. AWS Direct Connect
+
+**D. AWS CloudFormation**
+
+## 20. An online gaming company needs to choose a purchasing option to run its Amazon EC2 instances for 1 year. The web traffic is consistent, and any increases in traffic are predictable. The EC2 instances must be online and available without any disruption. Which EC2 instance purchasing option will meet these requirements MOST cost-effectively?
 
 A. On-Demand Instances
 B. Reserved Instances
