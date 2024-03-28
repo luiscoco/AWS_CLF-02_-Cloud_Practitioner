@@ -8,7 +8,7 @@ A. Use of the Snowball Edge appliance for a 10-day period
 
 B. The transfer of data out of Amazon S3 and to the Snowball Edge appliance
 
-C. The transfer of data from the Snowball Edge appliance into Amazon S3
+**C.** The transfer of **data from the Snowball Edge appliance into Amazon S3**
 
 D. Daily use of the Snowball Edge appliance after 10 days
 
@@ -16,7 +16,7 @@ D. Daily use of the Snowball Edge appliance after 10 days
 
 A. AWS Trusted Advisor
 
-B. Amazon Inspector
+**B. Amazon Inspector**
 
 C. AWS Config
 
@@ -26,7 +26,7 @@ D. Amazon GuardDuty
 
 A. Create an Amazon S3 bucket for each user. Mount each bucket by using an S3 file system mounting utility.
 
-B. Configure and deploy an AWS Storage Gateway file gateway. Connect each user’s workstation to the file gateway.
+**B.** Configure and deploy an **AWS Storage Gateway file gateway**. Connect each user’s workstation to the file gateway.
 
 C. Move each user’s working environment to Amazon WorkSpaces. Set up an Amazon WorkDocs account for each user.
 
