@@ -729,21 +729,27 @@ B. Amazon CloudWatch
 C. AWS Cost Explorer
 D. AWS Budgets
 
-92. Which tool should a developer use to integrate AWS service features directly into an application?
+## 92. Which tool should a developer use to integrate AWS service features directly into an application?
 
-(X) A. AWS Software Development Kit
+**A. AWS Software Development Kit**
+
 B. AWS CodeDeploy
+
 C. AWS Lambda
+
 D. AWS Batch
 
-93. Which of the following is a recommended design principle of the AWS Well-Architected Framework?
+## 93. Which of the following is a recommended design principle of the AWS Well-Architected Framework?
 
 A. Reduce downtime by making infrastructure changes infrequently and in large increments.
+
 B. Invest the time to configure infrastructure manually.
-C. Learn to improve from operational failures.
+
+**C. Learn to improve from operational failures.**
+
 D. Use monolithic application design for centralization.
 
-94. Using AWS Identity and Access Management (IAM) to grant access only to the resources needed to perform a task is a concept known as:
+## 94. Using AWS Identity and Access Management (IAM) to grant access only to the resources needed to perform a task is a concept known as:
 
 A. restricted access.
 B. as-needed access.
@@ -753,39 +759,54 @@ D. token access.
 95. Which AWS service or tool can be used to set up a firewall to control traffic going into and coming out of an Amazon VPC subnet?
 
 A. Security group
+
 B. AWS WAF
+
 C. AWS Firewall Manager
+
 D. Network ACL
 
 96. A company wants to operate a data warehouse to analyze data without managing the data warehouse infrastructure.
 Which AWS service will meet this requirement?
 
 A. Amazon Aurora
+
 B. Amazon Redshift Serverless
+
 C. AWS Lambda
+
 D. Amazon RDS
 
-97. How does AWS Cloud computing help businesses reduce costs? (Choose two.)
+## 97. How does AWS Cloud computing help businesses reduce costs? (Choose two.)
 
 A. AWS charges the same prices for services in every AWS Region.
+
 B. AWS enables capacity to be adjusted on demand.
+
 C. AWS offers discounts for Amazon EC2 instances that remain idle for more than 1 week.
+
 D. AWS does not charge for data sent from the AWS Cloud to the internet.
+
 E. AWS eliminates many of the costs of building and maintaining on-premises data centers.
 
-98. A company wants to grant users in one AWS account access to resources in another AWS account. The users do not currently have permission to access the resources.
-Which AWS service will meet this requirement?
+## 98. A company wants to grant users in one AWS account access to resources in another AWS account. The users do not currently have permission to access the resources. Which AWS service will meet this requirement?
 
 A. IAM group
+
 B. IAM role
+
 C. IAM tag
+
 D. IAM Access Analyzer
 
-99. Which task is the responsibility of AWS when using AWS services?
+## 99. Which task is the responsibility of AWS when using AWS services?
 
 A. Management of IAM user permissions
+
 B. Creation of security group rules for outbound access
-C. Maintenance of physical and environmental controls
+
+**C. Maintenance of physical and environmental controls**
+
 D. Application of Amazon EC2 operating system patches
 
 100. A company wants to automate infrastructure deployment by using infrastructure as code (IaC). The company wants to scale production stacks so the stacks can be deployed in multiple AWS Regions.
