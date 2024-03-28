@@ -1,19 +1,17 @@
-# AWS_CLF-02_Cloud_Practitioner
+ # AWS CLF-02 Cloud Practitioner
 
-AWS Cloud Practitioner CLF-02
+Important note: Google searching criteria: examtopics aws clf-c02 Question #222
 
-examtopics aws clf-c02 Question #222
-
-1. A company plans to use an Amazon Snowball Edge device to transfer files to the AWS Cloud.
-Which activities related to a Snowball Edge device are available to the company at no cost?
+## 1. A company plans to use an Amazon Snowball Edge device to transfer files to the AWS Cloud.
+## Which activities related to a Snowball Edge device are available to the company at no cost?
 
 A. Use of the Snowball Edge appliance for a 10-day period
 B. The transfer of data out of Amazon S3 and to the Snowball Edge appliance
 C. The transfer of data from the Snowball Edge appliance into Amazon S3
 D. Daily use of the Snowball Edge appliance after 10 days
 
-2. A company has deployed applications on Amazon EC2 instances. The company needs to assess application vulnerabilities and must identify infrastructure deployments that do not meet best practices.
-Which AWS service can the company use to meet these requirements?
+## 2. A company has deployed applications on Amazon EC2 instances. The company needs to assess application vulnerabilities and must identify infrastructure deployments that do not meet best practices.
+##Which AWS service can the company use to meet these requirements?
 
 A. AWS Trusted Advisor
 B. Amazon Inspector
