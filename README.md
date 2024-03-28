@@ -136,45 +136,56 @@ B. AWS Pricing Calculator
 
 D. AWS Service Catalog
 
-14. A company is using a central data platform to manage multiple types of data for its customers. The company wants to use AWS services to discover, transform, and visualize the data.
-Which combination of AWS services should the company use to meet these requirements? (Choose two.)
+## 14. A company is using a central data platform to manage multiple types of data for its customers. The company wants to use AWS services to discover, transform, and visualize the data. Which combination of AWS services should the company use to meet these requirements? (Choose two.)
 
-A. AWS Glue
+**A. AWS Glue**
+
 B. Amazon Elastic File System (Amazon EFS)
+
 C. Amazon Redshift
-D. Amazon QuickSight
+
+**D. Amazon QuickSight**
+
 E. Amazon Quantum Ledger Database (Amazon QLDB)
 
-15. A global company wants to migrate its third-party applications to the AWS Cloud. The company wants help from a global team of experts to complete the migration faster and more reliably in accordance with AWS internal best practices.
-Which AWS service or resource will meet these requirements?
+## 15. A global company wants to migrate its third-party applications to the AWS Cloud. The company wants help from a global team of experts to complete the migration faster and more reliably in accordance with AWS internal best practices. Which AWS service or resource will meet these requirements?
 
 A. AWS Support
+
 B. AWS Professional Services
+
 C. AWS Launch Wizard
+
 D. AWS Managed Services (AMS)
 
-16. An e-learning platform needs to run an application for 2 months each year. The application will be deployed on Amazon EC2 instances. Any application downtime during those 2 months must be avoided.
-Which EC2 purchasing option will meet these requirements MOST cost-effectively?
+## 16. An e-learning platform needs to run an application for 2 months each year. The application will be deployed on Amazon EC2 instances. Any application downtime during those 2 months must be avoided. Which EC2 purchasing option will meet these requirements MOST cost-effectively?
 
 A. Reserved Instances
+
 B. Dedicated Hosts
+
 C. Spot Instances
+
 D. On-Demand Instances
 
-17. A developer wants to deploy an application quickly on AWS without manually creating the required resources.
-Which AWS service will meet these requirements?
+## 17. A developer wants to deploy an application quickly on AWS without manually creating the required resources. Which AWS service will meet these requirements?
 
 A. Amazon EC2
+
 B. AWS Elastic Beanstalk
+
 C. AWS CodeBuild
+
 D. Amazon Personalize
 
-18. A company is storing sensitive customer data in an Amazon S3 bucket. The company wants to protect the data from accidental deletion or overwriting.
-Which S3 feature should the company use to meet these requirements?
+## 18. A company is storing sensitive customer data in an Amazon S3 bucket. The company wants to protect the data from accidental deletion or overwriting. Which S3 feature should the company use to meet these requirements?
 
 A. S3 Lifecycle rules
+
 B. S3 Versioning
+
 C. S3 bucket policies
+
 D. S3 server-side encryption
 
 19. Which AWS service provides the ability to manage infrastructure as code?
