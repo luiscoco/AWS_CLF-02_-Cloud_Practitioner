@@ -6,24 +6,33 @@ Important note: Google searching criteria: examtopics aws clf-c02 Question #222
 ## Which activities related to a Snowball Edge device are available to the company at no cost?
 
 A. Use of the Snowball Edge appliance for a 10-day period
+
 B. The transfer of data out of Amazon S3 and to the Snowball Edge appliance
+
 C. The transfer of data from the Snowball Edge appliance into Amazon S3
+
 D. Daily use of the Snowball Edge appliance after 10 days
 
 ## 2. A company has deployed applications on Amazon EC2 instances. The company needs to assess application vulnerabilities and must identify infrastructure deployments that do not meet best practices.
 ##Which AWS service can the company use to meet these requirements?
 
 A. AWS Trusted Advisor
+
 B. Amazon Inspector
+
 C. AWS Config
+
 D. Amazon GuardDuty
 
-3. A company has a centralized group of users with large file storage requirements that have exceeded the space available on premises. The company wants to extend its file storage capabilities for this group while retaining the performance benefit of sharing content locally.
-What is the MOST operationally efficient AWS solution for this scenario?
+## 3. A company has a centralized group of users with large file storage requirements that have exceeded the space available on premises. The company wants to extend its file storage capabilities for this group while retaining the
+## performance benefit of sharing content locally. What is the MOST operationally efficient AWS solution for this scenario?
 
 A. Create an Amazon S3 bucket for each user. Mount each bucket by using an S3 file system mounting utility.
+
 B. Configure and deploy an AWS Storage Gateway file gateway. Connect each user’s workstation to the file gateway.
+
 C. Move each user’s working environment to Amazon WorkSpaces. Set up an Amazon WorkDocs account for each user.
+
 D. Deploy an Amazon EC2 instance and attach an Amazon Elastic Block Store (Amazon EBS) Provisioned IOPS volume. Share the EBS volume directly with the users.
 
 4. According to security best practices, how should an Amazon EC2 instance be given access to an Amazon S3 bucket?
