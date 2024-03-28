@@ -68,7 +68,7 @@ A. AWS Lambda
 
 B. Amazon RDS
 
-C. AWS Fargate
+**C. AWS Fargate**
 
 D. Amazon Athena
 
@@ -78,7 +78,7 @@ A. Update the guest operating system of the EC2 instances.
 
 B. Maintain high availability at the database layer.
 
-C. Patch the physical infrastructure that hosts the EC2 instances.
+**C. Patch the physical infrastructure that hosts the EC2 instances.**
 
 D. Configure the security group firewall.
 
