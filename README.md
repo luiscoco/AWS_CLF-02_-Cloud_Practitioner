@@ -38,7 +38,7 @@ A. Hard code an IAM user’s secret key and access key directly in the applicati
 
 B. Store the IAM user’s secret key and access key in a text file on the EC2 instance, read the keys, then upload the file.
 
-C. Have the EC2 instance assume a role to obtain the privileges to upload the file.
+**C.** Have the EC2 instance **assume a role** to obtain the privileges to upload the file.
 
 D. Modify the S3 bucket policy so that any service can upload to it at any time.
 
