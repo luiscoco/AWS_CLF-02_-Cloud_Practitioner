@@ -120,7 +120,7 @@ D. Elimination of operational expenses
 
 A. AWS Resource Explorer
 
-B. AWS Service Catalog
+**B. AWS Service Catalog**
 
 C. AWS Organizations
 
@@ -132,7 +132,7 @@ A. AWS Organizations
 
 B. AWS Pricing Calculator
 
-C. AWS Cost Explorer
+**C. AWS Cost Explorer**
 
 D. AWS Service Catalog
 
