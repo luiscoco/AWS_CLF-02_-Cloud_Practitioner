@@ -2904,111 +2904,157 @@ C. Amazon Macie
 ## 285. A company wants to run its workloads in the AWS Cloud effectively, reduce management overhead, and improve processes. Which AWS Well-Architected Framework pillar represents these requirements?
 
 A. Reliability
-(X)B. Operational excellence
+
+**B. Operational excellence**
+
 C. Performance efficiency
+
 D. Cost optimization
 
-286. A company uses Amazon S3 to store records that can contain personally identifiable information (PII). The company wants a solution that can monitor all S3 buckets for PII and immediately alert staff about vulnerabilities.
-
-Which AWS service will meet these requirements?
+## 286. A company uses Amazon S3 to store records that can contain personally identifiable information (PII). The company wants a solution that can monitor all S3 buckets for PII and immediately alert staff about vulnerabilities. Which AWS service will meet these requirements?
 
 A. Amazon GuardDuty
+
 B. Amazon Detective
-(X)C. Amazon Macie
+
+**C. Amazon Macie**
+
 D. AWS Shield
 
-287. Which AWS service allows users to download security and compliance reports about the AWS infrastructure on demand?
+## 287. Which AWS service allows users to download security and compliance reports about the AWS infrastructure on demand?
 
 A. Amazon GuardDuty
+
 B. AWS Security Hub
-(X)C. AWS Artifact
+
+**C. AWS Artifact**
+
 D. AWS Shield
 
-288. An external auditor has requested that a company provide a list of all its IAM users, including the status of users' credentials and access keys. What is the SIMPLEST way to provide this information?
+## 288. An external auditor has requested that a company provide a list of all its IAM users, including the status of users' credentials and access keys. What is the SIMPLEST way to provide this information?
 
 A. Create an IAM user account for the auditor, granting the auditor administrator permissions.
+
 B. Take a screenshot of each user's page in the AWS Management Console, then provide the screenshots to the auditor.
-(X)C. Download the IAM credential report, then provide the report to the auditor.
+
+**C. Download the IAM credential report, then provide the report to the auditor.**
+
 D. Download the AWS Trusted Advisor report, then provide the report to the auditor.
 
-289. Which task can a company perform by using security groups in the AWS Cloud?
+## 289. Which task can a company perform by using security groups in the AWS Cloud?
 
-(X)A. Allow access to an Amazon EC2 instance through only a specific port.
+**A. Allow access to an Amazon EC2 instance through only a specific port.**
+
 B. Deny access to malicious IP addresses at a subnet level.
+
 C. Protect data that is cached by Amazon CloudFront.
+
 D. Apply a stateless firewall to an Amazon EC2 instance.
 
-290. A company plans to run a compute-intensive workload that uses graphics processing units (GPUs). Which Amazon EC2 instance type should the company use?
+## 290. A company plans to run a compute-intensive workload that uses graphics processing units (GPUs). Which Amazon EC2 instance type should the company use?
 
-(X)A. Accelerated computing
+**A. Accelerated computing**
+
 B. Compute optimized
+
 C. Storage optimized
+
 D. General purpose
 
-291. Which of the following are features of network ACLs as they are used in the AWS Cloud? (Choose two.)
+## 291. Which of the following are features of network ACLs as they are used in the AWS Cloud? (Choose two.)
 
-(X)A. They are stateless.
+**A. They are stateless.**
+
 B. They are stateful.
+
 C. They evaluate all rules before allowing traffic.
-(X)D. They process rules in order, starting with the lowest numbered rule, when deciding whether to allow traffic.
+
+**D. They process rules in order, starting with the lowest numbered rule, when deciding whether to allow traffic.**
+
 E. They operate at the instance level.
 
-292. Which capabilities are in the platform perspective of the AWS Cloud Adoption Framework (AWS CAF)? (Choose two.)
+## 292. Which capabilities are in the platform perspective of the AWS Cloud Adoption Framework (AWS CAF)? (Choose two.)
 
 A. Performance and capacity management
-(X)B. Data engineering
-(X)C. Continuous integration and continuous delivery (CI/CD)
+
+**B. Data engineering**
+
+**C. Continuous integration and continuous delivery (CI/CD)**
+
 D. Infrastructure protection
+
 E. Change and release management
 
-293. According to the AWS shared responsibility model, the customer is responsible for applying the latest security updates and patches for which of the following?
+## 293. According to the AWS shared responsibility model, the customer is responsible for applying the latest security updates and patches for which of the following?
 
 A. Amazon DynamoDB
-(X)B. Amazon EC2 instances
+
+**B. Amazon EC2 instances**
+
 C. Amazon RDS instances
+
 D. Amazon S3
 
-294. Which Amazon S3 storage class is MOST cost-effective for unknown access patterns?
+## 294. Which Amazon S3 storage class is MOST cost-effective for unknown access patterns?
 
 A. S3 Standard
-B. S3 Standard-Infrequent Access (S3 Standard-IA)
-C. S3 One Zone-Infrequent Access (S3 One Zone-IA)
-(X)D. S3 Intelligent-Tiering
 
-295. Which options are AWS Cloud Adoption Framework (AWS CAF) security perspective capabilities? (Choose two.)
+B. S3 Standard-Infrequent Access (S3 Standard-IA)
+
+C. S3 One Zone-Infrequent Access (S3 One Zone-IA)
+
+**D. S3 Intelligent-Tiering**
+
+## 295. Which options are AWS Cloud Adoption Framework (AWS CAF) security perspective capabilities? (Choose two.)
 
 A. Observability
+
 B. Incident and problem management
-(X)C. Incident response
-(X)D. Infrastructure protection
+
+**C. Incident response**
+
+**D. Infrastructure protection**
+
 E. Availability and continuity
 
-296. A company has a managed IAM policy that does not grant the necessary permissions for users to accomplish required tasks. How can this be resolved?
+## 296. A company has a managed IAM policy that does not grant the necessary permissions for users to accomplish required tasks. How can this be resolved?
 
 A.Enable AWS Shield Advanced.
-(X)B. Create a custom IAM policy.
+
+**B. Create a custom IAM policy.**
+
 C. Use a third-party web application firewall (WAF) managed rule from the AWS Marketplace.
+
 D. Use AWS Key Management Service (AWS KMS) to create a customer-managed key.
 
-297. Who is responsible for managing IAM user access and secret keys according to the AWS shared responsibility model?
+## 297. Who is responsible for managing IAM user access and secret keys according to the AWS shared responsibility model?
 
 A. IAM access and secret keys are static, so there is no need to rotate them.
-(X)B. The customer is responsible for rotating keys.
+
+**B. The customer is responsible for rotating keys.**
+
 C. AWS will rotate the keys whenever required.
+
 D. The AWS Support team will rotate keys when requested by the customer.
 
-298. A company needs to run a pre-installed third-party firewall on an Amazon EC2 instance. Which AWS service or feature can provide this solution?
+## 298. A company needs to run a pre-installed third-party firewall on an Amazon EC2 instance. Which AWS service or feature can provide this solution?
 
 A. Network ACLs
+
 B. Security groups
-(X)C. AWS Marketplace
+
+**C. AWS Marketplace**
+
 D. AWS Trusted Advisor
 
-299. Which AWS Cloud benefit gives a company the ability to quickly deploy cloud resources to access compute, storage, and database infrastructures in a matter of minutes?
+## 299. Which AWS Cloud benefit gives a company the ability to quickly deploy cloud resources to access compute, storage, and database infrastructures in a matter of minutes?
 
 A. Elasticity
+
 B. Cost savings
-(X)C. Agility
+
+**C. Agility**
+
 D. Reliability
 
 ## 300. Which of the following is entirely the responsibility of AWS, according to the AWS shared responsibility model?
