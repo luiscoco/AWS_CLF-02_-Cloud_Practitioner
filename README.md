@@ -1068,166 +1068,215 @@ D. Reserved Instance reporting
 ## 105. Which tasks are the customer’s responsibility, according to the AWS shared responsibility model? (Choose two.)
 
 A. Establish the global infrastructure.
+
 B. Perform client-side data encryption.
+
 C. Configure IAM credentials.
+
 D. Secure edge locations.
+
 E. Patch Amazon RDS DB instances.
 
-106. A developer has been hired by a large company and needs AWS credentials. Which are security best practices that should be followed? (Choose two.)
+## 106. A developer has been hired by a large company and needs AWS credentials. Which are security best practices that should be followed? (Choose two.)
 
 A. Grant the developer access to only the AWS resources needed to perform the job.
+
 B. Share the AWS account root user credentials with the developer.
+
 C. Add the developer to the administrator’s group in AWS IAM.
+
 D. Configure a password policy that ensures the developer’s password cannot be changed.
+
 E. Ensure the account password policy requires a minimum length.
 
-107. A company has multiple AWS accounts that include compute workloads that cannot be interrupted. The company wants to obtain billing discounts that are based on the company’s use of AWS services.
-Which AWS feature or purchasing option will meet these requirements?
+## 107. A company has multiple AWS accounts that include compute workloads that cannot be interrupted. The company wants to obtain billing discounts that are based on the company’s use of AWS services. Which AWS feature or purchasing option will meet these requirements?
 
 A. Resource tagging
+
 B. Consolidated billing
+
 C. Pay-as-you-go pricing
+
 D. Spot Instances
 
-108. A user wants to allow applications running on an Amazon EC2 instance to make calls to other AWS services. The access granted must be secure.
-Which AWS service or feature should be used?
+108. A user wants to allow applications running on an Amazon EC2 instance to make calls to other AWS services. The access granted must be secure. Which AWS service or feature should be used?
 
 A. Security groups
+
 B. AWS Firewall Manager
+
 C. IAM roles
+
 D. IAM user SSH keys
 
-109. A company wants a fully managed Windows file server for its Windows-based applications.
-Which AWS service will meet this requirement?
+## 109. A company wants a fully managed Windows file server for its Windows-based applications. Which AWS service will meet this requirement?
 
 A. Amazon FSx
+
 B. Amazon Elastic Kubernetes Service (Amazon EKS)
+
 C. Amazon Elastic Container Service (Amazon ECS)
+
 D. Amazon EMR
 
-110. A company wants to migrate its NFS on-premises workload to AWS.
-Which AWS Storage Gateway type should the company use to meet this requirement?
+## 110. A company wants to migrate its NFS on-premises workload to AWS. Which AWS Storage Gateway type should the company use to meet this requirement?
 
 A. Tape Gateway
-B. Volume Gateway
-C. Amazon FSx File Gateway
-(X) D. Amazon S3 File Gateway
 
-111. A company needs to track the activity in its AWS accounts, and needs to know when an API call is made against its AWS resources.
-Which AWS tool or service can be used to meet these requirements?
+B. Volume Gateway
+
+C. Amazon FSx File Gateway
+
+**D. Amazon S3 File Gateway**
+
+## 111. A company needs to track the activity in its AWS accounts, and needs to know when an API call is made against its AWS resources. Which AWS tool or service can be used to meet these requirements?
 
 A. Amazon CloudWatch
+
 B. Amazon Inspector
-(X) C. AWS CloudTrail
+
+**C. AWS CloudTrail**
+
 D. AWS IAM
 
-112. A company has an uninterruptible application that runs on Amazon EC2 instances. The application constantly processes a backlog of files in an Amazon Simple Queue Service (Amazon SQS) queue. This usage is expected to continue to grow for years.
-What is the MOST cost-effective EC2 instance purchasing model to meet these requirements?
+## 112. A company has an uninterruptible application that runs on Amazon EC2 instances. The application constantly processes a backlog of files in an Amazon Simple Queue Service (Amazon SQS) queue. This usage is expected to continue to grow for years. What is the MOST cost-effective EC2 instance purchasing model to meet these requirements?
 
 A. Spot Instances
+
 B. On-Demand Instances
+
 C. Savings Plans
+
 D. Dedicated Hosts
 
-113. A company wants an AWS service to provide product recommendations based on its customer data.
-Which AWS service will meet this requirement?
+## 113. A company wants an AWS service to provide product recommendations based on its customer data. Which AWS service will meet this requirement?
 
 A. Amazon Polly
+
 B. Amazon Personalize
+
 C. Amazon Comprehend
+
 D. Amazon Rekognition
 
-114. A company is planning its migration to the AWS Cloud. The company is identifying its capability gaps by using the AWS Cloud Adoption Framework (AWS CAF) perspectives.
-Which phase of the cloud transformation journey includes these identification activities?
+## 114. A company is planning its migration to the AWS Cloud. The company is identifying its capability gaps by using the AWS Cloud Adoption Framework (AWS CAF) perspectives. Which phase of the cloud transformation journey includes these identification activities?
 
 A. Envision
+
 B. Align
+
 C. Scale
+
 D. Launch
 
-115. A social media company wants to protect its web application from common web exploits such as SQL injections and cross-site scripting.
-Which AWS service will meet these requirements?
+## 115. A social media company wants to protect its web application from common web exploits such as SQL injections and cross-site scripting. Which AWS service will meet these requirements?
 
 A. Amazon Inspector
+
 B. AWS WAF
+
 C. Amazon GuardDuty
+
 D. Amazon CloudWatch
 
-116. Which fully managed AWS service assists with the creation, testing, and management of custom Amazon EC2 images?
+## 116. Which fully managed AWS service assists with the creation, testing, and management of custom Amazon EC2 images?
 
 A. EC2 Image Builder
 B. Amazon Machine Image (AMI)
 C. AWS Launch Wizard
 D. AWS Elastic Beanstalk
 
-117. A company wants an automated process to continuously scan its Amazon EC2 instances for software vulnerabilities.
-Which AWS service will meet these requirements?
+## 117. A company wants an automated process to continuously scan its Amazon EC2 instances for software vulnerabilities. Which AWS service will meet these requirements?
 
 A. Amazon GuardDuty
+
 B. Amazon Inspector
+
 C. Amazon Detective
+
 D. Amazon Cognito
 
-118. A company needs to perform data processing once a week that typically takes about 5 hours to complete.
-Which AWS service should the company use for this workload?
+## 118. A company needs to perform data processing once a week that typically takes about 5 hours to complete. Which AWS service should the company use for this workload?
 
 A. AWS Lambda
+
 B. Amazon EC2
+
 C. AWS CodeDeploy
+
 D. AWS Wavelength
 
-119. Which AWS service or feature provides log information of the inbound and outbound traffic on network interfaces in a VPC?
+## 119. Which AWS service or feature provides log information of the inbound and outbound traffic on network interfaces in a VPC?
 
 A. Amazon CloudWatch Logs
+
 B. AWS CloudTrail
-(X) C. VPC Flow Logs
+
+**C. VPC Flow Logs**
+
 D. AWS Identity and Access Management (IAM)
 
-120. A company wants to design a centralized storage system to manage the configuration data and passwords for its critical business applications. Which AWS service or capability will meet these requirements MOST cost-effectively?
+## 120. A company wants to design a centralized storage system to manage the configuration data and passwords for its critical business applications. Which AWS service or capability will meet these requirements MOST cost-effectively?
 
 A. AWS Systems Manager Parameter Store
+
 B. AWS Secrets Manager
+
 C. AWS Config
+
 D. Amazon S3
 
-121. A company plans to deploy containers on AWS. The company wants full control of the compute resources that host the containers. Which AWS service will meet these requirements?
+## 121. A company plans to deploy containers on AWS. The company wants full control of the compute resources that host the containers. Which AWS service will meet these requirements?
 
 A. Amazon Elastic Kubernetes Service (Amazon EKS)
+
 B. AWS Fargate
-(X) C. Amazon EC2
+
+**C. Amazon EC2**
+
 D. Amazon Elastic Container Service (Amazon ECS)
 
-122. Which AWS service or feature allows users to create new AWS accounts, group multiple accounts to organize workflows, and apply policies to groups of accounts?
+## 122. Which AWS service or feature allows users to create new AWS accounts, group multiple accounts to organize workflows, and apply policies to groups of accounts?
 
 A. AWS Identity and Access Management (IAM)
-B. AWS Trusted Advisor
-C. AWS CloudFormation
-(X) D. AWS Organizations
 
-123. A company wants to store and retrieve files in Amazon S3 for its existing on-premises applications by using industry-standard file system protocols. Which AWS service will meet these requirements?
+B. AWS Trusted Advisor
+
+C. AWS CloudFormation
+
+**D. AWS Organizations**
+
+## 123. A company wants to store and retrieve files in Amazon S3 for its existing on-premises applications by using industry-standard file system protocols. Which AWS service will meet these requirements?
 
 A. AWS DataSync
+
 B. AWS Snowball Edge
-(X) C. Amazon S3 File Gateway
+
+**C. Amazon S3 File Gateway**
+
 D. AWS Transfer Family
 
-124. A company wants to block SQL injection attacks. Which AWS service or feature should the company use to meet this requirement?
+## 124. A company wants to block SQL injection attacks. Which AWS service or feature should the company use to meet this requirement?
 
-(X) A. AWS WAF
+**A. AWS WAF**
+
 B. Network ACLs
+
 C. Security groups
+
 D. AWS Certificate Manager (ACM)
 
-125. A company wants a unified tool to provide a consistent method to interact with AWS services.
-Which AWS service or tool will meet this requirement?
+## 125. A company wants a unified tool to provide a consistent method to interact with AWS services. Which AWS service or tool will meet this requirement?
 
-(X) A. AWS CLI
+**A. AWS CLI**
+
 B. Amazon Elastic Container Service (Amazon ECS)
+
 C. AWS Cloud9
+
 D. AWS Virtual Private Network (AWS VPN)
 
-126. A company needs to evaluate its AWS environment and provide best practice recommendations in five categories: cost, performance, service limits, fault tolerance and security.
-Which AWS service can the company use to meet these requirements?
+126. A company needs to evaluate its AWS environment and provide best practice recommendations in five categories: cost, performance, service limits, fault tolerance and security. Which AWS service can the company use to meet these requirements?
 
 A. AWS Shield
 B. AWS WAF
