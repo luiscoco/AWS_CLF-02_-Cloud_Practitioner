@@ -2589,162 +2589,225 @@ C. AWS CLI
 ## 254. Which Amazon EC2 pricing model provides the MOST cost savings for an always-up, right-sized database server running for a project that will last 1 year?
 
 A. On-Demand Instances
+
 B. Convertible Reserved Instances
+
 C. Spot Instances
-(X)D. Standard Reserved Instances
 
-255. A company has a physical tape library to store data backups. The tape library is running out of space. The company needs to extend the tape library's capacity to the AWS Cloud.
+**D. Standard Reserved Instances**
 
-Which AWS service should the company use to meet this requirement?
+## 255. A company has a physical tape library to store data backups. The tape library is running out of space. The company needs to extend the tape library's capacity to the AWS Cloud. Which AWS service should the company use to meet this requirement?
 
 A. Amazon Elastic File System (Amazon EFS)
+
 B. Amazon Elastic Block Store (Amazon EBS)
+
 C. Amazon S3
-(X)D. AWS Storage Gateway
 
-256. A company is using the AWS Free Tier for several AWS services for an application.
-What will happen if the Free Tier usage period expires or if the application use exceeds the Free Tier usage limits?
+**D. AWS Storage Gateway**
 
-(X)A. The company will be charged the standard pay-as-you-go service rates for the usage that exceeds the Free Tier usage.
+## 256. A company is using the AWS Free Tier for several AWS services for an application. What will happen if the Free Tier usage period expires or if the application use exceeds the Free Tier usage limits?
+
+**A. The company will be charged the standard pay-as-you-go service rates for the usage that exceeds the Free Tier usage.**
+
 B. AWS Support will contact the company to set up standard service charges.
+
 C. The company will be charged for the services it consumed during the Free Tier period, plus additional charges for service consumption after the Free Tier period.
+
 D. The company's AWS account will be frozen and can be restarted after a payment plan is established.
 
-257. A company wants to monitor its workload performance. The company wants to ensure that the cloud services are delivered at a level that meets its business needs. Which AWS Cloud Adoption Framework (AWS CAF) perspective will meet these requirements?
+## 257. A company wants to monitor its workload performance. The company wants to ensure that the cloud services are delivered at a level that meets its business needs. Which AWS Cloud Adoption Framework (AWS CAF) perspective will meet these requirements?
 
 A. Business
+
 B. Governance
+
 C. Platform
-(X)D. Operations
 
-258. A company wants to migrate its applications to the AWS Cloud. The company plans to identify and prioritize any business transformation opportunities and evaluate its AWS Cloud readiness. Which AWS service or tool should the company use to meet these requirements?
+**D. Operations**
 
-(X)A. AWS Cloud Adoption Framework (AWS CAF)
+## 258. A company wants to migrate its applications to the AWS Cloud. The company plans to identify and prioritize any business transformation opportunities and evaluate its AWS Cloud readiness. Which AWS service or tool should the company use to meet these requirements?
+
+**A. AWS Cloud Adoption Framework (AWS CAF)**
+
 B. AWS Managed Services (AMS)
+
 C. AWS Well-Architected Framework
+
 D. AWS Migration Hub
 
-259. A company need an AWS service that provides a clear baseline of what the company runs in its on-premises data centers. The company needs the projected cost to run its on-premises workloads in the AWS Cloud. What AWS service or tool will meet these requirements?
+## 259. A company need an AWS service that provides a clear baseline of what the company runs in its on-premises data centers. The company needs the projected cost to run its on-premises workloads in the AWS Cloud. What AWS service or tool will meet these requirements?
 
 A. AWS Compute Optimizer
-B. AWS Cost Explorer
-C. AWS Systems Manager Agent (SSM Agent)
-(X)D. Migration Evaluator
 
-260. A company acquired another corporation. The company now has two AWS accounts. Which AWS service or tool can the company use to consolidate the billing for these two accounts?
+B. AWS Cost Explorer
+
+C. AWS Systems Manager Agent (SSM Agent)
+
+**D. Migration Evaluator**
+
+## 260. A company acquired another corporation. The company now has two AWS accounts. Which AWS service or tool can the company use to consolidate the billing for these two accounts?
 
 A. AWS Systems Manager
-(X)B. AWS Organizations
+
+**B. AWS Organizations**
+
 C. AWS License Manager
+
 D. Cost Explorer
 
-261. A company wants to set up its workloads to perform their intended functions and recover quickly from failure. Which pillar of the AWS Well-Architected Framework aligns with these goals?
+## 261. A company wants to set up its workloads to perform their intended functions and recover quickly from failure. Which pillar of the AWS Well-Architected Framework aligns with these goals?
 
 A. Performance efficiency
+
 B. Sustainability
-(X)C. Reliability
+
+**C. Reliability**
+
 D. Security
 
-262. Which of the following is a managed AWS service that is used specifically for extract, transform, and load (ETL) data?
+## 262. Which of the following is a managed AWS service that is used specifically for extract, transform, and load (ETL) data?
 
 A. Amazon Athena
-(X)B. AWS Glue
+
+**B. AWS Glue**
+
 C. Amazon S3
+
 D. AWS Snowball Edge
 
-263. A company wants to migrate petabytes of data from its on-premises data center to AWS. The company does not want to use an internet connection to perform the migration. Which AWS service will meet these requirements?
+## 263. A company wants to migrate petabytes of data from its on-premises data center to AWS. The company does not want to use an internet connection to perform the migration. Which AWS service will meet these requirements?
 
 A. AWS DataSync
+
 B. Amazon Connect
-(X)C. AWS Snowmobile
+
+**C. AWS Snowmobile**
+
 D. AWS Direct Connect
 
-264. A company wants to receive alerts to monitor its overall operating costs for its AWS public cloud infrastructure. Which AWS offering will meet these requirements?
+## 264. A company wants to receive alerts to monitor its overall operating costs for its AWS public cloud infrastructure. Which AWS offering will meet these requirements?
 
 A. Amazon EventBridge
+
 B. Compute Savings Plans
-(X)C. AWS Budgets
+
+**C. AWS Budgets**
+
 D. Migration Evaluator
 
-265. How does the AWS Enterprise Support Concierge team help users?
+## 265. How does the AWS Enterprise Support Concierge team help users?
 
 A. Supporting application development
+
 B. Providing architecture guidance
-(X)C. Answering billing and account inquiries
+
+**C. Answering billing and account inquiries**
+
 D. Answering questions regarding technical support cases
 
-266. A company wants to run a simulation for 3 years without interruptions. Which Amazon EC2 instance purchasing option will meet these requirements MOST cost-effectively?
+## 266. A company wants to run a simulation for 3 years without interruptions. Which Amazon EC2 instance purchasing option will meet these requirements MOST cost-effectively?
 
 A. Spot Instances
-(X)B. Reserved Instances Most Voted
+
+**B. Reserved Instances Most Voted**
+
 C. Dedicated Hosts
+
 D. On-Demand Instances
 
-267. Which AWS service or resource can provide discounts on some AWS service costs in exchange for a spending commitment?
+## 267. Which AWS service or resource can provide discounts on some AWS service costs in exchange for a spending commitment?
 
 A. Amazon Detective
+
 B. AWS Pricing Calculator
-(X)C. Savings Plans
+
+**C. Savings Plans**
+
 D. Basic Support
 
-268. Which of the following are pillars of the AWS Well-Architected Framework? (Choose two.)
+## 268. Which of the following are pillars of the AWS Well-Architected Framework? (Choose two.)
 
 A. High availability
-(X)B. Performance efficiency
+
+**B. Performance efficiency**
+
 C. Cost optimization
+
 D. Going global in minutes
+
 E. Continuous development
 
-269. A company wants to use Amazon EC2 instances to provide a static website to users all over the world. The company needs to minimize latency for the users. Which solution meets these requirements?
+## 269. A company wants to use Amazon EC2 instances to provide a static website to users all over the world. The company needs to minimize latency for the users. Which solution meets these requirements?
 
 A. Use EC2 instances in multiple edge locations.
+
 B. Use EC2 instances in the same Availability Zone but in different AWS Regions.
-(X)C. Use Amazon CloudFront with the EC2 instances configured as the source.
+
+**C. Use Amazon CloudFront with the EC2 instances configured as the source.**
+
 D. Use EC2 instances in the same Availability Zone but in different AWS accounts.
 
-270. A team of researchers is going to collect data at remote locations around the world. Many locations do not have internet connectivity. The team needs to capture the data in the field, and transfer it to the AWS Cloud later. Which AWS service will support these requirements?
+## 270. A team of researchers is going to collect data at remote locations around the world. Many locations do not have internet connectivity. The team needs to capture the data in the field, and transfer it to the AWS Cloud later. Which AWS service will support these requirements?
 
 A. AWS Outposts
+
 B. AWS Transfer Family
-(X)C. AWS Snow Family
+
+**C. AWS Snow Family**
+
 D. AWS Migration Hub
 
-271. Which of the following are benefits that a company receives when it moves an on-premises production workload to AWS? (Choose two.)
+## 271. Which of the following are benefits that a company receives when it moves an on-premises production workload to AWS? (Choose two.)
 
 A. AWS trains the company's staff on the use of all the AWS services.
+
 B. AWS manages all security in the cloud.
+
 C. AWS offers free support from technical account managers (TAMs).
+
 D. AWS offers high availability.
+
 E. AWS provides economies of scale.
 
-272. A company has decided to adopt Amazon EC2 infrastructure and wants to scale various stateless services for short-term usage. Which EC2 pricing model is MOST cost-efficient to meet these requirements?
+## 272. A company has decided to adopt Amazon EC2 infrastructure and wants to scale various stateless services for short-term usage. Which EC2 pricing model is MOST cost-efficient to meet these requirements?
 
 A. Spot Instances
 B. On-Demand Instances
 C. Reserved Instances
 D. Dedicated Hosts
 
-273. Which of the following are benefits of AWS Trusted Advisor? (Choose two.)
+## 273. Which of the following are benefits of AWS Trusted Advisor? (Choose two.)
 
 A. Access to Amazon Simple Queue Service (Amazon SQS)
+
 B. Cost optimization recommendations
+
 C. Hourly refresh of the service limit checks
+
 D. Security checks
+
 E. AWS Identity and Access Management (IAM) approval management
 
-274. A company wants to save costs by archiving data that is no longer frequently accessed by end users. Which Amazon S3 feature will meet this requirement?
+## 274. A company wants to save costs by archiving data that is no longer frequently accessed by end users. Which Amazon S3 feature will meet this requirement?
 
 A. S3 Versioning
-(X)B. S3 Lifecycle
+
+**B. S3 Lifecycle**
+
 C. S3 Object Lock
+
 D. S3 Inventory
 
-275. Which cloud computing advantage is a company applying when it uses AWS Regions to increase application availability to users in different countries?
+## 275. Which cloud computing advantage is a company applying when it uses AWS Regions to increase application availability to users in different countries?
 
 A. Pay-as-you-go pricing
+
 B. Capacity forecasting
+
 C. Economies of scale
-(X)D. Global reach
+
+**D. Global reach**
 
 276. A company wants an AWS service to collect and process 10 TB of data locally and transfer the data to AWS. The company has intermittent connectivity.
 
