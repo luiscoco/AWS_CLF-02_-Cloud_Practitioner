@@ -1892,276 +1892,383 @@ C. AWS Cloud9
 
 **D. AWS CloudShell**
 
-190. A company wants to migrate its database to a managed AWS service that is compatible with PostgreSQL.
-Which AWS services will meet these requirements? (Choose two.)
+## 190. A company wants to migrate its database to a managed AWS service that is compatible with PostgreSQL. Which AWS services will meet these requirements? (Choose two.)
 
 A. Amazon Athena
-(X)B. Amazon RDS
-C. Amazon EC2
-D. Amazon DynamoDB
-(X)E. Amazon Aurora
 
-191. A company has a fleet of cargo ships. The cargo ships have sensors that collect data at sea, where there is intermittent or no internet connectivity. The company needs to collect, format, and process the data at sea and move the data to AWS later. Which AWS service should the company use to meet these requirements?
+**B. Amazon RDS**
+
+C. Amazon EC2
+
+D. Amazon DynamoDB
+
+**E. Amazon Aurora**
+
+## 191. A company has a fleet of cargo ships. The cargo ships have sensors that collect data at sea, where there is intermittent or no internet connectivity. The company needs to collect, format, and process the data at sea and move the data to AWS later. Which AWS service should the company use to meet these requirements?
 
 A. AWS IoT Core
-B. Amazon Lightsail
-C. AWS Storage Gateway
-(X)D. AWS Snowball Edge
 
-192. A company hosts an application on multiple Amazon EC2 instances. The application uses Amazon Simple Notification Service (Amazon SNS) to send messages. Which AWS service or feature will give the application permission to access required AWS services?
+B. Amazon Lightsail
+
+C. AWS Storage Gateway
+
+**D. AWS Snowball Edge**
+
+## 192. A company hosts an application on multiple Amazon EC2 instances. The application uses Amazon Simple Notification Service (Amazon SNS) to send messages. Which AWS service or feature will give the application permission to access required AWS services?
 
 A. AWS Certificate Manager (ACM)
-(X)B. IAM roles
+
+**B. IAM roles**
+
 C. AWS Security Hub
+
 D. Amazon GuardDuty
 
-193. A user has limited knowledge of AWS services, but wants to quickly deploy a scalable Node.js application in the AWS Cloud. Which service should be used to deploy the application?
+## 193. A user has limited knowledge of AWS services, but wants to quickly deploy a scalable Node.js application in the AWS Cloud. Which service should be used to deploy the application?
 
 A. AWS CloudFormation
-(X)B. AWS Elastic Beanstalk
+
+**B. AWS Elastic Beanstalk**
+
 C. Amazon EC2
+
 D. AWS OpsWorks
 
-194. A company needs a content delivery network that provides secure delivery of data, videos, applications, and APIs to users globally with low latency and high transfer speeds. Which AWS service meets these requirements?
+## 194. A company needs a content delivery network that provides secure delivery of data, videos, applications, and APIs to users globally with low latency and high transfer speeds. Which AWS service meets these requirements?
 
-(X)A. Amazon CloudFront
+**A. Amazon CloudFront**
+
 B. Elastic Load Balancing
+
 C. Amazon S3
+
 D. Amazon Elastic Transcoder
 
-195. A company needs to use third-party software for its workload on AWS. Which AWS service or feature can the company use to purchase the software?
+## 195. A company needs to use third-party software for its workload on AWS. Which AWS service or feature can the company use to purchase the software?
 
 A. AWS Resource Access Manager
-B. AWS Managed Services
-C. AWS License Manager
-(X)D. AWS Marketplace
 
-196. A company needs fully managed, highly reliable, and scalable file storage that is accessible over the Server Message Block (SMB) protocol. Which AWS service will meet these requirements?
+B. AWS Managed Services
+
+C. AWS License Manager
+
+**D. AWS Marketplace**
+
+## 196. A company needs fully managed, highly reliable, and scalable file storage that is accessible over the Server Message Block (SMB) protocol. Which AWS service will meet these requirements?
 
 A. Amazon S3
+
 B. Amazon Elastic File System (Amazon EFS)
-(X)C. Amazon FSx for Windows File Server
+
+**C. Amazon FSx for Windows File Server**
+
 D. Amazon Elastic Block Store (Amazon EBS)
 
-197. A company needs to centrally configure and manage Amazon VPC security groups across multiple AWS accounts within an organization in AWS Organizations. Which AWS service should the company use to meet these requirements?
+## 197. A company needs to centrally configure and manage Amazon VPC security groups across multiple AWS accounts within an organization in AWS Organizations. Which AWS service should the company use to meet these requirements?
 
-(X)A. AWS Firewall Manager
+**A. AWS Firewall Manager**
+
 B. Amazon GuardDuty
+
 C. Amazon Detective
+
 D. AWS WAF
 
-198. Which task is a responsibility of AWS, according to the AWS shared responsibility model?
+## 198. Which task is a responsibility of AWS, according to the AWS shared responsibility model?
 
 A. Configure identity and access management for applications.
-B. Manage encryption options for data that is stored on AWS.
-C. Configure security groups for Amazon EC2 instances.
-(X)D. Maintain the physical hardware of the infrastructure.
 
-199. A company has an Amazon EC2 instance in a private subnet. The company wants to initiate a connection to the internet to pull operating system updates while preventing traffic from the internet from accessing the EC2 instance. Which AWS managed service allows this?
+B. Manage encryption options for data that is stored on AWS.
+
+C. Configure security groups for Amazon EC2 instances.
+
+**D. Maintain the physical hardware of the infrastructure.**
+
+## 199. A company has an Amazon EC2 instance in a private subnet. The company wants to initiate a connection to the internet to pull operating system updates while preventing traffic from the internet from accessing the EC2 instance. Which AWS managed service allows this?
 
 A. VPC endpoint
-(X)B. NAT gateway
+
+**B. NAT gateway**
+
 C. Amazon PrivateLink
+
 D. VPC peering
 
-200. Which actions are the responsibility of AWS, according to the AWS shared responsibility model? (Choose two.)
+## 200. Which actions are the responsibility of AWS, according to the AWS shared responsibility model? (Choose two.)
 
-(X)A. Securing the virtualization layer
+**A. Securing the virtualization layer**
+
 B. Patching the operating system on Amazon EC2 instances
+
 C. Enforcing a strict password policy for IAM users
-(X)D. Patching the operating system on Amazon RDS instances
+
+**D. Patching the operating system on Amazon RDS instances**
+
 E. Configuring security groups and network ACLs
 
-201. A company is storing data that will not be frequently accessed in the AWS Cloud. If the company needs to access the data, the data needs to be retrieved within 12 hours. The company wants a solution that is cost-effective for storage costs for each gigabyte. Which Amazon S3 storage class will meet these requirements?
+## 201. A company is storing data that will not be frequently accessed in the AWS Cloud. If the company needs to access the data, the data needs to be retrieved within 12 hours. The company wants a solution that is cost-effective for storage costs for each gigabyte. Which Amazon S3 storage class will meet these requirements?
 
 A. S3 Standard
+
 B. S3 Glacier Flexible Retrieval
+
 C. S3 One Zone-Infrequent Access (S3 One Zone-IA)
+
 D. S3 Standard-Infrequent Access (S3 Standard-IA)
 
-202. Which AWS service or resource can be used to identify services that have been used by a user within a specified date range?
+## 202. Which AWS service or resource can be used to identify services that have been used by a user within a specified date range?
 
 A. Amazon S3 access control lists (ACLs)
+
 B. AWS Certificate Manager (ACM)
+
 C. Network Access Analyzer
+
 D. AWS Identity and Access Management Access Analyzer
 
-203. A company needs to engage third-party consultants to help maintain and support its AWS environment and the company’s business needs. Which AWS service or resource will meet these requirements?
+## 203. A company needs to engage third-party consultants to help maintain and support its AWS environment and the company’s business needs. Which AWS service or resource will meet these requirements?
 
 A. AWS Support
+
 B. AWS Organizations
+
 C. AWS Service Catalog
+
 D. AWS Partner Network (APN)
 
-204. A company wants to create Amazon QuickSight dashboards every week by using its billing data.
-Which AWS feature or tool can the company use to meet these requirements?
+## 204. A company wants to create Amazon QuickSight dashboards every week by using its billing data. Which AWS feature or tool can the company use to meet these requirements?
 
 A. AWS Budgets
+
 B. AWS Cost Explorer
-(X)C. AWS Cost and Usage Report
+
+**C. AWS Cost and Usage Report**
+
 D. AWS Cost Anomaly Detection
 
 205. A company is planning to move data backups to the AWS Cloud. The company needs to replace on-premises storage with storage that is cloud-based but locally cached. Which AWS service meets these requirements?
 
 A. AWS Storage Gateway
+
 B. AWS Snowcone
+
 C. AWS Backup
+
 D. Amazon Elastic File System (Amazon EFS)
 
-206. A company needs to organize its resources and track AWS costs on a detailed level. The company needs to categorize costs by business department, environment, and application. Which solution will meet these requirements?
+## 206. A company needs to organize its resources and track AWS costs on a detailed level. The company needs to categorize costs by business department, environment, and application. Which solution will meet these requirements?
 
 A. Access the AWS Cost Management console to organize resources, set an AWS budget, and receive notifications of unintentional usage.
+
 B. Use tags to organize the resources. Activate cost allocation tags to track AWS costs on a detailed level.
+
 C. Create Amazon CloudWatch dashboards to visually organize and track costs individually.
+
 D. Access the AWS Billing and Cost Management dashboard to organize and track resource consumption on a detailed level.
 
-207. A company needs to plan, schedule, and run hundreds of thousands of computing jobs on AWS.
-Which AWS service can the company use to meet this requirement?
+## 207. A company needs to plan, schedule, and run hundreds of thousands of computing jobs on AWS. Which AWS service can the company use to meet this requirement?
 
 A. AWS Step Functions
+
 B. AWS Service Catalog
+
 C. Amazon Simple Queue Service (Amazon SQS)
-(X)D. AWS Batch
 
-208. Which AWS services or features provide high availability and low latency by enabling failover across different AWS Regions? (Choose two.)
+**D. AWS Batch**
 
-(X)A. Amazon Route 53
+## 208. Which AWS services or features provide high availability and low latency by enabling failover across different AWS Regions? (Choose two.)
+
+**A. Amazon Route 53**
+
 B. Network Load Balancer
+
 C. Amazon S3 Transfer Acceleration
-(X)D. AWS Global Accelerator
+
+**D. AWS Global Accelerator**
+
 E. Application Load Balancer
 
-209. Which of the following is a way to use Amazon EC2 Auto Scaling groups to scale capacity in the AWS Cloud?
+## 209. Which of the following is a way to use Amazon EC2 Auto Scaling groups to scale capacity in the AWS Cloud?
 
-(X)A. Scale the number of EC2 instances in or out automatically, based on demand.
+**A. Scale the number of EC2 instances in or out automatically, based on demand.**
+
 B. Use serverless EC2 instances.
+
 C. Scale the size of EC2 instances up or down automatically, based on demand.
+
 D. Transfer unused CPU resources between EC2 instances.
 
-210. Which abilities are benefits of the AWS Cloud? (Choose two.)
+## 210. Which abilities are benefits of the AWS Cloud? (Choose two.)
 
 A. Trade variable expenses for capital expenses.
-(X)B. Deploy globally in minutes.
+
+**B. Deploy globally in minutes.**
+
 C. Plan capacity in advance of deployments.
-(X)D. Take advantage of economies of scale.
+
+**D. Take advantage of economies of scale.**
+
 E. Reduce dependencies on network connectivity.
 
-211. Which AWS security service protects applications from distributed denial of service attacks with always-on detection and automatic inline mitigations?
+## 211. Which AWS security service protects applications from distributed denial of service attacks with always-on detection and automatic inline mitigations?
 
 A. Amazon Inspector
+
 B. AWS Web Application Firewall (AWS WAF)
+
 C. Elastic Load Balancing (ELB)
-(X)D. AWS Shield
 
-212. Which AWS service allows users to model and provision AWS resources using common programming languages?
+**D. AWS Shield**
 
-(X)A. AWS CloudFormation
+## 212. Which AWS service allows users to model and provision AWS resources using common programming languages?
+
+## A. AWS CloudFormation
+
 B. AWS CodePipeline
+
 C. AWS Cloud Development Kit (AWS CDK)
+
 D. AWS Systems Manager
 
-213. Which Amazon EC2 instance pricing model can provide discounts of up to 90%?
+## 213. Which Amazon EC2 instance pricing model can provide discounts of up to 90%?
 
 A. Reserved Instances
-B. On-Demand
-C. Dedicated Hosts
-(X)D. Spot Instances
 
-214. Which of the following acts as an instance-level firewall to control inbound and outbound access?
+B. On-Demand
+
+C. Dedicated Hosts
+
+**D. Spot Instances**
+
+## 214. Which of the following acts as an instance-level firewall to control inbound and outbound access?
 
 A. Network access control list
-(X)B. Security groups
+
+**B. Security groups**
+
 C. AWS Trusted Advisor
+
 D. Virtual private gateways
 
-215. A company must be able to develop, test, and launch an application in the AWS Cloud quickly.
-Which advantage of cloud computing will meet these requirements?
+## 215. A company must be able to develop, test, and launch an application in the AWS Cloud quickly. Which advantage of cloud computing will meet these requirements?
 
 A. Stop guessing capacity
-B. Trade fixed expense for variable expense
-C. Achieve economies of scale
-(X)D. Increase speed and agility
 
-216. A company has teams that have different job roles and responsibilities. The company’s employees often change teams. The company needs to manage permissions for the employees so that the permissions are appropriate for the job responsibilities. Which IAM resource should the company use to meet this requirement with the LEAST operational overhead?
+B. Trade fixed expense for variable expense
+
+C. Achieve economies of scale
+
+**D. Increase speed and agility**
+
+## 216. A company has teams that have different job roles and responsibilities. The company’s employees often change teams. The company needs to manage permissions for the employees so that the permissions are appropriate for the job responsibilities. Which IAM resource should the company use to meet this requirement with the LEAST operational overhead?
 
 A. IAM user groups
-(X)B. IAM roles
+
+**B. IAM roles**
+
 C. IAM instance profiles
+
 D. IAM policies for individual users
 
-217. Which AWS service can a company use to securely store and encrypt passwords for a database?
+## 217. Which AWS service can a company use to securely store and encrypt passwords for a database?
 
 A. AWS Shield
-(X)B. AWS Secrets Manager
+
+**B. AWS Secrets Manager**
+
 C. AWS Identity and Access Management (IAM)
+
 D. Amazon Cognito
 
-218. What can a cloud practitioner use to retrieve AWS security and compliance documents and submit them as evidence to an auditor or regulator?
+## 218. What can a cloud practitioner use to retrieve AWS security and compliance documents and submit them as evidence to an auditor or regulator?
 
 A. AWS Certificate Manager
 B. AWS Systems Manager
 (X)C. AWS Artifact
 D. Amazon Inspector
 
-219. Which encryption types can be used to protect objects at rest in Amazon S3? (Choose two.)
+## 219. Which encryption types can be used to protect objects at rest in Amazon S3? (Choose two.)
 
-(X)A. Server-side encryption with Amazon S3 managed encryption keys (SSE-S3)
-(X)B. Server-side encryption with AWS KMS managed keys (SSE-KMS)
+**A. Server-side encryption with Amazon S3 managed encryption keys (SSE-S3)**
+
+**B. Server-side encryption with AWS KMS managed keys (SSE-KMS)**
+
 C. TLS
+
 D. SSL
+
 E. Transparent Data Encryption (TDE)
 
-220. A company wants to integrate its online shopping website with social media login credentials.
-Which AWS service can the company use to make this integration?
+## 220. A company wants to integrate its online shopping website with social media login credentials. Which AWS service can the company use to make this integration?
 
 A. AWS Directory Service
+
 B. AWS Identity and Access Management (IAM)
-(X)C. Amazon Cognito
+
+**C. Amazon Cognito**
+
 D. AWS IAM Identity Center (AWS Single Sign-On)
 
-221. Which AWS service is used to track, record, and audit configuration changes made to AWS resources?
+## 221. Which AWS service is used to track, record, and audit configuration changes made to AWS resources?
 
 A. AWS Shield
+
 B. AWS Config
+
 C. AWS IAM
+
 D. Amazon Inspector
 
-222. A customer runs an On-Demand Amazon Linux EC2 instance for 3 hours, 5 minutes, and 6 seconds.
-For how much time will the customer be billed?
+## 222. A customer runs an On-Demand Amazon Linux EC2 instance for 3 hours, 5 minutes, and 6 seconds. For how much time will the customer be billed?
 
 A. 3 hours, 5 minutes
-(X)B. 3 hours, 5 minutes, and 6 seconds
+
+**B. 3 hours, 5 minutes, and 6 seconds**
+
 C. 3 hours, 6 minutes
+
 D. 4 hours
 
-223. A company website is experiencing DDoS attacks.
-Which AWS service can help protect the company website against these attacks?
+## 223. A company website is experiencing DDoS attacks. Which AWS service can help protect the company website against these attacks?
 
 A. AWS Resource Access Manager
+
 B. AWS Amplify
-(X)C. AWS Shield
+
+**C. AWS Shield**
+
 D. Amazon GuardDuty
 
-224. A company wants a customized assessment of its current on-premises environment. The company wants to understand its projected running costs in the AWS Cloud. Which AWS service or tool will meet these requirements?
+## 224. A company wants a customized assessment of its current on-premises environment. The company wants to understand its projected running costs in the AWS Cloud. Which AWS service or tool will meet these requirements?
 
 A. AWS Trusted Advisor
+
 B. Amazon Inspector
+
 C. AWS Control Tower
-(X)D. Migration Evaluator
 
-225. A company that has multiple business units wants to centrally manage and govern its AWS Cloud environments. The company wants to automate the creation of AWS accounts, apply service control policies (SCPs), and simplify billing processes. Which AWS service or tool should the company use to meet these requirements?
+**D. Migration Evaluator**
 
-(X)A. AWS Organizations
+## 225. A company that has multiple business units wants to centrally manage and govern its AWS Cloud environments. The company wants to automate the creation of AWS accounts, apply service control policies (SCPs), and simplify billing processes. Which AWS service or tool should the company use to meet these requirements?
+
+**A. AWS Organizations**
+
 B. Cost Explorer
+
 C. AWS Budgets
+
 D. AWS Trusted Advisor
 
-226. A company is hosting an application in the AWS Cloud. The company wants to verify that underlying AWS services and general AWS infrastructure are operating normally. Which combination of AWS services can the company use to gather the required information? (Choose two.)
+## 226. A company is hosting an application in the AWS Cloud. The company wants to verify that underlying AWS services and general AWS infrastructure are operating normally. Which combination of AWS services can the company use to gather the required information? (Choose two.)
 
-(X)A. AWS Personal Health Dashboard
+**A. AWS Personal Health Dashboard**
+
 B. AWS Systems Manager
+
 C. AWS Trusted Advisor
-(X)D. AWS Service Health Dashboard
+
+**D. AWS Service Health Dashboard**
+
 E. AWS Service Catalog
 
 227. A company needs to migrate a PostgreSQL database from on-premises to Amazon RDS.
