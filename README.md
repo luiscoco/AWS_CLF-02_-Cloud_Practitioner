@@ -208,7 +208,7 @@ C. Spot Instances
 
 D. Spot Fleet
 
-21. Which AWS service or feature allows a user to establish a dedicated network connection between a company’s on-premises data center and the AWS Cloud?
+## 21. Which AWS service or feature allows a user to establish a dedicated network connection between a company’s on-premises data center and the AWS Cloud?
 
 A. AWS Direct Connect
 
@@ -218,7 +218,7 @@ C. AWS VPN
 
 D. Amazon Route 53
 
-22. Which option is a physical location of the AWS global infrastructure?
+## 22. Which option is a physical location of the AWS global infrastructure?
 
 A. AWS DataSync
 
@@ -228,7 +228,7 @@ C. Amazon Connect
 
 D. AWS Organizations
 
-23. A company wants to protect its AWS Cloud information, systems, and assets while performing risk assessment and mitigation tasks. Which pillar of the AWS Well-Architected Framework is supported by these goals?
+## 23. A company wants to protect its AWS Cloud information, systems, and assets while performing risk assessment and mitigation tasks. Which pillar of the AWS Well-Architected Framework is supported by these goals?
 
 A. Reliability
 
@@ -238,7 +238,7 @@ C. Operational excellence
 
 D. Performance efficiency
 
-24. What is the purpose of having an internet gateway within a VPC?
+## 24. What is the purpose of having an internet gateway within a VPC?
 
 A. To create a VPN connection to the VPC
 
@@ -248,7 +248,7 @@ C. To impose bandwidth constraints on internet traffic
 
 D. To load balance traffic from the internet across Amazon EC2 instances
 
-25. A company is running a monolithic on-premises application that does not scale and is difficult to maintain. The company has a plan to migrate the application to AWS and divide the application into microservices. Which best practice of the AWS Well-Architected Framework is the company following with this plan?
+## 25. A company is running a monolithic on-premises application that does not scale and is difficult to maintain. The company has a plan to migrate the application to AWS and divide the application into microservices. Which best practice of the AWS Well-Architected Framework is the company following with this plan?
 
 A. Integrate functional testing as part of AWS deployment.
 
@@ -258,7 +258,7 @@ C. Deploy the application to multiple locations.
 
 D. Implement loosely coupled dependencies.
 
-26. A company has an AWS account. The company wants to audit its password and access key rotation details for compliance purposes. Which AWS service or tool will meet this requirement?
+## 26. A company has an AWS account. The company wants to audit its password and access key rotation details for compliance purposes. Which AWS service or tool will meet this requirement?
 
 A. IAM Access Analyzer
 
@@ -268,7 +268,7 @@ C. IAM credential report
 
 D. AWS Audit Manager
 
-27. A company wants to receive a notification when a specific AWS cost threshold is reached. Which AWS services or tools can the company use to meet this requirement? (Choose two.)
+## 27. A company wants to receive a notification when a specific AWS cost threshold is reached. Which AWS services or tools can the company use to meet this requirement? (Choose two.)
 
 A. Amazon Simple Queue Service (Amazon SQS)
 
@@ -344,12 +344,16 @@ C. On-Demand Instances
 
 D. Dedicated Instances
 
-34. What does the concept of agility mean in AWS Cloud computing? (Choose two.)
+## 34. What does the concept of agility mean in AWS Cloud computing? (Choose two.)
 
 A. The speed at which AWS resources are implemented
+
 B. The speed at which AWS creates new AWS Regions
+
 C. The ability to experiment quickly
+
 D. The elimination of wasted capacity
+
 E. The low cost of entry into cloud computing
 
 ## 35. A company needs to block SQL injection attacks. Which AWS service or feature can meet this requirement?
@@ -414,176 +418,232 @@ D. The pay-as-you-go billing model
 
 E. How easily resources can be procured when they are needed
 
-41. Which service enables customers to audit API calls in their AWS accounts?
+## 41. Which service enables customers to audit API calls in their AWS accounts?
 
 A. AWS CloudTrail
+
 B. AWS Trusted Advisor
+
 C. Amazon Inspector
+
 D. AWS X-Ray
 
-42. What is a customer responsibility when using AWS Lambda according to the AWS shared responsibility model?
+## 42. What is a customer responsibility when using AWS Lambda according to the AWS shared responsibility model?
 
 A. Managing the code within the Lambda function
+
 B. Confirming that the hardware is working in the data center
+
 C. Patching the operating system
+
 D. Shutting down Lambda functions when they are no longer in use
 
-43. A company has 5 TB of data stored in Amazon S3. The company plans to occasionally run queries on the data for analysis.
-Which AWS service should the company use to run these queries in the MOST cost-effective manner?
+## 43. A company has 5 TB of data stored in Amazon S3. The company plans to occasionally run queries on the data for analysis. Which AWS service should the company use to run these queries in the MOST cost-effective manner?
 
 A. Amazon Redshift
+
 B. Amazon Athena
+
 C. Amazon Kinesis
+
 D. Amazon RDS
 
-44. Which AWS service can be used at no additional cost?
+## 44. Which AWS service can be used at no additional cost?
 
 A. Amazon SageMaker
 B. AWS Config
 C. AWS Organizations
 D. Amazon CloudWatch
 
-45. Which AWS Cloud Adoption Framework (AWS CAF) capability belongs to the people perspective?
+## 45. Which AWS Cloud Adoption Framework (AWS CAF) capability belongs to the people perspective?
 
 A. Data architecture
+
 B. Event management
+
 C. Cloud fluency
+
 D. Strategic partnership
 
-46. A company wants to make an upfront commitment for continued use of its production Amazon EC2 instances in exchange for a reduced overall cost.
-Which pricing options meet these requirements with the LOWEST cost? (Choose two.)
+## 46. A company wants to make an upfront commitment for continued use of its production Amazon EC2 instances in exchange for a reduced overall cost. Which pricing options meet these requirements with the LOWEST cost? (Choose two.)
 
 A. Spot Instances
+
 B. On-Demand Instances
+
 C. Reserved Instances
+
 D. Savings Plans
+
 E. Dedicated Hosts
 
-47. A company wants to migrate its on-premises relational databases to the AWS Cloud. The company wants to use infrastructure as close to its current geographical location as possible.
-Which AWS service or resource should the company use to select its Amazon RDS deployment area?
+## 47. A company wants to migrate its on-premises relational databases to the AWS Cloud. The company wants to use infrastructure as close to its current geographical location as possible. Which AWS service or resource should the company use to select its Amazon RDS deployment area?
 
 A. Amazon Connect
+
 B. AWS Wavelength
+
 C. AWS Regions
+
 D. AWS Direct Connect
 
-48. A company is exploring the use of the AWS Cloud, and needs to create a cost estimate for a project before the infrastructure is provisioned.
-Which AWS service or feature can be used to estimate costs before deployment?
+## 48. A company is exploring the use of the AWS Cloud, and needs to create a cost estimate for a project before the infrastructure is provisioned. Which AWS service or feature can be used to estimate costs before deployment?
 
 A. AWS Free Tier
+
 B. AWS Pricing Calculator
+
 C. AWS Billing and Cost Management
+
 D. AWS Cost and Usage Report
 
-49. A company is building an application that needs to deliver images and videos globally with minimal latency.
-Which approach can the company use to accomplish this in a cost effective manner?
+## 49. A company is building an application that needs to deliver images and videos globally with minimal latency. Which approach can the company use to accomplish this in a cost effective manner?
 
 A. Deliver the content through Amazon CloudFront.
+
 B. Store the content on Amazon S3 and enable S3 cross-region replication.
+
 C. Implement a VPN across multiple AWS Regions.
+
 D. Deliver the content through AWS PrivateLink.
 
-50. Which option is a benefit of the economies of scale based on the advantages of cloud computing?
+## 50. Which option is a benefit of the economies of scale based on the advantages of cloud computing?
 
 A. The ability to trade variable expense for fixed expense
+
 B. Increased speed and agility
+
 C. Lower variable costs over fixed costs
+
 D. Increased operational costs across data centers
 
-51. Which of the following is a software development framework that a company can use to define cloud resources as code and provision the resources through AWS CloudFormation?
+## 51. Which of the following is a software development framework that a company can use to define cloud resources as code and provision the resources through AWS CloudFormation?
 
 A. AWS CLI
+
 B. AWS Developer Center
+
 C. AWS Cloud Development Kit (AWS CDK)
+
 D. AWS CodeStar
 
-52. A company is developing an application that uses multiple AWS services. The application needs to use temporary, limited-privilege credentials for authentication with other AWS APIs.
-Which AWS service or feature should the company use to meet these authentication requirements?
+## 52. A company is developing an application that uses multiple AWS services. The application needs to use temporary, limited-privilege credentials for authentication with other AWS APIs. Which AWS service or feature should the company use to meet these authentication requirements?
 
 A. Amazon API Gateway
+
 B. IAM users
+
 C. AWS Security Token Service (AWS STS)
+
 D. IAM instance profiles
 
-53. Which AWS service is a cloud security posture management (CSPM) service that aggregates alerts from various AWS services and partner products in a standardized format?
+## 53. Which AWS service is a cloud security posture management (CSPM) service that aggregates alerts from various AWS services and partner products in a standardized format?
 
 A. AWS Security Hub
+
 B. AWS Trusted Advisor
+
 C. Amazon EventBridge
+
 D. Amazon GuardDuty
 
-54. Which AWS service is always provided at no charge?
+## 54. Which AWS service is always provided at no charge?
 
 A. Amazon S3
+
 B. AWS Identity and Access Management (IAM)
+
 C. Elastic Load Balancers
+
 D. AWS WAF
 
-55. To reduce costs, a company is planning to migrate a NoSQL database to AWS.
-Which AWS service is fully managed and can automatically scale throughput capacity to meet database workload demands?
+## 55. To reduce costs, a company is planning to migrate a NoSQL database to AWS. Which AWS service is fully managed and can automatically scale throughput capacity to meet database workload demands?
 
 A. Amazon Redshift
+
 B. Amazon Aurora
+
 C. Amazon DynamoDB
+
 D. Amazon RDS
 
-56. A company is using Amazon DynamoDB.
-Which task is the company’s responsibility, according to the AWS shared responsibility model?
+## 56. A company is using Amazon DynamoDB. Which task is the company’s responsibility, according to the AWS shared responsibility model?
 
 A. Patch the operating system.
 B. Provision hosts.
 C. Manage database access permissions.
 D. Secure the operating system.
 
-57. A company has a test AWS environment. A company is planning on testing an application within AWS. The application testing can be interrupted and does not need to run continuously.
-Which Amazon EC2 purchasing option will meet these requirements MOST cost-effectively?
+## 57. A company has a test AWS environment. A company is planning on testing an application within AWS. The application testing can be interrupted and does not need to run continuously. Which Amazon EC2 purchasing option will meet these requirements MOST cost-effectively?
 
 A. On-Demand Instances
+
 B. Dedicated Instances
+
 C. Spot Instances
+
 D. Reserved Instances
 
-58. Which AWS service gives users the ability to discover and protect sensitive data that is stored in Amazon S3 buckets?
+## 58. Which AWS service gives users the ability to discover and protect sensitive data that is stored in Amazon S3 buckets?
 
 A. Amazon Macie
+
 B. Amazon Detective
+
 C. Amazon GuardDuty
+
 D. AWS IAM Access Analyzer
 
-59. Which of the following services can be used to block network traffic to an instance? (Choose two.)
+## 59. Which of the following services can be used to block network traffic to an instance? (Choose two.)
 
 A. Security groups
+
 B. Amazon Virtual Private Cloud (Amazon VPC) flow logs
+
 C. Network ACLs
+
 D. Amazon CloudWatch
+
 E. AWS CloudTrail
 
-60. Which AWS service can identify when an Amazon EC2 instance was terminated?
+## 60. Which AWS service can identify when an Amazon EC2 instance was terminated?
 
 A. AWS Identity and Access Management (IAM)
+
 B. AWS CloudTrail
+
 C. AWS Compute Optimizer
+
 D. Amazon EventBridge
 
-61. Which of the following is a fully managed MySQL-compatible database?
+## 61. Which of the following is a fully managed MySQL-compatible database?
 
 A. Amazon S3
+
 B. Amazon DynamoDB
+
 C. Amazon Redshift
-(X) D. Amazon Aurora
+
+**D. Amazon Aurora**
 
 62. Which AWS service supports a hybrid architecture that gives users the ability to extend AWS infrastructure, AWS services, APIs, and tools to data centers, co-location environments, or on-premises facilities?
 
 A. AWS Snowmobile
+
 B. AWS Local Zones
+
 C. AWS Outposts
+
 D. AWS Fargate
 
-63. Which AWS service can run a managed PostgreSQL database that provides online transaction processing (OLTP)?
+## 63. Which AWS service can run a managed PostgreSQL database that provides online transaction processing (OLTP)?
 
 A. Amazon DynamoDB
+
 B. Amazon Athena
+
 C. Amazon RDS
+
 D. Amazon EMR
 
 ## 64. A company wants to provide managed Windows virtual desktops and applications to its remote employees over secure network connections. Which AWS services can the company use to meet these requirements? (Choose two.)
@@ -769,15 +829,19 @@ B. Elastic Load Balancing
 
 D. Amazon Kinesis Data Streams
 
-82. What are the benefits of consolidated billing for AWS Cloud services? (Choose two.)
+## 82. What are the benefits of consolidated billing for AWS Cloud services? (Choose two.)
 
-(X) A. Volume discounts
+**A. Volume discounts**
+
 B. A minimal additional fee for use
-(X) C. One bill for multiple accounts
+
+**C. One bill for multiple accounts**
+
 D. Installment payment options
+
 E. Custom cost and usage budget creation
 
-83. A user wants to review all Amazon S3 buckets with ACLs and S3 bucket policies in the S3 console. Which AWS service or resource will meet this requirement?
+## 83. A user wants to review all Amazon S3 buckets with ACLs and S3 bucket policies in the S3 console. Which AWS service or resource will meet this requirement?
 
 A. S3 Multi-Region Access Points
 B. S3 Storage Lens
