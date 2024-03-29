@@ -1393,7 +1393,7 @@ B. Standard Reserved Instances
 
 D. Convertible Reserved Instances
 
-# #137. Which options are AWS Cloud Adoption Framework (AWS CAF) security perspective capabilities? (Choose two.)
+## 137. Which options are AWS Cloud Adoption Framework (AWS CAF) security perspective capabilities? (Choose two.)
 
 A. Observability
 
@@ -2809,76 +2809,99 @@ C. Economies of scale
 
 **D. Global reach**
 
-276. A company wants an AWS service to collect and process 10 TB of data locally and transfer the data to AWS. The company has intermittent connectivity.
-
-Which AWS service will meet these requirements?
+## 276. A company wants an AWS service to collect and process 10 TB of data locally and transfer the data to AWS. The company has intermittent connectivity. Which AWS service will meet these requirements?
 
 A. AWS Database Migration Service (AWS DMS)
-B. AWS DataSync
-C. AWS Backup
-(X)D. AWS Snowball Edge
 
-277. Which of the following is an AWS Well-Architected Framework design principle for operational excellence in the AWS Cloud?
+B. AWS DataSync
+
+C. AWS Backup
+
+**D. AWS Snowball Edge**
+
+## 277. Which of the following is an AWS Well-Architected Framework design principle for operational excellence in the AWS Cloud?
 
 A. Go global in minutes.
-(X)B. Make frequent, small, reversible changes.
+
+**B. Make frequent, small, reversible changes.**
+
 C. Implement a strong foundation of identity and access management
+
 D. Stop spending money on hardware infrastructure for data center operations.
 
-278. What is a benefit of using AWS serverless computing?
+## 278. What is a benefit of using AWS serverless computing?
 
 A. Application deployment and management are not required.
-B. Application security will be fully managed by AWS.
-C. Monitoring and logging are not needed.
-(X)D. Management of infrastructure is offloaded to AWS.
 
-279. A developer wants AWS users to access AWS services by using temporary security credentials.
-Which AWS service or feature should the developer use to provide these credentials?
+B. Application security will be fully managed by AWS.
+
+C. Monitoring and logging are not needed.
+
+**D. Management of infrastructure is offloaded to AWS.**
+
+## 279. A developer wants AWS users to access AWS services by using temporary security credentials. Which AWS service or feature should the developer use to provide these credentials?
 
 A. IAM policies
+
 B. IAM user groups
-(X)C. AWS Security Token Service (AWS STS)
+
+**C. AWS Security Token Service (AWS STS)**
+
 D. AWS IAM Identity Center (AWS Single Sign-On)
 
-280. A global company wants to use a managed security service for protection from SQL injection attacks. The service also must provide detailed logging information about access to the company's ecommerce applications. Which AWS service will meet these requirements?
+## 280. A global company wants to use a managed security service for protection from SQL injection attacks. The service also must provide detailed logging information about access to the company's ecommerce applications. Which AWS service will meet these requirements?
 
 A. AWS Network Firewall
+
 B. Amazon RDS for SQL Server
+
 C. Amazon GuardDuty
-(X)D. AWS WAF
 
-281. A company is migrating its on-premises server to an Amazon EC2 instance. The server must stay active at all times for the next 12 months.
+**D. AWS WAF**
 
-Which EC2 pricing option is the MOST cost-effective for the company's workload?
+## 281. A company is migrating its on-premises server to an Amazon EC2 instance. The server must stay active at all times for the next 12 months. Which EC2 pricing option is the MOST cost-effective for the company's workload?
 
 A. On-Demand
-B. Dedicated Hosts
-C. Spot Instances
-(X)D. Reserved Instances
 
-282. Which of the following is the customer's responsibility under the AWS shared responsibility model? (Choose two.)
+B. Dedicated Hosts
+
+C. Spot Instances
+
+**D. Reserved Instances**
+
+## 282. Which of the following is the customer's responsibility under the AWS shared responsibility model? (Choose two.)
 
 A. Maintain the configuration of infrastructure devices.
+
 B. Maintain patching and updates within the hardware infrastructure.
-(X)C. Maintain the configuration of guest operating systems and applications.
-(X)D. Manage decisions involving encryption options.
+
+**C. Maintain the configuration of guest operating systems and applications.**
+
+**D. Manage decisions involving encryption options.**
+
 E. Maintain infrastructure hardware.
 
-283. A company wants to verify if multi-factor authentication (MFA) is enabled for all users within its AWS accounts. Which AWS service or resource will meet this requirement?
+## 283. A company wants to verify if multi-factor authentication (MFA) is enabled for all users within its AWS accounts. Which AWS service or resource will meet this requirement?
 
 A. AWS Cost and Usage Report
-(X)B. IAM credential reports
+
+**B. IAM credential reports**
+
 C. AWS Artifact
+
 D. Amazon CloudFront reports
 
-284. A company uses AWS security services and tools. The company needs a service to help manage the security alerts and must organize the alerts into a single dashboard. Which AWS service should the company use to meet these requirements?
+## 284. A company uses AWS security services and tools. The company needs a service to help manage the security alerts and must organize the alerts into a single dashboard. Which AWS service should the company use to meet these requirements?
 
 A. Amazon GuardDuty
-B. Amazon Inspector
-C. Amazon Macie
-(X)D. AWS Security Hub
 
-285. A company wants to run its workloads in the AWS Cloud effectively, reduce management overhead, and improve processes. Which AWS Well-Architected Framework pillar represents these requirements?
+B. Amazon Inspector
+
+C. Amazon Macie
+
+**D. AWS Security Hub**
+
+## 285. A company wants to run its workloads in the AWS Cloud effectively, reduce management overhead, and improve processes. Which AWS Well-Architected Framework pillar represents these requirements?
 
 A. Reliability
 (X)B. Operational excellence
