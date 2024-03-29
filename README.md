@@ -894,31 +894,43 @@ D. Amazon FSx
 ## 88. Which responsibility belongs to AWS when a company hosts its databases on Amazon EC2 instances?
 
 A. Database backups
+
 B. Database software patches
+
 C. Operating system patches
+
 D. Operating system installations
 
-89. Which of the following are advantages of moving to the AWS Cloud? (Choose two.)
+## 89. Which of the following are advantages of moving to the AWS Cloud? (Choose two.)
 
 A. The ability to turn over the responsibility for all security to AWS.
+
 B. The ability to use the pay-as-you-go model.
+
 C. The ability to have full control over the physical infrastructure.
+
 D. No longer having to guess what capacity will be required.
+
 E. No longer worrying about users access controls.
 
-90. Which AWS service is a hybrid cloud storage service that provides on-premises users access to virtually unlimited cloud storage?
+## 90. Which AWS service is a hybrid cloud storage service that provides on-premises users access to virtually unlimited cloud storage?
 
 A. AWS DataSync
+
 B. Amazon S3 Glacier
-(X) C. AWS Storage Gateway
+
+**C. AWS Storage Gateway**
+
 D. Amazon Elastic Block Store (Amazon EBS)
 
-91. A company plans to migrate to AWS and wants to create cost estimates for its AWS use cases.
-Which AWS service or tool can the company use to meet these requirements?
+## 91. A company plans to migrate to AWS and wants to create cost estimates for its AWS use cases. Which AWS service or tool can the company use to meet these requirements?
 
 A. AWS Pricing Calculator
+
 B. Amazon CloudWatch
+
 C. AWS Cost Explorer
+
 D. AWS Budgets
 
 ## 92. Which tool should a developer use to integrate AWS service features directly into an application?
@@ -944,11 +956,14 @@ D. Use monolithic application design for centralization.
 ## 94. Using AWS Identity and Access Management (IAM) to grant access only to the resources needed to perform a task is a concept known as:
 
 A. restricted access.
+
 B. as-needed access.
+
 C. least privilege access.
+
 D. token access.
 
-95. Which AWS service or tool can be used to set up a firewall to control traffic going into and coming out of an Amazon VPC subnet?
+## 95. Which AWS service or tool can be used to set up a firewall to control traffic going into and coming out of an Amazon VPC subnet?
 
 A. Security group
 
@@ -958,8 +973,7 @@ C. AWS Firewall Manager
 
 D. Network ACL
 
-96. A company wants to operate a data warehouse to analyze data without managing the data warehouse infrastructure.
-Which AWS service will meet this requirement?
+## 96. A company wants to operate a data warehouse to analyze data without managing the data warehouse infrastructure. Which AWS service will meet this requirement?
 
 A. Amazon Aurora
 
@@ -1001,45 +1015,57 @@ B. Creation of security group rules for outbound access
 
 D. Application of Amazon EC2 operating system patches
 
-100. A company wants to automate infrastructure deployment by using infrastructure as code (IaC). The company wants to scale production stacks so the stacks can be deployed in multiple AWS Regions.
-Which AWS service will meet these requirements?
+## 100. A company wants to automate infrastructure deployment by using infrastructure as code (IaC). The company wants to scale production stacks so the stacks can be deployed in multiple AWS Regions. Which AWS service will meet these requirements?
 
 A. Amazon CloudWatch
+
 B. AWS Config
+
 C. AWS Trusted Advisor
-(X) D. AWS CloudFormation
+
+**D. AWS CloudFormation**
 
 101. Which option is an AWS Cloud Adoption Framework (AWS CAF) platform perspective capability?
 
 A. Data architecture
+
 B. Data protection
+
 C. Data governance
+
 D. Data science
 
-102. A company is running a workload in the AWS Cloud.
-Which AWS best practice ensures the MOST cost-effective architecture for the workload?
+## 102. A company is running a workload in the AWS Cloud. Which AWS best practice ensures the MOST cost-effective architecture for the workload?
 
 A. Loose coupling
+
 B. Rightsizing
+
 C. Caching
+
 D. Redundancy
 
-103. A company is using a third-party service to back up 10 TB of data to a tape library. The on-premises backup server is running out of space. The company wants to use AWS services for the backups without changing its existing backup workflows.
-Which AWS service should the company use to meet these requirements?
+## 103. A company is using a third-party service to back up 10 TB of data to a tape library. The on-premises backup server is running out of space. The company wants to use AWS services for the backups without changing its existing backup workflows. Which AWS service should the company use to meet these requirements?
 
 A. Amazon Elastic Block Store (Amazon EBS)
+
 B. AWS Storage Gateway
+
 C. Amazon Elastic Container Service (Amazon ECS)
+
 D. AWS Lambda
 
-104. Which AWS tool gives users the ability to plan their service usage, service costs, and instance reservations, and also allows them to set custom alerts when their costs or usage exceed established thresholds?
+## 104. Which AWS tool gives users the ability to plan their service usage, service costs, and instance reservations, and also allows them to set custom alerts when their costs or usage exceed established thresholds?
 
 A. Cost Explorer
+
 B. AWS Budgets
+
 C. AWS Cost and Usage Report
+
 D. Reserved Instance reporting
 
-105. Which tasks are the customer’s responsibility, according to the AWS shared responsibility model? (Choose two.)
+## 105. Which tasks are the customer’s responsibility, according to the AWS shared responsibility model? (Choose two.)
 
 A. Establish the global infrastructure.
 B. Perform client-side data encryption.
@@ -1047,8 +1073,7 @@ C. Configure IAM credentials.
 D. Secure edge locations.
 E. Patch Amazon RDS DB instances.
 
-106. A developer has been hired by a large company and needs AWS credentials.
-Which are security best practices that should be followed? (Choose two.)
+106. A developer has been hired by a large company and needs AWS credentials. Which are security best practices that should be followed? (Choose two.)
 
 A. Grant the developer access to only the AWS resources needed to perform the job.
 B. Share the AWS account root user credentials with the developer.
