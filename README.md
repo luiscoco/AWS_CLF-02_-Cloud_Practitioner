@@ -1333,231 +1333,308 @@ B. Elasticity
 C. Reliability
 D. Durability
 
-140. Which AWS services can a company use to achieve a loosely coupled architecture? (Choose two.)
+## 140. Which AWS services can a company use to achieve a loosely coupled architecture? (Choose two.)
 
 A. Amazon WorkSpaces
+
 B. Amazon Simple Queue Service (Amazon SQS)
+
 C. Amazon Connect
+
 D. AWS Trusted Advisor
+
 E. AWS Step Functions
 
-141. Which AWS Cloud service can send alerts to customers if custom spending thresholds are exceeded?
+## 141. Which AWS Cloud service can send alerts to customers if custom spending thresholds are exceeded?
 
-(X) A. AWS Budgets
+**A. AWS Budgets**
+
 B. AWS Cost Explorer
+
 C. AWS Cost Allocation Tags
+
 D. AWS Organizations
 
-142. A company plans to migrate to the AWS Cloud. The company wants to use the AWS Cloud Adoption Framework (AWS CAF) to define and track business outcomes as part of its cloud transformation journey.
-
-Which AWS CAF governance perspective capability will meet these requirements?
+## 142. A company plans to migrate to the AWS Cloud. The company wants to use the AWS Cloud Adoption Framework (AWS CAF) to define and track business outcomes as part of its cloud transformation journey. Which AWS CAF governance perspective capability will meet these requirements?
 
 A. Benefits management
+
 B. Risk management
+
 C. Application portfolio management
+
 D. Cloud financial management
 
-143. A company needs to quickly and securely move files over long distances between its client and an Amazon S3 bucket.
-
-Which S3 feature will meet this requirement?
+## 143. A company needs to quickly and securely move files over long distances between its client and an Amazon S3 bucket. Which S3 feature will meet this requirement?
 
 A. S3 Versioning
-(X) B. S3 Transfer Acceleration
+
+**B. S3 Transfer Acceleration**
+
 C. S3ACLs
+
 D. S3 Intelligent-Tiering
 
-144. A company needs to continuously run an experimental workload on an Amazon EC2 instance and stop the instance after 12 hours. Which instance purchasing option will meet this requirement MOST cost-effectively?
+## 144. A company needs to continuously run an experimental workload on an Amazon EC2 instance and stop the instance after 12 hours. Which instance purchasing option will meet this requirement MOST cost-effectively?
 
-(X) A. On-Demand Instances
+**A. On-Demand Instances**
+
 B. Reserved Instances
+
 C. Spot Instances
+
 D. Dedicated Instances
 
-145. Which cloud transformation journey phase of the AWS Cloud Adoption Framework (AWS CAF) focuses on demonstrating how the cloud helps accelerate business outcomes?
+## 145. Which cloud transformation journey phase of the AWS Cloud Adoption Framework (AWS CAF) focuses on demonstrating how the cloud helps accelerate business outcomes?
 
 A. Scale
-(X) B. Envision
+
+**B. Envision**
+
 C. Align
+
 D. Launch
 
-146. Which option is a customer responsibility under the AWS shared responsibility model?
+## 146. Which option is a customer responsibility under the AWS shared responsibility model?
 
 A. Maintenance of underlying hardware of Amazon EC2 instances
-(X) B. Application data security
+
+**B. Application data security**
+
 C. Physical security of data centers
+
 D. Maintenance of VPC components
 
-147. A company wants its Amazon EC2 instances to operate in a highly available environment, even if there is a natural disaster in a particular geographic area. Which approach will achieve this goal?
+## 147. A company wants its Amazon EC2 instances to operate in a highly available environment, even if there is a natural disaster in a particular geographic area. Which approach will achieve this goal?
 
 A. Use EC2 instances in multiple AWS Regions.
+
 B. Use EC2 instances in multiple Amazon CloudFront locations.
+
 C. Use EC2 instances in multiple edge locations.
+
 D. Use EC2 instances in AWS Local Zones.
 
-148. A company wants to modernize and convert a monolithic application into microservices. The company wants to move the application to AWS. Which migration strategy should the company use?
+## 148. A company wants to modernize and convert a monolithic application into microservices. The company wants to move the application to AWS. Which migration strategy should the company use?
 
 A. Rehost
-B. Replatform
-C. Repurchase
-(X) D. Refactor
 
-149. A systems administrator created a new IAM user for a developer and assigned the user an access key instead of a user name and password. What is the access key used for?
+B. Replatform
+
+C. Repurchase
+
+**D. Refactor**
+
+## 149. A systems administrator created a new IAM user for a developer and assigned the user an access key instead of a user name and password. What is the access key used for?
 
 A. To access the AWS account as the AWS account root user
+
 B. To access the AWS account through the AWS Management Console
-(X) C. To access the AWS account through a CLI
+
+**C. To access the AWS account through a CLI**
+
 D. To access all of a company’s AWS accounts
 
-150. Which option is an environment that consists of one or more data centers?
+## 150. Which option is an environment that consists of one or more data centers?
 
 A. Amazon CloudFront
-(X) B. Availability Zone
+
+**B. Availability Zone**
+
 C. VPC
+
 D. AWS Outposts
 
-151. A company is moving an on-premises data center to the AWS Cloud. The company must migrate 50 petabytes of file storage data to AWS with the least possible operational overhead. Which AWS service or resource should the company use to meet these requirements?
+## 151. A company is moving an on-premises data center to the AWS Cloud. The company must migrate 50 petabytes of file storage data to AWS with the least possible operational overhead. Which AWS service or resource should the company use to meet these requirements?
 
-(X) A. AWS Snowmobile
+**A. AWS Snowmobile**
+
 B. AWS Snowball Edge
+
 C. AWS Data Exchange
+
 D. AWS Database Migration Service (AWS DMS)
 
-152. A company has an application with robust hardware requirements. The application must be accessed by students who are using lightweight, low-cost laptops. Which AWS service will help the company deploy the application without investing in backend infrastructure or high-end client hardware?
+## 152. A company has an application with robust hardware requirements. The application must be accessed by students who are using lightweight, low-cost laptops. Which AWS service will help the company deploy the application without investing in backend infrastructure or high-end client hardware?
 
-(X) A. Amazon AppStream 2.0
+**A. Amazon AppStream 2.0**
+
 B. AWS AppSync
+
 C. Amazon WorkLink
+
 D. AWS Elastic Beanstalk
 
-153. A company wants to query its server logs to gain insights about its customers’ experiences.
-Which AWS service will store this data MOST cost-effectively?
+## 153. A company wants to query its server logs to gain insights about its customers’ experiences. Which AWS service will store this data MOST cost-effectively?
 
 A. Amazon Aurora
-B. Amazon Elastic File System (Amazon EFS)
-C. Amazon Elastic Block Store (Amazon EBS)
-(X) D. Amazon S3
 
-154. Which of the following is a recommended design principle for AWS Cloud architecture?
+B. Amazon Elastic File System (Amazon EFS)
+
+C. Amazon Elastic Block Store (Amazon EBS)
+
+**D. Amazon S3**
+
+## 154. Which of the following is a recommended design principle for AWS Cloud architecture?
 
 A. Design tightly coupled components.
+
 B. Build a single application component that can handle all the application functionality.
+
 C. Make large changes on fewer iterations to reduce chances of failure.
+
 D. Avoid monolithic architecture by segmenting workloads.
 
-155. Which AWS service helps users audit API activity across their AWS account?
+## 155. Which AWS service helps users audit API activity across their AWS account?
 
 A. AWS CloudTrail
+
 B. Amazon Inspector
+
 C. AWS WAF
+
 D. AWS Config
 
-156. Which task is a customer’s responsibility, according to the AWS shared responsibility model?
+## 156. Which task is a customer’s responsibility, according to the AWS shared responsibility model?
 
-(X) A. Management of the guest operating systems
+**A. Management of the guest operating systems**
+
 B. Maintenance of the configuration of infrastructure devices
+
 C. Management of the host operating systems and virtualization
+
 D. Maintenance of the software that powers Availability Zones
 
-157. A company wants to automatically add and remove Amazon EC2 instances. The company wants the EC2 instances to adjust to varying workloads dynamically.
-
-Which service or feature will meet these requirements?
+## 157. A company wants to automatically add and remove Amazon EC2 instances. The company wants the EC2 instances to adjust to varying workloads dynamically. Which service or feature will meet these requirements?
 
 A. Amazon DynamoDB
+
 B. Amazon EC2 Spot Instances
+
 C. AWS Snow Family
+
 D. Amazon EC2 Auto Scaling 
 
-158. A user wants to securely automate the management and rotation of credentials that are shared between applications, while spending the least amount of time on managing tasks.
-
-Which AWS service or feature can be used to accomplish this?
+## 158. A user wants to securely automate the management and rotation of credentials that are shared between applications, while spending the least amount of time on managing tasks. Which AWS service or feature can be used to accomplish this?
 
 A. AWS CloudHSM
+
 B. AWS Key Management Service (AWS KMS)
+
 C. AWS Secrets Manager
+
 D. Server-side encryption
 
-159. Which security service automatically recognizes and classifies sensitive data or intellectual property on AWS?
+## 159. Which security service automatically recognizes and classifies sensitive data or intellectual property on AWS?
 
 A. Amazon GuardDuty
-(X)B. Amazon Macie
+
+**B. Amazon Macie**
+
 C. Amazon Inspector
+
 D. AWS Shield
 
-160. Which actions are best practices for an AWS account root user? (Choose two.)
+## 160. Which actions are best practices for an AWS account root user? (Choose two.)
 
 A. Share root user credentials with team members.
+
 B. Create multiple root users for the account, separated by environment.
-(X)C. Enable multi-factor authentication (MFA) on the root user.
-(X)D. Create an IAM user with administrator privileges for daily administrative tasks, instead of using the root user.
+
+**C. Enable multi-factor authentication (MFA) on the root user.**
+
+**D. Create an IAM user with administrator privileges for daily administrative tasks, instead of using the root user.**
+
 E. Use programmatic access instead of the root user and password.
 
-161. A company is running a critical workload on an Amazon RDS DB instance. The company needs the DB instance to be highly available with a recovery time of less than 5 minutes.
-
-Which solution will meet these requirements?
+## 161. A company is running a critical workload on an Amazon RDS DB instance. The company needs the DB instance to be highly available with a recovery time of less than 5 minutes. Which solution will meet these requirements?
 
 A. Create a read replica of the DB instance.
+
 B. Create a template of the DB instance by using AWS CloudFormation.
+
 C. Take frequent snapshots of the DB instance. Store the snapshots in Amazon S3.
+
 D. Modify the DB instance to be a Multi-AZ deployment.
 
-162. A company plans to migrate its application to AWS and run the application on Amazon EC2 instances. The application will have continuous usage for 1 year.
+## 162. A company plans to migrate its application to AWS and run the application on Amazon EC2 instances. The application will have continuous usage for 1 year. Which EC2 instance purchasing option will meet these requirements MOST cost-effectively?
 
-Which EC2 instance purchasing option will meet these requirements MOST cost-effectively?
+**A. Reserved Instances**
 
-(X)A. Reserved Instances
 B. Spot Instances
+
 C. On-Demand Instances
+
 D. Dedicated Hosts
 
-163. A company needs to transfer data between an Amazon S3 bucket and an on-premises application.
-Who is responsible for the security of this data, according to the AWS shared responsibility model?
+## 163. A company needs to transfer data between an Amazon S3 bucket and an on-premises application. Who is responsible for the security of this data, according to the AWS shared responsibility model?
 
-(X)A. The company 
+**A. The company**
+
 B. AWS
+
 C. Firewall vendor
+
 D. AWS Marketplace partner
 
-164. Which pillar of the AWS Well-Architected Framework refers to the ability of a system to recover from infrastructure or service disruptions and dynamically acquire computing resources to meet demand?
+## 164. Which pillar of the AWS Well-Architected Framework refers to the ability of a system to recover from infrastructure or service disruptions and dynamically acquire computing resources to meet demand?
 
 A. Security
-(X)B. Reliability
+
+**B. Reliability**
+
 C. Performance efficiency
+
 D. Cost optimization
 
-165. A company wants to identify Amazon S3 buckets that are shared with another AWS account.
-Which AWS service or feature will meet these requirements?
+## 165. A company wants to identify Amazon S3 buckets that are shared with another AWS account. Which AWS service or feature will meet these requirements?
 
 A. AWS Lake Formation
-B. IAM credential report
-C. Amazon CloudWatch
-(X)D. IAM Access Analyzer
 
-166. Which AWS service gives users the ability to build interactive business intelligence dashboards that include machine learning insights?
+B. IAM credential report
+
+C. Amazon CloudWatch
+
+**D. IAM Access Analyzer**
+
+## 166. Which AWS service gives users the ability to build interactive business intelligence dashboards that include machine learning insights?
 
 A. Amazon Athena
+
 B. Amazon Kendra
-(X)C. Amazon QuickSight
+
+**C. Amazon QuickSight**
+
 D. Amazon Redshift
 
-167. Which of the following is an AWS value proposition that describes a user’s ability to scale infrastructure based on demand?
+## 167. Which of the following is an AWS value proposition that describes a user’s ability to scale infrastructure based on demand?
 
 A. Speed of innovation
-(X)B. Resource elasticity
+
+**B. Resource elasticity**
+
 C. Decoupled architecture
+
 D. Global deployment
 
-168. Which action is a security best practice for access to sensitive data that is stored in an Amazon S3 bucket?
+## 168. Which action is a security best practice for access to sensitive data that is stored in an Amazon S3 bucket?
 
 A. Enable S3 Cross-Region Replication (CRR) on the S3 bucket.
+
 B. Use IAM roles for applications that require access to the S3 bucket.
+
 C. Configure AWS WAF to prevent unauthorized access to the S3 bucket.
+
 D. Configure Amazon GuardDuty to prevent unauthorized access to the S3 bucket.
 
-169. A company wants to know more about the benefits offered by cloud computing. The company wants to understand the operational advantage of agility. How does AWS provide agility for users?
+## 169. A company wants to know more about the benefits offered by cloud computing. The company wants to understand the operational advantage of agility. How does AWS provide agility for users?
 
 A. The ability the ensure high availability by deploying workloads to multiple regions
+
 B. A pay-as-you-go model for many services and resources
+
 C. The ability to transfer infrastructure management to the AWS Cloud
+
 D. The ability to provision and deprovision resources quickly with minimal effort
 
 ## 170. A company needs a central user portal so that users can log in to third-party business applications that support Security Assertion Markup Language (SAML) 2.0.Which AWS service will meet this requirement?
@@ -1672,71 +1749,99 @@ D. Global reach
 
 181. Which AWS services or features enable users to connect on-premises networks to a VPC? (Choose two.)
 
-(X)A. AWS VPN
+**A. AWS VPN**
+
 B. Elastic Load Balancing
-(X)C. AWS Direct Connect
+
+**C. AWS Direct Connect**
+
 D. VPC peering
+
 E. Amazon CloudFront
 
-182. A user needs to quickly deploy a nonrelational database on AWS. The user does not want to manage the underlying hardware or the database software. Which AWS service can be used to accomplish this?
+## 182. A user needs to quickly deploy a nonrelational database on AWS. The user does not want to manage the underlying hardware or the database software. Which AWS service can be used to accomplish this?
 
 A. Amazon RDS
-(X)B. Amazon DynamoDB
+
+**B. Amazon DynamoDB**
+
 C. Amazon Aurora
+
 D. Amazon Redshift
 
-183. Which actions are examples of a company’s effort to rightsize its AWS resources to control cloud costs? (Choose two.)
+## 183. Which actions are examples of a company’s effort to rightsize its AWS resources to control cloud costs? (Choose two.)
 
-(X)A. Switch from Amazon RDS to Amazon DynamoDB to accommodate NoSQL datasets.
+**A. Switch from Amazon RDS to Amazon DynamoDB to accommodate NoSQL datasets.**
+
 B. Base the selection of Amazon EC2 instance types on past utilization patterns.
-(X)C. Use Amazon S3 Lifecycle policies to move objects that users access infrequently to lower-cost storage tiers.
+
+**C. Use Amazon S3 Lifecycle policies to move objects that users access infrequently to lower-cost storage tiers.**
+
 D. Use Multi-AZ deployments for Amazon RDS.
+
 E. Replace existing Amazon EC2 instances with AWS Elastic Beanstalk.
 
-184. Which AWS service or feature can a company use to apply security rules to specific Amazon EC2 instances?
+## 184. Which AWS service or feature can a company use to apply security rules to specific Amazon EC2 instances?
 
 A. Network ACLs
-(X)B. Security groups
+
+**B. Security groups**
+
 C. AWS Trusted Advisor
+
 D. AWS WAF
 
-185. Which design principles support the reliability pillar of the AWS Well-Architected Framework? (Choose two.)
+## 185. Which design principles support the reliability pillar of the AWS Well-Architected Framework? (Choose two.)
 
 A. Perform operations as code.
-B. Enable traceability.
-(X)C. Automatically scale to meet demand.
-D. Deploy resources globally to improve response time.
-(X)E. Automatically recover from failure.
 
-186. A company that uses AWS needs to transfer 2 TB of data.
-Which type of transfer of that data would result in no cost for the company?
+B. Enable traceability.
+
+**C. Automatically scale to meet demand.**
+
+D. Deploy resources globally to improve response time.
+
+**E. Automatically recover from failure.**
+
+## 186. A company that uses AWS needs to transfer 2 TB of data. Which type of transfer of that data would result in no cost for the company?
 
 A. Inbound data transfer from the internet
+
 B. Outbound data transfer to the internet
+
 C. Data transfer between AWS Regions
+
 D. Data transfer between Availability Zones
 
-187. A company wants to create templates that the company can reuse to deploy multiple AWS resources.
-Which AWS service or feature can the company use to meet this requirement?
+## 187. A company wants to create templates that the company can reuse to deploy multiple AWS resources. Which AWS service or feature can the company use to meet this requirement?
 
 A. AWS Marketplace
+
 B. Amazon Machine Image (AMI)
-(X)C. AWS CloudFormation
+
+**C. AWS CloudFormation**
+
 D. AWS OpsWorks
 
-188. A company is building an application that requires the ability to send, store, and receive messages between application components. The company has another requirement to process messages in first-in, first-out (FIFO) order.Which AWS service should the company use?
+## 188. A company is building an application that requires the ability to send, store, and receive messages between application components. The company has another requirement to process messages in first-in, first-out (FIFO) order.Which AWS service should the company use?
 
 A. AWS Step Functions
-B. Amazon Simple Notification Service (Amazon SNS)
-C. Amazon Kinesis Data Streams
-(X)D. Amazon Simple Queue Service (Amazon SQS)
 
-189. Which AWS service or feature is a browser-based, pre-authenticated service that can be launched directly from the AWS Management Console?
+B. Amazon Simple Notification Service (Amazon SNS)
+
+C. Amazon Kinesis Data Streams
+
+**D. Amazon Simple Queue Service (Amazon SQS)**
+
+## 189. Which AWS service or feature is a browser-based, pre-authenticated service that can be launched directly from the AWS Management Console?
 
 A. AWS API
+
 B. AWS Lightsail
+
 C. AWS Cloud9
-(X)D. AWS CloudShell
+
+**D. AWS CloudShell**
 
 190. A company wants to migrate its database to a managed AWS service that is compatible with PostgreSQL.
 Which AWS services will meet these requirements? (Choose two.)
