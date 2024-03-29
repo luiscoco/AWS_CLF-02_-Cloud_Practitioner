@@ -1535,83 +1535,114 @@ B. A pay-as-you-go model for many services and resources
 C. The ability to transfer infrastructure management to the AWS Cloud
 D. The ability to provision and deprovision resources quickly with minimal effort
 
-170. A company needs a central user portal so that users can log in to third-party business applications that support Security Assertion Markup Language (SAML) 2.0.Which AWS service will meet this requirement?
+## 170. A company needs a central user portal so that users can log in to third-party business applications that support Security Assertion Markup Language (SAML) 2.0.Which AWS service will meet this requirement?
 
 A. AWS Identity and Access Management (IAM)
+
 B. Amazon Cognito
+
 C. AWS IAM Identity Center (AWS Single Sign-On)
+
 D. AWS CLI
 
-171. Which AWS service should users use to learn about AWS service availability and operations?
+## 171. Which AWS service should users use to learn about AWS service availability and operations?
 
 A. Amazon EventBridge
+
 B. AWS Service Catalog
+
 C. AWS Control Tower
-(X)D. AWS Health Dashboard
 
-172. Which AWS service or tool can be used to capture information about inbound and outbound traffic in an Amazon VPC?
+**D. AWS Health Dashboard**
 
-(X)A. VPC Flow Logs
+## 172. Which AWS service or tool can be used to capture information about inbound and outbound traffic in an Amazon VPC?
+
+**A. VPC Flow Logs**
+
 B. Amazon Inspector
+
 C. VPC endpoint services
+
 D. NAT gateway
 
-173. What is the customer ALWAYS responsible for managing, according to the AWS shared responsibility model?
+## 173. What is the customer ALWAYS responsible for managing, according to the AWS shared responsibility model?
 
 A. Software licenses
+
 B. Networking
+
 C. Customer data
+
 D. Encryption keys
 
-174. Which AWS service can be used to retrieve compliance reports on demand?
+## 174. Which AWS service can be used to retrieve compliance reports on demand?
 
 A. AWS Secrets Manager
-(X)B. AWS Artifact
+
+**B. AWS Artifact**
+
 C. AWS Security Hub
+
 D. AWS Certificate Manager
 
-175. Which AWS service enables users to check for vulnerabilities on Amazon EC2 instances by using predefined assessment templates?
+## 175. Which AWS service enables users to check for vulnerabilities on Amazon EC2 instances by using predefined assessment templates?
 
 A. AWS WAF
+
 B. AWS Trusted Advisor
+
 (X)C. Amazon Inspector
+
 D. AWS Shield
 
-176. A company plans to migrate to the AWS Cloud. The company is gathering information about its on-premises infrastructure and requires information such as the hostname, IP address, and MAC address.
-Which AWS service will meet these requirements?
+## 176. A company plans to migrate to the AWS Cloud. The company is gathering information about its on-premises infrastructure and requires information such as the hostname, IP address, and MAC address. Which AWS service will meet these requirements?
 
 A. AWS DataSync
+
 B. AWS Application Migration Service
-(X)C. AWS Application Discovery Service
+
+**C. AWS Application Discovery Service**
+
 D. AWS Database Migration Service (AWS DMS)
 
-177. Which action will help increase security in the AWS Cloud?
+## 177. Which action will help increase security in the AWS Cloud?
 
 A. Enable programmatic access for all IAM users.
+
 B. Use IAM users instead of IAM roles to delegate permissions.
-(X)C. Rotate access keys on a reoccurring basis.
+
+**C. Rotate access keys on a reoccurring basis.**
+
 D. Use inline policies instead of customer managed policies.
 
-178. A company is planning to migrate its application to the AWS Cloud.
-Which AWS tool or set of resources should the company use to analyze and assess its readiness for migration?
+## 178. A company is planning to migrate its application to the AWS Cloud. Which AWS tool or set of resources should the company use to analyze and assess its readiness for migration?
 
-(X)A. AWS Cloud Adoption Framework (AWS CAF)
+**A. AWS Cloud Adoption Framework (AWS CAF)**
+
 B. AWS Pricing Calculator
+
 C. AWS Well-Architected Framework
+
 D. AWS Budgets
 
-179. Which of the following describes some of the core functionality of Amazon S3?
+## 179. Which of the following describes some of the core functionality of Amazon S3?
 
 A. Amazon S3 is a high-performance block storage service that is designed for use with Amazon EC2.
-(X)B. Amazon S3 is an object storage service that provides high-level performance, security, scalability, and data availability.
+
+**B. Amazon S3 is an object storage service that provides high-level performance, security, scalability, and data availability.**
+
 C. Amazon S3 is a fully managed, highly reliable, and scalable file storage system that is accessible over the industry-standard SMB protocol.
+
 D. Amazon S3 is a scalable, fully managed elastic NFS for use with AWS Cloud services and on-premises resources.
 
-180. Which AWS benefit is demonstrated by on-demand technology services that enable companies to replace upfront fixed expenses with variable expenses?
+## 180. Which AWS benefit is demonstrated by on-demand technology services that enable companies to replace upfront fixed expenses with variable expenses?
 
 A. High availability
+
 B. Economies of scale
-(X)C. Pay-as-you-go pricing
+
+**C. Pay-as-you-go pricing**
+
 D. Global reach
 
 181. Which AWS services or features enable users to connect on-premises networks to a VPC? (Choose two.)
