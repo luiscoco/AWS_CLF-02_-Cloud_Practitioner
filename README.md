@@ -2409,144 +2409,204 @@ B. Cost savings
 (X)C. Agility
 D. Reliability
 
-300. Which of the following is entirely the responsibility of AWS, according to the AWS shared responsibility model?
+## 300. Which of the following is entirely the responsibility of AWS, according to the AWS shared responsibility model?
 
 A. Security awareness and training
-B. Development of an IAM password policy
-C. Patching of the guest operating system
-(X)D. Physical and environmental controls
 
-301. Which of the following is a characteristic of the AWS account root user?
+B. Development of an IAM password policy
+
+C. Patching of the guest operating system
+
+**D. Physical and environmental controls**
+
+## 301. Which of the following is a characteristic of the AWS account root user?
 
 A. The root user is the only user that can be configured with multi-factor authentication (MFA).
+
 B. The root user is the only user that can access the AWS Management Console.
-(X)C. The root user is the first sign-in identity that is available when an AWS account is created.
+
+**C. The root user is the first sign-in identity that is available when an AWS account is created.**
+
 D. The root user has a password that cannot be changed.
 
-302. An Amazon EC2 instance previously used for development is inaccessible and no longer appears in the AWS Management Console. Which AWS service should be used to determine what action made this EC2 instance inaccessible?
+## 302. An Amazon EC2 instance previously used for development is inaccessible and no longer appears in the AWS Management Console. Which AWS service should be used to determine what action made this EC2 instance inaccessible?
 
 A. Amazon CloudWatch Logs
+
 B. AWS Security Hub
+
 C. Amazon Inspector
-(X)D. AWS CloudTraiI
 
-303. A company's application developers need to quickly provision and manage AWS services by using scripts. Which AWS offering should the developers use to meet these requirements?
+**D. AWS CloudTraiI**
 
-(X)A. AWS CLI
+## 303. A company's application developers need to quickly provision and manage AWS services by using scripts. Which AWS offering should the developers use to meet these requirements?
+
+**A. AWS CLI**
+
 B. AWS CodeBuild
+
 C. AWS Cloud Adoption Framework (AWS CAF)
+
 D. AWS Systems Manager Session Manager
 
-304. A company wants to migrate unstructured data to AWS. The data needs to be securely moved with inflight encryption and end-to-end data validation. Which AWS service will meet these requirements?
+## 304. A company wants to migrate unstructured data to AWS. The data needs to be securely moved with inflight encryption and end-to-end data validation. Which AWS service will meet these requirements?
 
 A. AWS Application Migration Service
+
 B. Amazon Elastic File System (Amazon EFS)
-(X)C. AWS DataSync
+
+**C. AWS DataSync**
+
 D. AWS Migration Hub
 
-305. A development team wants to deploy multiple test environments for an application in a fast, repeatable manner. Which AWS service should the team use?
+## 305. A development team wants to deploy multiple test environments for an application in a fast, repeatable manner. Which AWS service should the team use?
 
 A. Amazon EC2
-(X)B. AWS CloudFormation
+
+**B. AWS CloudFormation**
+
 C. Amazon QuickSight
+
 D. Amazon Elastic Container Service (Amazon ECS)
 
-306. A company wants to quickly implement a continuous integration/continuous delivery (CI/CD) pipeline. Which AWS service will meet this requirement?
+## 306. A company wants to quickly implement a continuous integration/continuous delivery (CI/CD) pipeline. Which AWS service will meet this requirement?
 
 A. AWS Config
-B. Amazon Cognito
-C. AWS DataSync
-(X)D. AWS CodeStar
 
-307. Which AWS Cloud deployment model uses AWS Outposts as part of the application deployment infrastructure?
+B. Amazon Cognito
+
+C. AWS DataSync
+
+**D. AWS CodeStar**
+
+## 307. Which AWS Cloud deployment model uses AWS Outposts as part of the application deployment infrastructure?
 
 A. On-premises
-B. Serverless
-C. Cloud-native
-(X)D. Hybrid
 
-308. Which of the following is a fully managed graph database service on AWS?
+B. Serverless
+
+C. Cloud-native
+
+**D. Hybrid**
+
+## 308. Which of the following is a fully managed graph database service on AWS?
 
 A. Amazon Aurora
-B. Amazon FSx
-C. Amazon DynamoDB
-(X)D. Amazon Neptune
 
-309. Which AWS service could an administrator use to provide desktop environments for several employees?
+B. Amazon FSx
+
+C. Amazon DynamoDB
+
+**D. Amazon Neptune**
+
+## 309. Which AWS service could an administrator use to provide desktop environments for several employees?
 
 A. AWS Organizations
+
 B. AWS Fargate
+
 C. AWS WAF
-(X)D. AWS WorkSpaces
 
-310. Which AWS service or feature gives users the ability to capture information about network traffic in a VPC?
+**D. AWS WorkSpaces**
 
-(X)A. VPC Flow Logs
+## 310. Which AWS service or feature gives users the ability to capture information about network traffic in a VPC?
+
+**A. VPC Flow Logs**
+
 B. Amazon Inspector
+
 C. VPC route tables
+
 D. AWS CloudTrail
 
-311. Which type of AWS storage is ephemeral and is deleted when an Amazon EC2 instance is stopped or terminated?
+## 311. Which type of AWS storage is ephemeral and is deleted when an Amazon EC2 instance is stopped or terminated?
 
 A. Amazon Elastic Block Store (Amazon EBS)
-(X)B. Amazon EC2 instance store
+
+**B. Amazon EC2 instance store**
+
 C. Amazon Elastic File System (Amazon EFS)
+
 D. Amazon S3
 
-312. A company wants to provide access to Windows file shares in AWS from its on-premises workloads. The company does not want to provision any additional infrastructure or applications in its data center. Which AWS service will meet these requirements?
+## 312. A company wants to provide access to Windows file shares in AWS from its on-premises workloads. The company does not want to provision any additional infrastructure or applications in its data center. Which AWS service will meet these requirements?
 
-(X)A. Amazon FSx File Gateway
+**A. Amazon FSx File Gateway**
+
 B. AWS DataSync
+
 C. Amazon S3
+
 D. AWS Snow Family
 
-313. A company wants durable storage for static content and infinitely scalable data storage infrastructure at the lowest cost. Which AWS service should the company choose?
+## 313. A company wants durable storage for static content and infinitely scalable data storage infrastructure at the lowest cost. Which AWS service should the company choose?
 
 A. Amazon Elastic Block Store (Amazon EBS)
-(X)B. Amazon S3
+
+**B. Amazon S3**
+
 C. AWS Storage Gateway
+
 D. Amazon Elastic File System (Amazon EFS)
 
-314. An ecommerce company wants to use Amazon EC2 Auto Scaling to add and remove EC2 instances based on CPU utilization. Which AWS service or feature can initiate an Amazon EC2 Auto Scaling action to achieve this goal?
+## 314. An ecommerce company wants to use Amazon EC2 Auto Scaling to add and remove EC2 instances based on CPU utilization. Which AWS service or feature can initiate an Amazon EC2 Auto Scaling action to achieve this goal?
 
 A. Amazon Simple Queue Service (Amazon SQS)
-B. Amazon Simple Notification Service (Amazon SNS)
-C. AWS Systems Manager
-(X)D. Amazon CloudWatch alarm
 
-315. A company wants to transform its workforce by attracting and developing a digitally fluent high-performance workforce. The company wants to attract a diverse and inclusive workforce with appropriate mix of technical and non-technical skills. Which AWS Cloud Adoption Framework (AWS CAF) perspective will meet these requirements?
+B. Amazon Simple Notification Service (Amazon SNS)
+
+C. AWS Systems Manager
+
+**D. Amazon CloudWatch alarm**
+
+## 315. A company wants to transform its workforce by attracting and developing a digitally fluent high-performance workforce. The company wants to attract a diverse and inclusive workforce with appropriate mix of technical and non-technical skills. Which AWS Cloud Adoption Framework (AWS CAF) perspective will meet these requirements?
 
 A. Business
-(X)B. People
+
+**B. People**
+
 C. Platform
+
 D. Operations
 
-316. A company wants to move its on-premises databases to managed cloud database services by using a simplified migration process. Which AWS service or tool can help the company meet this requirement?
+## 316. A company wants to move its on-premises databases to managed cloud database services by using a simplified migration process. Which AWS service or tool can help the company meet this requirement?
 
 A. AWS Storage Gateway
-B. AWS Application Migration Service
-C. AWS DataSync
-(X)D. AWS Database Migration Service (AWS DMS)
 
-317. A company needs a fully managed file server that natively supports Microsoft workloads and file systems. The file server must also support the SMB protocol. Which AWS service should the company use to meet these requirements?
+B. AWS Application Migration Service
+
+C. AWS DataSync
+
+**D. AWS Database Migration Service (AWS DMS)**
+
+## 317. A company needs a fully managed file server that natively supports Microsoft workloads and file systems. The file server must also support the SMB protocol. Which AWS service should the company use to meet these requirements?
 
 A. Amazon Elastic File System (Amazon EFS)
+
 B. Amazon FSx for Lustre
-(X)C. Amazon FSx for Windows File Server
+
+**C. Amazon FSx for Windows File Server**
+
 D. Amazon Elastic Block Store (Amazon EBS)
 
-318. A company has been storing monthly reports in an Amazon S3 bucket. The company exports the report data into comma-separated values (.csv) files. A developer wants to write a simple query that can read all of these files and generate a summary report. Which AWS service or feature should the developer use to meet these requirements with the LEAST amount of operational overhead?
+## 318. A company has been storing monthly reports in an Amazon S3 bucket. The company exports the report data into comma-separated values (.csv) files. A developer wants to write a simple query that can read all of these files and generate a summary report. Which AWS service or feature should the developer use to meet these requirements with the LEAST amount of operational overhead?
 
 A. Amazon S3 Select
-(X)B. Amazon Athena
+
+**B. Amazon Athena**
+
 C. Amazon Redshift
+
 D. Amazon EC2
 
-319. Which AWS feature provides a no-cost platform for AWS users to join community groups, ask questions, find answers, and read community-generated articles about best practices?
+## 319. Which AWS feature provides a no-cost platform for AWS users to join community groups, ask questions, find answers, and read community-generated articles about best practices?
 
 A. AWS Knowledge Center
-(X)B. AWS re:Post
+
+**B. AWS re:Post**
+
 C. AWS IQ
+
 D. AWS Enterprise Support
 
 320. A company needs to search for text in documents that are stored in Amazon S3. Which AWS service will meet these requirements?
@@ -2679,104 +2739,148 @@ B. Performance efficiency
 (X)C. Operational excellence
 D. Reliability
 
-338. A company wants to track tags, buckets, and prefixes for its Amazon S3 objects. Which S3 feature will meet this requirement?
+## 338. A company wants to track tags, buckets, and prefixes for its Amazon S3 objects. Which S3 feature will meet this requirement?
 
-(X)A. S3 Inventory report
+**A. S3 Inventory report**
+
 B. S3 Lifecycle
+
 C. S3 Versioning
+
 D. S3 ACLs
 
-339. A company wants to allow users to authenticate and authorize multiple AWS accounts by using a single set of credentials. Which AWS service or resource will meet this requirement?
+## 339. A company wants to allow users to authenticate and authorize multiple AWS accounts by using a single set of credentials. Which AWS service or resource will meet this requirement?
 
 A. AWS Organizations
+
 B. IAM user
-(X)C. AWS IAM Identity Center (AWS Single Sign-On)
+
+**C. AWS IAM Identity Center (AWS Single Sign-On)**
+
 D. AWS Control Tower
 
-340. A company created an Amazon EC2 instance. The company wants to control the incoming and outgoing network traffic at the instance level. Which AWS resource or service will meet this requirement?
+## 340. A company created an Amazon EC2 instance. The company wants to control the incoming and outgoing network traffic at the instance level. Which AWS resource or service will meet this requirement?
 
 A. AWS Shield
-(X)B. Security groups
+
+**B. Security groups**
+
 C. Network Access Analyzer
+
 D. VPC endpoints
 
-341. A company wants to use the AWS Cloud to deploy an application globally. Which architecture deployment model should the company use to meet this requirement?
+## 341. A company wants to use the AWS Cloud to deploy an application globally. Which architecture deployment model should the company use to meet this requirement?
 
-(X)A. Multi-Region
+**A. Multi-Region**
+
 B. Single-Region
+
 C. Multi-AZ
+
 D. Single-AZ
 
-342. A company wants a web application to interact with various AWS services. Which AWS service or resource will meet this requirement?
+## 342. A company wants a web application to interact with various AWS services. Which AWS service or resource will meet this requirement?
 
 A. AWS CloudShell
+
 B. AWS Marketplace
+
 C. AWS Management Console
-(X)D. AWS CLI
 
-343. A company is migrating its applications from on-premises to the AWS Cloud. The company wants to ensure that the applications are assigned only the minimum permissions that are needed to perform all operations. Which AWS service will meet these requirements?
+**D. AWS CLI**
 
-(X)A. AWS Identity and Access Management (IAM)
+## 343. A company is migrating its applications from on-premises to the AWS Cloud. The company wants to ensure that the applications are assigned only the minimum permissions that are needed to perform all operations. Which AWS service will meet these requirements?
+
+**A. AWS Identity and Access Management (IAM)**
+
 B. Amazon CloudWatch
+
 C. Amazon Macie
+
 D. Amazon GuardDuty
 
-344. Which options are AWS Cloud Adoption Framework (AWS CAF) governance perspective capabilities? (Choose two.)
+## 344. Which options are AWS Cloud Adoption Framework (AWS CAF) governance perspective capabilities? (Choose two.)
 
 A. Identity and access management
-(X)B. Cloud financial management
-(X)C. Application portfolio management
+
+**B. Cloud financial management**
+
+**C. Application portfolio management**
+
 D. Innovation management
+
 E. Product management
 
-345. Which AWS service provides a single location to track the progress of application migrations?
+## 345. Which AWS service provides a single location to track the progress of application migrations?
 
 A. AWS Application Discovery Service
+
 B. AWS Application Migration Service
+
 C. AWS Service Catalog
-(X)D. AWS Migration Hub
 
-346. A company launched an Amazon EC2 instance with the latest Amazon Linux 2 Amazon Machine Image (AMI). Which actions can a system administrator take to connect to the EC2 instance? (Choose two.)
+**D. AWS Migration Hub**
 
-(X)A. Use Amazon EC2 Instance Connect.
+## 346. A company launched an Amazon EC2 instance with the latest Amazon Linux 2 Amazon Machine Image (AMI). Which actions can a system administrator take to connect to the EC2 instance? (Choose two.)
+
+**A. Use Amazon EC2 Instance Connect.**
+
 B. Use a Remote Desktop Protocol (RDP) connection.
+
 C. Use AWS Batch.
-(X)D. Use AWS Systems Manager Session Manager.
+
+**D. Use AWS Systems Manager Session Manager.**
+
 E. Use Amazon Connect.
 
-347. Which architecture concept describes the ability to deploy resources on demand and release resources when they are no longer needed?
+## 347. Which architecture concept describes the ability to deploy resources on demand and release resources when they are no longer needed?
 
 A. High availability
-B. Decoupled architecture
-C. Resilience
-(X)D. Elasticity
 
-348. Which task requires a user to sign in as the AWS account root user?
+B. Decoupled architecture
+
+C. Resilience
+
+**D. Elasticity**
+
+## 348. Which task requires a user to sign in as the AWS account root user?
 
 A. The deletion of IAM users
-(X)B. The deletion of an AWS account
+
+**B. The deletion of an AWS account**
+
 C. The creation of an organization in AWS Organizations
+
 D. The deletion of Amazon EC2 instances
 
-349. What does the Amazon S3 Intelligent-Tiering storage class offer?
+## 349. What does the Amazon S3 Intelligent-Tiering storage class offer?
 
 A. Payment flexibility by reserving storage capacity
+
 B. Long-term retention of data by copying the data to an encrypted Amazon Elastic Block Store (Amazon EBS) volume
-(X)C. Automatic cost savings by moving objects between tiers based on access pattern changes
+
+**C. Automatic cost savings by moving objects between tiers based on access pattern changes**
+
 D. Secure, durable, and lowest cost storage for data archiva.
 
-350. A company needs Amazon EC2 instances for a workload that can tolerate interruptions. Which EC2 instance purchasing option meets this requirement with the LARGEST discount compared to On-Demand prices?
+## 350. A company needs Amazon EC2 instances for a workload that can tolerate interruptions. Which EC2 instance purchasing option meets this requirement with the LARGEST discount compared to On-Demand prices?
 
-(X)A. Spot Instances
+**A. Spot Instances**
+
 B. Convertible Reserved Instances
+
 C. Standard Reserved Instances
+
 D. Dedicated Hosts
 
-351. A company is planning to migrate to the AWS Cloud. The company wants to identify measurable business outcomes that will explain the value of the company's decision to migrate. Which phase of the cloud transformation journey includes these activities?
+## 351. A company is planning to migrate to the AWS Cloud. The company wants to identify measurable business outcomes that will explain the value of the company's decision to migrate. Which phase of the cloud transformation journey includes these activities?
 
-(X)A. Envision
+**A. Envision**
+
 B. Align
+
 C. Scale
+
 D. Launch
 
 ## 352. Which AWS service or component allows inbound traffic from the internet to access a VPC?
