@@ -2759,156 +2759,222 @@ B. Align
 C. Scale
 D. Launch
 
-352. Which AWS service or component allows inbound traffic from the internet to access a VPC?
+## 352. Which AWS service or component allows inbound traffic from the internet to access a VPC?
 
-(X)A. Internet gateway
+**A. Internet gateway**
+
 B. NAT gateway
+
 C. AWS WAF
+
 D. VPC peering
 
-353. Which AWS service can companies use to create infrastructure from code?
+## 353. Which AWS service can companies use to create infrastructure from code?
 
 A. Amazon Elastic Kubernetes Service (Amazon EKS)
-B. AWS Outposts
-C. AWS CodePipeline
-(X)D. AWS CloudFormation
 
-354. Which guideline is a well-architected design principle for building cloud applications?
+B. AWS Outposts
+
+C. AWS CodePipeline
+
+**D. AWS CloudFormation**
+
+## 354. Which guideline is a well-architected design principle for building cloud applications?
 
 A. Keep static data closer to compute resources.
+
 B. Provision resources for peak capacity.
-(X)C. Design for automated recovery from failure.
+
+**C. Design for automated recovery from failure.**
+
 D. Use tightly coupled components.
 
-355. A company needs to move 75 petabytes of data from its on-premises data centers to AWS.
-Which AWS service should the company use to meet these requirements MOST cost-effectively?
+## 355. A company needs to move 75 petabytes of data from its on-premises data centers to AWS. Which AWS service should the company use to meet these requirements MOST cost-effectively?
 
 A. AWS Snowball Edge Storage Optimized
-(X)B. AWS Snowmobile
+
+**B. AWS Snowmobile**
+
 C. AWS Direct Connect
+
 D. AWS Storage Gateway
 
-356. Which of the following are pillars of the AWS Well-Architected Framework? (Choose two.)
+## 356. Which of the following are pillars of the AWS Well-Architected Framework? (Choose two.)
 
 A. Resource scalability
-(X)B. Performance efficiency
-C. System elasticity
-D. Agile development
-(X)E. Operational excellence
 
-357. A company needs to connect its on-premises data center to the AWS Cloud. The company needs a dedicated, low-latency connection with consistent network performance. Which AWS service will meet these requirements?
+**B. Performance efficiency**
+
+C. System elasticity
+
+D. Agile development
+
+**E. Operational excellence**
+
+## 357. A company needs to connect its on-premises data center to the AWS Cloud. The company needs a dedicated, low-latency connection with consistent network performance. Which AWS service will meet these requirements?
 
 A. AWS Global Accelerator
+
 B. Amazon CloudFront
-(X)C. AWS Direct Connect
+
+**C. AWS Direct Connect**
+
 D. AWS Managed VPN
 
-358. Which design principles should a company apply to AWS Cloud workloads to maximize sustainability and minimize environmental impact? (Choose two.)
+## 358. Which design principles should a company apply to AWS Cloud workloads to maximize sustainability and minimize environmental impact? (Choose two.)
 
-(X)A. Maximize utilization of Amazon EC2 instances.
+**A. Maximize utilization of Amazon EC2 instances.**
+
 B. Minimize utilization of Amazon EC2 instances.
+
 C. Minimize usage of managed services.
+
 D. Force frequent application reinstallations by users.
-(X)E. Reduce the need for users to reinstall applications.
 
-359. In which ways does the AWS Cloud offer lower total cost of ownership (TCO) of computing resources than on-premises data centers? (Choose two.)
+**E. Reduce the need for users to reinstall applications.**
 
-(X)A. AWS replaces upfront capital expenditures with pay-as-you-go costs.
+## 359. In which ways does the AWS Cloud offer lower total cost of ownership (TCO) of computing resources than on-premises data centers? (Choose two.)
+
+**A. AWS replaces upfront capital expenditures with pay-as-you-go costs.**
+
 B. AWS is designed for high availability, which eliminates user downtime.
+
 C. AWS eliminates the need for on-premises IT staff.
-(X)D. AWS uses economies of scale to continually reduce prices.
+
+**D. AWS uses economies of scale to continually reduce prices.**
+
 E. AWS offers a single pricing model for Amazon EC2 instances.
 
-360.  company wants to deploy some of its resources in the AWS Cloud. To meet regulatory requirements, the data must remain local and on premises. There must be low latency between AWS and the company resources. Which AWS service or feature can be used to meet these requirements?
+## 360.  company wants to deploy some of its resources in the AWS Cloud. To meet regulatory requirements, the data must remain local and on premises. There must be low latency between AWS and the company resources. Which AWS service or feature can be used to meet these requirements?
 
 A. AWS Local Zones
+
 B. Availability Zones
-(X)C. AWS Outposts
+
+**C. AWS Outpost**
+
 D. AWS Wavelength Zones
 
-361. Which of the following AWS services are serverless? (Choose two.)
+## 361. Which of the following AWS services are serverless? (Choose two.)
 
 A. AWS Outposts
-B. Amazon EC2
-C. Amazon Elastic Kubernetes Service (Amazon EKS)
-(X)D. AWS Fargate
-(X)E. AWS Lambda
 
-362. When a user wants to utilize their existing per-socket, per-core, or per-virtual machine software licenses for a Microsoft Windows server running on AWS, which Amazon EC2 instance type is required?
+B. Amazon EC2
+
+C. Amazon Elastic Kubernetes Service (Amazon EKS)
+
+**D. AWS Fargate**
+
+**E. AWS Lambda**
+
+## 362. When a user wants to utilize their existing per-socket, per-core, or per-virtual machine software licenses for a Microsoft Windows server running on AWS, which Amazon EC2 instance type is required?
 
 A. Spot Instances
+
 B. Dedicated Instances
-(X)C. Dedicated Hosts
+
+**C. Dedicated Hosts**
+
 D. Reserved Instances
 
-363. A solutions architect needs to maintain a fleet of Amazon EC2 instances so that any impaired instances are replaced with new ones. Which AWS service should the solutions architect use?
+## 363. A solutions architect needs to maintain a fleet of Amazon EC2 instances so that any impaired instances are replaced with new ones. Which AWS service should the solutions architect use?
 
 A. Amazon Elastic Container Service (Amazon ECS)
-B. Amazon GuardDuty
-C. AWS Shield
-(X)D. AWS Auto Scaling
 
-364. Which AWS service provides on-premises applications with low-latency access to data that is stored in the AWS Cloud?
+B. Amazon GuardDuty
+
+C. AWS Shield
+
+**D. AWS Auto Scaling**
+
+## 364. Which AWS service provides on-premises applications with low-latency access to data that is stored in the AWS Cloud?
 
 A. Amazon CloudFront
-(X)B. AWS Storage Gateway
+
+**B. AWS Storage Gateway**
+
 C. AWS Backup
+
 D. AWS DataSync
 
-365. What does Amazon CloudFront provide?
+## 365. What does Amazon CloudFront provide?
 
 A. Automatic scaling for all resources to power an application from a single unified interface
-(X)B. Secure delivery of data, videos, applications, and APIs to users globally with low latency
+
+**B. Secure delivery of data, videos, applications, and APIs to users globally with low latency**
+
 C. Ability to directly manage traffic globally through a variety of routing types, including latency-based routing, geo DNS, geoproximity, and weighted round robin
+
 D. Automatic distribution of incoming application traffic across multiple targets, such as Amazon EC2 instances, containers, IP addresses, and AWS Lambda functions
 
-366. Which AWS service supports the deployment and management of applications in the AWS Cloud?
+## 366. Which AWS service supports the deployment and management of applications in the AWS Cloud?
 
 A. Amazon CodeGuru
-B. AWS Fargate
-C. AWS CodeCommit
-(X)D. AWS Elastic Beanstalk
 
-367. A company wants to integrate natural language processing (NLP) into business intelligence (BI) dashboards. The company wants to ask questions and receive answers with relevant visualizations. Which AWS service or tool will meet these requirements?
+B. AWS Fargate
+
+C. AWS CodeCommit
+
+**D. AWS Elastic Beanstalk**
+
+## 367. A company wants to integrate natural language processing (NLP) into business intelligence (BI) dashboards. The company wants to ask questions and receive answers with relevant visualizations. Which AWS service or tool will meet these requirements?
 
 A. Amazon Macie
+
 B. Amazon Rekognition
-(X)C. Amazon QuickSight Q
+
+**C. Amazon QuickSight Q**
+
 D. Amazon Lex
 
-368. Which Amazon S3 feature or storage class uses the AWS backbone network and edge locations to reduce latencies from the end user to Amazon S3?
+## 368. Which Amazon S3 feature or storage class uses the AWS backbone network and edge locations to reduce latencies from the end user to Amazon S3?
 
 A. S3 Cross-Region Replication
-(X)B. S3 Transfer Acceleration
+
+**B. S3 Transfer Acceleration**
+
 C. S3 Event Notifications
+
 D. S3 Standard-Infrequent Access (S3 Standard-IA)
 
-369. Which AWS service provides the ability to host a NoSQL database in the AWS Cloud?
+## 369. Which AWS service provides the ability to host a NoSQL database in the AWS Cloud?
 
 A. Amazon Aurora
-(X)B. Amazon DynamoDB
+
+**B. Amazon DynamoDB**
+
 C. Amazon RDS
+
 D. Amazon Redshift
 
-370. Which AWS service is a relational database compatible with MySQL and PostgreSQL?
+## 370. Which AWS service is a relational database compatible with MySQL and PostgreSQL?
 
 A. Amazon Redshift
+
 B. Amazon DynamoDB
-(X)C. Amazon Aurora
+
+**C. Amazon Aurora**
+
 D. Amazon Neptune
 
-371. Which architecture design principle describes the need to isolate failures between dependent components in the AWS Cloud?
+## 371. Which architecture design principle describes the need to isolate failures between dependent components in the AWS Cloud?
 
 A. Use a monolithic design.
-B. Design for automation.
-C. Design for single points of failure.
-(X)D. Loosely couple components.
 
-372. Which benefit of cloud computing gives a company the ability to deploy applications to users all over the world through a network of AWS Regions, Availability Zones, and edge locations?
+B. Design for automation.
+
+C. Design for single points of failure.
+
+**D. Loosely couple components**
+
+## 372. Which benefit of cloud computing gives a company the ability to deploy applications to users all over the world through a network of AWS Regions, Availability Zones, and edge locations?
 
 A. Economy of scale
-(X)B. Global reach
+
+**B. Global reach**
+
 C. Agility
+
 D. High availability
 
 ## 373. Which AWS service makes it easier to monitor and troubleshoot application logs and cloud resources?
