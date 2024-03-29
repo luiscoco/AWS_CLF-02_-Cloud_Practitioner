@@ -3257,134 +3257,192 @@ C. AWS IQ
 
 D. AWS Enterprise Support
 
-320. A company needs to search for text in documents that are stored in Amazon S3. Which AWS service will meet these requirements?
+## 320. A company needs to search for text in documents that are stored in Amazon S3. Which AWS service will meet these requirements?
 
-(X)A. Amazon Kendra
+**A. Amazon Kendra**
+
 B. Amazon Rekognition
+
 C. Amazon Polly
+
 D. Amazon Lex
 
-321. Which AWS services make use of global edge locations? (Choose two.)
+## 321. Which AWS services make use of global edge locations? (Choose two.)
 
 A. AWS Fargate
-(X)B. Amazon CloudFront
-(X)C. AWS Global Accelerator
+
+**B. Amazon CloudFront**
+
+**C. AWS Global Accelerator**
+
 D. AWS Wavelength
+
 E. Amazon VPC
 
-322. A user needs a relational database but does not have the resources to manage the hardware, resiliency, and replication. Which AWS service option meets the user's requirements?
+## 322. A user needs a relational database but does not have the resources to manage the hardware, resiliency, and replication. Which AWS service option meets the user's requirements?
 
 A. Run MySQL on Amazon Elastic Container Service (Amazon ECS).
+
 B. Run MySQL on Amazon EC2.
-(X)C. Choose Amazon RDS for MySQL.
+
+**C. Choose Amazon RDS for MySQL.**
+
 D. Choose Amazon ElastiCache for Redis.
 
-323. A company needs to deploy applications in the AWS Cloud as quickly as possible. The company also needs to minimize the complexity that is related to the management of AWS resources. Which AWS service should the company use to meet these requirements?
+## 323. A company needs to deploy applications in the AWS Cloud as quickly as possible. The company also needs to minimize the complexity that is related to the management of AWS resources. Which AWS service should the company use to meet these requirements?
 
 A. AWS Config
-(X)B. AWS Elastic Beanstalk
+
+**B. AWS Elastic Beanstalk**
+
 C. Amazon EC2
+
 D. Amazon Personalize
 
-324. Which mechanism allows developers to access AWS services from application code?
+## 324. Which mechanism allows developers to access AWS services from application code?
 
-(X)A. AWS Software Development Kit
+**A. AWS Software Development Kit**
+
 B. AWS Management Console
+
 C. AWS CodePipeline
+
 D. AWS Config
 
-325. A company is migrating to the AWS Cloud. The company wants to understand and identify potential security misconfigurations or unexpected behaviors. The company wants to prioritize any protective controls it might need. Which AWS Cloud Adoption Framework (AWS CAF) security perspective capability will meet these requirements?
+## 325. A company is migrating to the AWS Cloud. The company wants to understand and identify potential security misconfigurations or unexpected behaviors. The company wants to prioritize any protective controls it might need. Which AWS Cloud Adoption Framework (AWS CAF) security perspective capability will meet these requirements?
 
 A. Identity and access management
-(X)B. Threat detection
+
+**B. Threat detection**
+
 C. Platform engineering
+
 D. Availability and continuity management
 
-326. A company wants to establish a private network connection between AWS and its corporate network. Which AWS service or feature will meet this requirement?
+## 326. A company wants to establish a private network connection between AWS and its corporate network. Which AWS service or feature will meet this requirement?
 
 A. Amazon Connect
+
 B. Amazon Route 53
-(X)C. AWS Direct Connect
+
+**C. AWS Direct Connect**
+
 D. VPC peering
 
-327. Which AWS services or features give users the ability to create a network connection between two VPCs? (Choose two.)
+## 327. Which AWS services or features give users the ability to create a network connection between two VPCs? (Choose two.)
 
 A. VPC endpoints
-B. Amazon Route 53
-(X)C. VPC peering
-D. AWS Direct Connect
-(X)E. AWS Transit Gateway
 
-328. Which AWS service converts text to lifelike voices?
+B. Amazon Route 53
+
+**C. VPC peering**
+
+D. AWS Direct Connect
+
+**E. AWS Transit Gateway**
+
+## 328. Which AWS service converts text to lifelike voices?
 
 A. Amazon Transcribe
+
 B. Amazon Rekognition
-(X)C. Amazon Polly
+
+**C. Amazon Polly**
+
 D. Amazon Textract
 
-329. A company wants to use application stacks to run a workload in the AWS Cloud. The company wants to use pre-configured instances. Which AWS service will meet these requirements?
+## 329. A company wants to use application stacks to run a workload in the AWS Cloud. The company wants to use pre-configured instances. Which AWS service will meet these requirements?
 
-(X)A. Amazon Lightsail
+**A. Amazon Lightsail**
+
 B. Amazon Athena
+
 C. AWS Outposts
+
 D. Amazon EC2
 
-330. Which AWS services are supported by Savings Plans? (Choose two.)
+## 330. Which AWS services are supported by Savings Plans? (Choose two.)
 
-(X)A. Amazon EC2
+**A. Amazon EC2**
+
 B. Amazon RDS
-(X)C. Amazon SageMaker
+
+**C. Amazon SageMaker**
+
 D. Amazon Redshift
+
 E. Amazon DynamoDB
 
-331. Which AWS service or tool can provide rightsizing recommendations for Amazon EC2 resources at no additional cost?
+## 331. Which AWS service or tool can provide rightsizing recommendations for Amazon EC2 resources at no additional cost?
 
 A. AWS Well-Architected Tool
+
 B. Amazon CloudWatch
-(X)C. AWS Cost Explorer
+
+**C. AWS Cost Explorer**
+
 D. Amazon S3 analytics
 
-332. A company operates a petabyte-scale data warehouse to analyze its data. The company wants a solution that will not require manual hardware and software management. Which AWS service will meet these requirements?
+## 332. A company operates a petabyte-scale data warehouse to analyze its data. The company wants a solution that will not require manual hardware and software management. Which AWS service will meet these requirements?
 
 A. Amazon DocumentDB (with MongoDB compatibility)
-(X)B. Amazon Redshift
+
+**B. Amazon Redshift**
+
 C. Amazon Neptune
+
 D. Amazon ElastiCache
 
-333. A library wants to automate the classification of electronic books based on the contents of the books. Which AWS service should the library use to meet this requirement?
+## 333. A library wants to automate the classification of electronic books based on the contents of the books. Which AWS service should the library use to meet this requirement?
 
 A. Amazon Redshift
+
 B. Amazon CloudSearch
-(X)C. Amazon Comprehend
+
+**C. Amazon Comprehend**
+
 D. Amazon Aurora
 
-334. Which task is a responsibility of AWS, according to the AWS shared responsibility model?
+## 334. Which task is a responsibility of AWS, according to the AWS shared responsibility model?
 
 A. Encryption of application data
+
 B. Authentication of application users
-(X)C. Protection of physical network infrastructure
+
+**C. Protection of physical network infrastructure**
+
 D. Configuration of firewalls
 
-335. Which options are AWS Cloud Adoption Framework (AWS CAF) cloud transformation journey recommendations? (Choose two.)
+## 335. Which options are AWS Cloud Adoption Framework (AWS CAF) cloud transformation journey recommendations? (Choose two.)
 
-(X)A. Envision phase
-(X)B. Align phase
+**A. Envision phase**
+
+**B. Align phase**
+
 C. Assess phase
+
 D. Mobilize phase
+
 E. Migrate and modernize phase
 
-336. A company wants to generate a list of IAM users. The company also wants to view the status of various credentials that are associated with the users, such as password, access keys, and multi-factor authentication (MFA) devices. Which AWS service or feature will meet these requirements?
+## 336. A company wants to generate a list of IAM users. The company also wants to view the status of various credentials that are associated with the users, such as password, access keys, and multi-factor authentication (MFA) devices. Which AWS service or feature will meet these requirements?
 
-(X)A. IAM credential report
+**A. IAM credential report**
+
 B. AWS IAM Identity Center (AWS Single Sign-On)
+
 C. AWS Identity and Access Management Access Analyzer
+
 D. AWS Cost and Usage Report
 
-337. A company is designing its AWS workloads so that components can be updated regularly and so that changes can be made in small, reversible increments. Which pillar of the AWS Well-Architected Framework does this design support?
+## 337. A company is designing its AWS workloads so that components can be updated regularly and so that changes can be made in small, reversible increments. Which pillar of the AWS Well-Architected Framework does this design support?
 
 A. Security
+
 B. Performance efficiency
-(X)C. Operational excellence
+
+**C. Operational excellence**
+
 D. Reliability
 
 ## 338. A company wants to track tags, buckets, and prefixes for its Amazon S3 objects. Which S3 feature will meet this requirement?
@@ -3792,17 +3850,16 @@ D. AWS CloudFormation
 ## 377. A company is in the early stages of planning a migration to AWS. The company wants to obtain the monthly predicted total AWS cost of ownership for future Amazon EC2 instances and associated storage. Which AWS service or tool should the company use to meet these requirements?
  
 **A.AWS Pricing Calculator**
+
 B. AWS Compute Optimizer
+
 C. AWS Trusted Advisor
+
 D. AWS Application Migration Service
 
-## 378. A company deploys a new application to Amazon EC2 instances. The application code is stored in an AWS CodeCommit repository. The company uses an AWS CodePipeline pipeline to deploy the code to the EC2 instances through a continuous integration and continuous delivery (CI/CD) process.
+## 378. A company deploys a new application to Amazon EC2 instances. The application code is stored in an AWS CodeCommit repository. The company uses an AWS CodePipeline pipeline to deploy the code to the EC2 instances through a continuous integration and continuous delivery (CI/CD) process. A SysOps administrator needs to ensure that sensitive database information is configured properly on the EC2 instances to prevent accidental leakage of credentials. Which solutions will store and retrieve the sensitive information in the MOST secure manner? (Choose two.). 
 
-A SysOps administrator needs to ensure that sensitive database information is configured properly on the EC2 instances to prevent accidental leakage of credentials.
-
-Which solutions will store and retrieve the sensitive information in the MOST secure manner? (Choose two.)
-
-**A.** Store the values in **AWS Secrets Manager**. Update the code to retrieve these values when the application starts. Store the values as environmental variables that the application can use.
+A. Store the values in **AWS Secrets Manager**. Update the code to retrieve these values when the application starts. Store the values as environmental variables that the application can use.
 
 B. Store the values in AWS Systems Manager Parameter Store as secret strings. Update the code to retrieve these values when the application starts. Store the values as environmental variables that the application can use.
 
@@ -3812,13 +3869,7 @@ D. Store the configuration information in a file on the EC2 instances. Ensure th
 
 E. Store the values in a text file in an Amazon S3 bucket. In the CI/CD pipeline, copy the file to the EC2 instance in an appropriate location on a disk that the application can read.
 
-## 379. A large company is migrating its entire IT portfolio to AWS. Each business unit in the company has a standalone AWS account that supports both development and test environments. New accounts to support production workloads will be needed soon.
-
-The finance department requires a centralized method for payment but must maintain visibility into each group's spending to allocate costs.
-
-The security team requires a centralized mechanism to control IAM usage in all the company’s accounts.
-
-What combination of the following options meets the company’s needs with the LEAST effort? (Choose two.)
+## 379. A large company is migrating its entire IT portfolio to AWS. Each business unit in the company has a standalone AWS account that supports both development and test environments. New accounts to support production workloads will be needed soon. The finance department requires a centralized method for payment but must maintain visibility into each group's spending to allocate costs. The security team requires a centralized mechanism to control IAM usage in all the company’s accounts. What combination of the following options meets the company’s needs with the LEAST effort? (Choose two.)
 
 A. Use a collection of parameterized AWS CloudFormation templates defining common IAM permissions that are launched into each account. Require all new and existing accounts to launch the appropriate stacks to enforce the least privilege model.
 
