@@ -8,7 +8,7 @@ A. Use of the Snowball Edge appliance for a 10-day period
 
 B. The transfer of data out of Amazon S3 and to the Snowball Edge appliance
 
-**C.** The transfer of **data from the Snowball Edge appliance into Amazon S3**
+**C. The transfer of data from the Snowball Edge appliance into Amazon S3**
 
 D. Daily use of the Snowball Edge appliance after 10 days
 
