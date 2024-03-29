@@ -693,60 +693,80 @@ A. AWS Certificate Manager
 
 B. AWS Systems Manager
 
-(X) C. AWS KMS
+**C. AWS KMS**
 
 D. AWS Config
 
-75. A company wants to manage its AWS Cloud resources through a web interface.
-Which AWS service will meet this requirement?
+## 75. A company wants to manage its AWS Cloud resources through a web interface. Which AWS service will meet this requirement?
 
-A. AWS Management Console
+**A. AWS Management Console**
+
 B. AWS CLI
+
 C. AWS SDK
+
 D. AWS Cloud9
 
-76. Which of the following are advantages of the AWS Cloud? (Choose two.)
+## 76. Which of the following are advantages of the AWS Cloud? (Choose two.)
 
 A. Trade variable expenses for capital expenses
-B. High economies of scale
-C. Launch globally in minutes
+
+**B. High economies of scale**
+
+**C. Launch globally in minutes**
+
 D. Focus on managing hardware infrastructure
+
 E. Overprovision to ensure capacity
 
-77. Which AWS Cloud benefit is shown by an architecture’s ability to withstand failures with minimal downtime?
+## 77. Which AWS Cloud benefit is shown by an architecture’s ability to withstand failures with minimal downtime?
 
 A. Agility
+
 B. Elasticity
+
 C. Scalability
+
 D. High availability
 
-78. A developer needs to maintain a development environment infrastructure and a production environment infrastructure in a repeatable fashion.
-Which AWS service should the developer use to meet these requirements?
+## 78. A developer needs to maintain a development environment infrastructure and a production environment infrastructure in a repeatable fashion. Which AWS service should the developer use to meet these requirements?
 
 A. AWS Ground Station
+
 B. AWS Shield
+
 C. AWS IoT Device Defender
+
 D. AWS CloudFormation
 
-79. Which task is the customer’s responsibility, according to the AWS shared responsibility model?
+## 79. Which task is the customer’s responsibility, according to the AWS shared responsibility model?
 
 A. Maintain the security of the AWS Cloud.
+
 B. Configure firewalls and networks.
+
 C. Patch the operating system of Amazon RDS instances.
+
 D. Implement physical and environmental controls.
 
-80. Which AWS service helps deliver highly available applications with fast failover for multi-Region and Multi-AZ architectures?
+## 80. Which AWS service helps deliver highly available applications with fast failover for multi-Region and Multi-AZ architectures?
 
 A. AWS WAF
+
 B. AWS Global Accelerator
+
 C. AWS Shield
+
 D. AWS Direct Connect
 
-81. A company has a set of ecommerce applications. The applications need to be able to send messages to each other. Which AWS service meets this requirement?
+## 81. A company has a set of ecommerce applications. The applications need to be able to send messages to each other. Which AWS service meets this requirement?
 
 A. AWS Auto Scaling
+
 B. Elastic Load Balancing
-(X) C. Amazon Simple Queue Service (Amazon SQS)
+
+**C. Amazon Simple Queue Service (Amazon SQS)**
+
 D. Amazon Kinesis Data Streams
 
 82. What are the benefits of consolidated billing for AWS Cloud services? (Choose two.)
