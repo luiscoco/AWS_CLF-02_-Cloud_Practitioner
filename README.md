@@ -1025,7 +1025,7 @@ C. AWS Trusted Advisor
 
 **D. AWS CloudFormation**
 
-101. Which option is an AWS Cloud Adoption Framework (AWS CAF) platform perspective capability?
+## 101. Which option is an AWS Cloud Adoption Framework (AWS CAF) platform perspective capability?
 
 A. Data architecture
 
@@ -1099,7 +1099,7 @@ C. Pay-as-you-go pricing
 
 D. Spot Instances
 
-108. A user wants to allow applications running on an Amazon EC2 instance to make calls to other AWS services. The access granted must be secure. Which AWS service or feature should be used?
+## 108. A user wants to allow applications running on an Amazon EC2 instance to make calls to other AWS services. The access granted must be secure. Which AWS service or feature should be used?
 
 A. Security groups
 
@@ -1182,8 +1182,11 @@ D. Amazon CloudWatch
 ## 116. Which fully managed AWS service assists with the creation, testing, and management of custom Amazon EC2 images?
 
 A. EC2 Image Builder
+
 B. Amazon Machine Image (AMI)
+
 C. AWS Launch Wizard
+
 D. AWS Elastic Beanstalk
 
 ## 117. A company wants an automated process to continuously scan its Amazon EC2 instances for software vulnerabilities. Which AWS service will meet these requirements?
@@ -1276,110 +1279,150 @@ C. AWS Cloud9
 
 D. AWS Virtual Private Network (AWS VPN)
 
-126. A company needs to evaluate its AWS environment and provide best practice recommendations in five categories: cost, performance, service limits, fault tolerance and security. Which AWS service can the company use to meet these requirements?
+## 126. A company needs to evaluate its AWS environment and provide best practice recommendations in five categories: cost, performance, service limits, fault tolerance and security. Which AWS service can the company use to meet these requirements?
 
 A. AWS Shield
+
 B. AWS WAF
+
 C. AWS Trusted Advisor
+
 D. AWS Service Catalog
 
-127. Which perspective in the AWS Cloud Adoption Framework (AWS CAF) includes capabilities for configuration management and patch management?
+## 127. Which perspective in the AWS Cloud Adoption Framework (AWS CAF) includes capabilities for configuration management and patch management?
 
 A. Platform
-(X) B. Operations
+
+**B. Operations**
+
 C. Security
+
 D. Governance
 
-128. A company has a compute workload that is steady, predictable, and uninterruptible.
-Which Amazon EC2 instance purchasing options meet these requirements MOST cost-effectively? (Choose two.)
+## 128. A company has a compute workload that is steady, predictable, and uninterruptible. Which Amazon EC2 instance purchasing options meet these requirements MOST cost-effectively? (Choose two.)
 
 A. On-Demand Instances
+
 B. Reserved Instances
+
 C. Spot Instances
+
 D. Saving Plans
+
 E. Dedicated Hosts
 
-129. Which Amazon EC2 pricing model is the MOST cost efficient for an uninterruptible workload that runs once a year for 24 hours?
+## 129. Which Amazon EC2 pricing model is the MOST cost efficient for an uninterruptible workload that runs once a year for 24 hours?
 
 A. On-Demand Instances
+
 B. Reserved Instances
+
 C. Spot Instances
+
 D. Dedicated Instances
 
-130. Which option is a shared responsibility between AWS and its customers under the AWS shared responsibility model?
+## 130. Which option is a shared responsibility between AWS and its customers under the AWS shared responsibility model?
 
 A. Configuration of Amazon EC2 instance operating systems
+
 B. Application file system server-side encryption
+
 C. Patch management
+
 D. Security of the physical infrastructure
 
-131. A company wants to migrate its on-premises workloads to the AWS Cloud. The company wants to separate workloads for chargeback to different departments.
-Which AWS services or features will meet these requirements? (Choose two.)
+## 131. A company wants to migrate its on-premises workloads to the AWS Cloud. The company wants to separate workloads for chargeback to different departments. Which AWS services or features will meet these requirements? (Choose two.)
 
 A. Placement groups
-(X) B. Consolidated billing
-C. Edge locations
-D. AWS Config
-(X) E. Multiple AWS accounts
 
-132. Which task is a responsibility of AWS, according to the AWS shared responsibility model?
+**B. Consolidated billing**
+
+C. Edge locations
+
+D. AWS Config
+
+**E. Multiple AWS accounts**
+
+## 132. Which task is a responsibility of AWS, according to the AWS shared responsibility model?
 
 A. Enable client-side encryption for objects that are stored in Amazon S3.
-B. Configure IAM security policies to comply with the principle of least privilege.
-C. Patch the guest operating system on an Amazon EC2 instance.
-(X) D. Apply updates to the Nitro Hypervisor.
 
-133. Which option is a benefit of using AWS for cloud computing?
+B. Configure IAM security policies to comply with the principle of least privilege.
+
+C. Patch the guest operating system on an Amazon EC2 instance.
+
+**D. Apply updates to the Nitro Hypervisor.**
+
+## 133. Which option is a benefit of using AWS for cloud computing?
 
 A. Trade variable expense for fixed expense
-(X) B. Pay-as-you-go pricing
+
+**B. Pay-as-you-go pricing**
+
 C. Decreased speed and agility
+
 D. Spending money running and maintaining data centers
 
-134. Which option is an AWS Cloud Adoption Framework (AWS CAF) business perspective capability?
+## 134. Which option is an AWS Cloud Adoption Framework (AWS CAF) business perspective capability?
 
 A. Culture evolution
+
 B. Event management
+
 C. Data monetization
+
 D. Platform architecture
 
-135. A company is assessing its AWS Business Support plan to determine if the plan still meets the company’s needs. The company is considering switching to AWS Enterprise Support.
-Which additional benefit will the company receive with AWS Enterprise Support?
+## 135. A company is assessing its AWS Business Support plan to determine if the plan still meets the company’s needs. The company is considering switching to AWS Enterprise Support. Which additional benefit will the company receive with AWS Enterprise Support?
 
 A. A full set of AWS Trusted Advisor checks
+
 B. Phone, email, and chat access to cloud support engineers 24 hours a day, 7 days a week
-(X) C. A designated technical account manager (TAM) to assist in monitoring and optimization
+
+**C. A designated technical account manager (TAM) to assist in monitoring and optimization**
+
 D. A consultative review and architecture guidance for the company’s applications
 
-136. Which pricing model will interrupt a running Amazon EC2 instance if capacity becomes temporarily unavailable?
+## 136. Which pricing model will interrupt a running Amazon EC2 instance if capacity becomes temporarily unavailable?
 
 A. On-Demand Instances
+
 B. Standard Reserved Instances
-(X) C. Spot Instances
+
+**C. Spot Instances**
+
 D. Convertible Reserved Instances
 
-137. Which options are AWS Cloud Adoption Framework (AWS CAF) security perspective capabilities? (Choose two.)
+# #137. Which options are AWS Cloud Adoption Framework (AWS CAF) security perspective capabilities? (Choose two.)
 
 A. Observability
+
 B. Incident and problem management
+
 C. Incident response
+
 D. Infrastructure protection
+
 E. Availability and continuity
 
-138. A company wants to run its workload on Amazon EC2 instances for more than 1 year. This workload will run continuously.
-
-Which option offers a discounted hourly rate compared to the hourly rate of On-Demand Instances?
+## 138. A company wants to run its workload on Amazon EC2 instances for more than 1 year. This workload will run continuously. Which option offers a discounted hourly rate compared to the hourly rate of On-Demand Instances?
 
 A. AWS Graviton processor
+
 B. Dedicated Hosts
+
 C. EC2 Instance Savings Plans
+
 D. Amazon EC2 Auto Scaling instances
 
-139. Which characteristic of the AWS Cloud helps users eliminate underutilized CPU capacity?
+## 139. Which characteristic of the AWS Cloud helps users eliminate underutilized CPU capacity?
 
 A. Agility
+
 B. Elasticity
+
 C. Reliability
+
 D. Durability
 
 ## 140. Which AWS services can a company use to achieve a loosely coupled architecture? (Choose two.)
@@ -2046,7 +2089,7 @@ B. AWS Cost Explorer
 
 D. AWS Cost Anomaly Detection
 
-205. A company is planning to move data backups to the AWS Cloud. The company needs to replace on-premises storage with storage that is cloud-based but locally cached. Which AWS service meets these requirements?
+## 205. A company is planning to move data backups to the AWS Cloud. The company needs to replace on-premises storage with storage that is cloud-based but locally cached. Which AWS service meets these requirements?
 
 A. AWS Storage Gateway
 
@@ -2271,91 +2314,125 @@ C. AWS Trusted Advisor
 
 E. AWS Service Catalog
 
-227. A company needs to migrate a PostgreSQL database from on-premises to Amazon RDS.
-Which AWS service or tool should the company use to meet this requirement?
+## 227. A company needs to migrate a PostgreSQL database from on-premises to Amazon RDS. Which AWS service or tool should the company use to meet this requirement?
 
 A. Cloud Adoption Readiness Tool
+
 B. AWS Migration Hub
-(X)C. AWS Database Migration Service (AWS DMS)
+
+**C. AWS Database Migration Service (AWS DMS)**
+
 D. AWS Application Migration Service
 
-228. Which cloud concept is demonstrated by using AWS Compute Optimizer?
+## 228. Which cloud concept is demonstrated by using AWS Compute Optimizer?
 
 A. Security validation
-(X)B. Rightsizing
+
+**B. Rightsizing**
+
 C. Elasticity
+
 D. Global reach
 
-229. A company hosts a large amount of data in AWS. The company wants to identify if any of the data should be considered sensitive. Which AWS service will meet the requirement?
+## 229. A company hosts a large amount of data in AWS. The company wants to identify if any of the data should be considered sensitive. Which AWS service will meet the requirement?
 
 A. Amazon Inspector
-(X)B. Amazon Macie
+
+**B. Amazon Macie**
+
 C. AWS Identity and Access Management (IAM)
+
 D. Amazon CloudWatch
 
-230. A user has a stateful workload that will run on Amazon EC2 for the next 3 years.
-What is the MOST cost-effective pricing model for this workload?
+## 230. A user has a stateful workload that will run on Amazon EC2 for the next 3 years. What is the MOST cost-effective pricing model for this workload?
 
 A. On-Demand Instances
-()B. Reserved Instances
+
+**B. Reserved Instances**
+
 C. Dedicated Instances
+
 D. Spot Instances
 
-231. Who enables encryption of data at rest for Amazon Elastic Block Store (Amazon EBS)?
+## 231. Who enables encryption of data at rest for Amazon Elastic Block Store (Amazon EBS)?
 
 A. AWS Support
-(X)B. AWS customers
+
+**B. AWS customers**
+
 C. AWS Key Management Service (AWS KMS)
+
 D. AWS Trusted Advisor
 
-232. What can a user accomplish using AWS CloudTrail?
+## 232. What can a user accomplish using AWS CloudTrail?
 
 A. Generate an IAM user credentials report.
-(X)B. Record API calls made to AWS services.
+
+**B. Record API calls made to AWS services.**
+
 C. Assess the compliance of AWS resource configurations with policies and guidelines.
+
 D. Ensure that Amazon EC2 instances are patched with the latest security updates.
 
-233. A company is planning to host its workloads on AWS. Which AWS service requires the company to update and patch the guest operating system?
+## 233. A company is planning to host its workloads on AWS. Which AWS service requires the company to update and patch the guest operating system?
 
 A. Amazon DynamoDB
+
 B. Amazon S3
-(X)C. Amazon EC2
+
+**C. Amazon EC2**
+
 D. Amazon Aurora
 
-234. Which AWS service or feature will search for and identify AWS resources that are shared externally?
+## 234. Which AWS service or feature will search for and identify AWS resources that are shared externally?
 
 A. Amazon OpenSearch Service
+
 B. AWS Control Tower
-(X)C. AWS IAM Access Analyzer
+
+**C. AWS IAM Access Analyzer**
+
 D. AWS Fargate
 
-235. A company is migrating its workloads to the AWS Cloud. The company must retain full control of patch management for the guest operating systems that host its applications. Which AWS service should the company use to meet these requirements?
+## 235. A company is migrating its workloads to the AWS Cloud. The company must retain full control of patch management for the guest operating systems that host its applications. Which AWS service should the company use to meet these requirements?
 
 A. Amazon DynamoDB
-(X)B. Amazon EC2
+
+**B. Amazon EC2**
+
 C. AWS Lambda
+
 D. Amazon RDS
 
-236. At what support level do users receive access to a support concierge?
+## 236. At what support level do users receive access to a support concierge?
 
 A. Basic Support
-B. Developer Support
-C. Business Support
-(X)D. Enterprise Support
 
-237. Which AWS service can a company use to visually design and build serverless applications?
+B. Developer Support
+
+C. Business Support
+
+**D. Enterprise Support**
+
+## 237. Which AWS service can a company use to visually design and build serverless applications?
 
 A. AWS Lambda
+
 B. AWS Batch
-(X)C. AWS Application Composer
+
+**C. AWS Application Composer**
+
 D. AWS App Runner
 
-238. A company wants to migrate to AWS and use the same security software it uses on premises. The security software vendor offers its security software as a service on AWS. Where can the company purchase the security solution?
+## 238. A company wants to migrate to AWS and use the same security software it uses on premises. The security software vendor offers its security software as a service on AWS. Where can the company purchase the security solution?
 
 A. AWS Partner Solutions Finder
+
 B. AWS Support Center
+
 C. AWS Management Console
-(X)D. AWS Marketplace
+
+**D. AWS Marketplace**
 
 239. A company has deployed an Amazon EC2 instance. Which option is an AWS responsibility under the AWS shared responsibility model?
 
