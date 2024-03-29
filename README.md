@@ -626,7 +626,7 @@ C. Amazon Redshift
 
 **D. Amazon Aurora**
 
-62. Which AWS service supports a hybrid architecture that gives users the ability to extend AWS infrastructure, AWS services, APIs, and tools to data centers, co-location environments, or on-premises facilities?
+## 62. Which AWS service supports a hybrid architecture that gives users the ability to extend AWS infrastructure, AWS services, APIs, and tools to data centers, co-location environments, or on-premises facilities?
 
 A. AWS Snowmobile
 
@@ -844,39 +844,54 @@ E. Custom cost and usage budget creation
 ## 83. A user wants to review all Amazon S3 buckets with ACLs and S3 bucket policies in the S3 console. Which AWS service or resource will meet this requirement?
 
 A. S3 Multi-Region Access Points
+
 B. S3 Storage Lens
+
 C. AWS IAM Identity Center (AWS Single Sign-On)
+
 D. Access Analyzer for S3
 
-84. What is the best resource for a user to find compliance-related information and reports about AWS?
+## 84. What is the best resource for a user to find compliance-related information and reports about AWS?
 
 A. AWS Artifact
+
 B. AWS Marketplace
+
 C. Amazon Inspector
+
 D. AWS Support
 
-85. Which AWS service enables companies to deploy an application close to end users?
+## 85. Which AWS service enables companies to deploy an application close to end users?
 
 A. Amazon CloudFront
+
 B. AWS Auto Scaling
+
 C. AWS AppSync
+
 D. Amazon Route 53
 
-86. Which AWS service or feature improves network performance by sending traffic through the AWS worldwide network infrastructure?
+## 86. Which AWS service or feature improves network performance by sending traffic through the AWS worldwide network infrastructure?
 
 A. Route table
+
 B. AWS Transit Gateway
+
 C. AWS Global Accelerator
+
 D. Amazon VPC
 
-87. Which AWS service provides highly durable object storage?
+## 87. Which AWS service provides highly durable object storage?
 
 A. Amazon S3
+
 B. Amazon Elastic File System (Amazon EFS)
+
 C. Amazon Elastic Block Store (Amazon EBS)
+
 D. Amazon FSx
 
-88. Which responsibility belongs to AWS when a company hosts its databases on Amazon EC2 instances?
+## 88. Which responsibility belongs to AWS when a company hosts its databases on Amazon EC2 instances?
 
 A. Database backups
 B. Database software patches
