@@ -2434,116 +2434,159 @@ C. AWS Management Console
 
 **D. AWS Marketplace**
 
-239. A company has deployed an Amazon EC2 instance. Which option is an AWS responsibility under the AWS shared responsibility model?
+## 239. A company has deployed an Amazon EC2 instance. Which option is an AWS responsibility under the AWS shared responsibility model?
 
 A. Managing and encrypting application data
+
 B. Installing updates and security patches of guest operating system
+
 C. Configuration of infrastructure devices
+
 D. Configuration of security groups on each instance
  
-240. A company wants to migrate its PostgreSQL database to AWS. The company does not use the database frequently. Which AWS service or resource will meet these requirements with the LEAST management overhead?
+## 240. A company wants to migrate its PostgreSQL database to AWS. The company does not use the database frequently. Which AWS service or resource will meet these requirements with the LEAST management overhead?
 
 A. PostgreSQL on Amazon EC2
-B. Amazon RDS for PostgreSQL
-C. Amazon Aurora PostgreSQL-Compatible Edition
-(X)D. Amazon Aurora Serverless
 
-241. A company is using Amazon DynamoDB for its application database. Which tasks are the responsibility of AWS, according to the AWS shared responsibility model? (Choose two.)
+B. Amazon RDS for PostgreSQL
+
+C. Amazon Aurora PostgreSQL-Compatible Edition
+
+**D. Amazon Aurora Serverless**
+
+## 241. A company is using Amazon DynamoDB for its application database. Which tasks are the responsibility of AWS, according to the AWS shared responsibility model? (Choose two.)
 
 A. Classify data.
-B. Configure access permissions.
-C. Manage encryption options.
-(X)D. Provide public endpoints to store and retrieve data.
-(X)E. Manage the infrastructure layer and the operating system.
 
-242. A company wants to create a globally accessible ecommerce platform for its customers. The company wants to use a highly available and scalable DNS web service to connect users to the platform. Which AWS service will meet these requirements?
+B. Configure access permissions.
+
+C. Manage encryption options.
+
+**D. Provide public endpoints to store and retrieve data.**
+
+**E. Manage the infrastructure layer and the operating system.**
+
+## 242. A company wants to create a globally accessible ecommerce platform for its customers. The company wants to use a highly available and scalable DNS web service to connect users to the platform. Which AWS service will meet these requirements?
 
 A. Amazon EC2
+
 B. Amazon VPC
-(X)C. Amazon Route 53
+
+**C. Amazon Route 53**
+
 D. Amazon RDS
 
-243. Which maintenance task is the customer’s responsibility, according to the AWS shared responsibility model?
+## 243. Which maintenance task is the customer’s responsibility, according to the AWS shared responsibility model?
 
 A. Physical connectivity among Availability Zones
-B. Network switch maintenance
-C. Hardware updates and firmware patches
-(X)D. Amazon EC2 updates and security patches
 
-244. A company wants to improve its security posture by reviewing user activity through API calls.
-Which AWS service will meet this requirement?
+B. Network switch maintenance
+
+C. Hardware updates and firmware patches
+
+**D. Amazon EC2 updates and security patches**
+
+## 244. A company wants to improve its security posture by reviewing user activity through API calls. Which AWS service will meet this requirement?
 
 A. AWS WAF
-B. Amazon Detective
-C. Amazon CloudWatch
-(X)D. AWS CloudTrail
 
-245. A company is migrating to the AWS Cloud and plans to run experimental workloads for 3 to 6 months on AWS.
-Which pricing model will meet these requirements?
+B. Amazon Detective
+
+C. Amazon CloudWatch
+
+**D. AWS CloudTrail**
+
+## 245. A company is migrating to the AWS Cloud and plans to run experimental workloads for 3 to 6 months on AWS. Which pricing model will meet these requirements?
 
 A. Use Savings Plans for a 3-year term.
-B. Use Dedicated Hosts.
-C. Buy Reserved Instances.
-(X)D. Use On-Demand Instances.
 
-246. A company that has AWS Enterprise Support is launching a new version of a popular product in 2 months. The company expects a large increase in traffic to its website. The website is hosted on Amazon EC2 instances.
-Which action should the company take to assess its readiness to scale for this launch?
+B. Use Dedicated Hosts.
+
+C. Buy Reserved Instances.
+
+**D. Use On-Demand Instances.**
+
+## 246. A company that has AWS Enterprise Support is launching a new version of a popular product in 2 months. The company expects a large increase in traffic to its website. The website is hosted on Amazon EC2 instances. Which action should the company take to assess its readiness to scale for this launch?
 
 A. Replace the EC2 instances with AWS Lambda functions.
+
 B. Use AWS Infrastructure Event Management (IEM) support.
+
 C. Submit a request on AWS Marketplace to monitor the event.
+
 D. Review the coverage reports in the AWS Cost Management console.
 
-247. A company wants to launch multiple workloads on AWS. Each workload is related to a different business unit. The company wants to separate and track costs for each business unit. Which solution will meet these requirements with the LEAST operational overhead?
+## 247. A company wants to launch multiple workloads on AWS. Each workload is related to a different business unit. The company wants to separate and track costs for each business unit. Which solution will meet these requirements with the LEAST operational overhead?
 
 A. Use AWS Organizations and create one account for each business unit.
+
 B. Use a spreadsheet to control the owners and cost of each resource.
+
 C. Use an Amazon DynamoDB table to record costs for each business unit.
+
 D. Use the AWS Billing console to assign owners to resources and track costs.
 
-248. A company wants a time-series database service that makes it easier to store and analyze trillions of events each day. Which AWS service will meet this requirement?
+## 248. A company wants a time-series database service that makes it easier to store and analyze trillions of events each day. Which AWS service will meet this requirement?
 
 A. Amazon Neptune
+
 B. Amazon Timestream
+
 C. Amazon Forecast
+
 D. Amazon DocumentDB (with MongoDB compatibility)
 
-249. Which option is a shared control between AWS and the customer, according to the AWS shared responsibility model?
+## 249. Which option is a shared control between AWS and the customer, according to the AWS shared responsibility model?
 
 A. Configuration management
+
 B. Physical and environmental controls
+
 C. Data integrity authentication
+
 D. Identity and access management
 
-250. A company often does not use all of its current Amazon EC2 capacity to run stateless workloads. The company wants to optimize its EC2 costs. Which EC2 instance type will meet these requirements?
+## 250. A company often does not use all of its current Amazon EC2 capacity to run stateless workloads. The company wants to optimize its EC2 costs. Which EC2 instance type will meet these requirements?
 
-(X)A. Spot Instances
+**A. Spot Instances**
+
 B. Dedicated Instances
+
 C. Reserved Instances
+
 D. On-Demand Instances
 
-251. A company wants to store data in Amazon S3. The company rarely access the data, and the data can be regenerated if necessary. The company wants to store the data in the most cost-effective storage class. Which S3 storage class will meet this requirement?
+## 251. A company wants to store data in Amazon S3. The company rarely access the data, and the data can be regenerated if necessary. The company wants to store the data in the most cost-effective storage class. Which S3 storage class will meet this requirement?
 
 A. S3 Standard
-B. S3 Intelligent-Tiering
-C. S3 Standard-Infrequent Access (S3 Standard-IA)
-(X)D. S3 One Zone-Infrequent Access (S3 One Zone-IA)
 
-252. A company has migrated its workloads to AWS. The company wants to adopt AWS at scale and operate more efficiently and securely. Which AWS service or framework should the company use for operational support?
+B. S3 Intelligent-Tiering
+
+C. S3 Standard-Infrequent Access (S3 Standard-IA)
+
+**D. S3 One Zone-Infrequent Access (S3 One Zone-IA)**
+
+## 252. A company has migrated its workloads to AWS. The company wants to adopt AWS at scale and operate more efficiently and securely. Which AWS service or framework should the company use for operational support?
 
 A. AWS Support
+
 B. AWS Cloud Adoption Framework (AWS CAF)
-(X)C. AWS Managed Services (AMS)
+
+**C. AWS Managed Services (AMS)**
+
 D. AWS Well-Architected Framework
 
-253. A company wants to provision and manage its AWS infrastructure by using the common programming languages Typescript, Python, Java, and .NET. Which AWS service will meet this requirement?
+## 253. A company wants to provision and manage its AWS infrastructure by using the common programming languages Typescript, Python, Java, and .NET. Which AWS service will meet this requirement?
 
 A. AWS CodeBuild
-B. AWS CloudFormation
-C. AWS CLI
-(X)D. AWS Cloud Development Kit (AWS CDK)
 
-254. Which Amazon EC2 pricing model provides the MOST cost savings for an always-up, right-sized database server running for a project that will last 1 year?
+B. AWS CloudFormation
+
+C. AWS CLI
+
+**D. AWS Cloud Development Kit (AWS CDK)**
+
+## 254. Which Amazon EC2 pricing model provides the MOST cost savings for an always-up, right-sized database server running for a project that will last 1 year?
 
 A. On-Demand Instances
 B. Convertible Reserved Instances
