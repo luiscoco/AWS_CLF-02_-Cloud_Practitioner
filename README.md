@@ -934,7 +934,7 @@ D. Amazon Elastic Block Store (Amazon EBS)
 
 ## 91. A company plans to migrate to AWS and wants to create cost estimates for its AWS use cases. Which AWS service or tool can the company use to meet these requirements?
 
-A. AWS Pricing Calculator
+**A. AWS Pricing Calculator**
 
 B. Amazon CloudWatch
 
@@ -968,7 +968,7 @@ A. restricted access.
 
 B. as-needed access.
 
-C. least privilege access.
+**C. least privilege access.**
 
 D. token access.
 
@@ -980,13 +980,13 @@ B. AWS WAF
 
 C. AWS Firewall Manager
 
-D. Network ACL
+**D. Network ACL**
 
 ## 96. A company wants to operate a data warehouse to analyze data without managing the data warehouse infrastructure. Which AWS service will meet this requirement?
 
 A. Amazon Aurora
 
-B. Amazon Redshift Serverless
+**B. Amazon Redshift Serverless**
 
 C. AWS Lambda
 
@@ -996,19 +996,19 @@ D. Amazon RDS
 
 A. AWS charges the same prices for services in every AWS Region.
 
-B. AWS enables capacity to be adjusted on demand.
+**B. AWS enables capacity to be adjusted on demand.**
 
 C. AWS offers discounts for Amazon EC2 instances that remain idle for more than 1 week.
 
 D. AWS does not charge for data sent from the AWS Cloud to the internet.
 
-E. AWS eliminates many of the costs of building and maintaining on-premises data centers.
+**E. AWS eliminates many of the costs of building and maintaining on-premises data centers.**
 
 ## 98. A company wants to grant users in one AWS account access to resources in another AWS account. The users do not currently have permission to access the resources. Which AWS service will meet this requirement?
 
 A. IAM group
 
-B. IAM role
+**B. IAM role**
 
 C. IAM tag
 
@@ -1040,7 +1040,7 @@ A. Data architecture
 
 B. Data protection
 
-C. Data governance
+**C. Data governance**
 
 D. Data science
 
@@ -1048,7 +1048,7 @@ D. Data science
 
 A. Loose coupling
 
-B. Rightsizing
+**B. Rightsizing**
 
 C. Caching
 
@@ -1058,7 +1058,7 @@ D. Redundancy
 
 A. Amazon Elastic Block Store (Amazon EBS)
 
-B. AWS Storage Gateway
+**B. AWS Storage Gateway**
 
 C. Amazon Elastic Container Service (Amazon ECS)
 
@@ -1068,7 +1068,7 @@ D. AWS Lambda
 
 A. Cost Explorer
 
-B. AWS Budgets
+**B. AWS Budgets**
 
 C. AWS Cost and Usage Report
 
@@ -1078,9 +1078,9 @@ D. Reserved Instance reporting
 
 A. Establish the global infrastructure.
 
-B. Perform client-side data encryption.
+**B. Perform client-side data encryption.**
 
-C. Configure IAM credentials.
+**C. Configure IAM credentials.**
 
 D. Secure edge locations.
 
@@ -1088,7 +1088,7 @@ E. Patch Amazon RDS DB instances.
 
 ## 106. A developer has been hired by a large company and needs AWS credentials. Which are security best practices that should be followed? (Choose two.)
 
-A. Grant the developer access to only the AWS resources needed to perform the job.
+**A. Grant the developer access to only the AWS resources needed to perform the job.**
 
 B. Share the AWS account root user credentials with the developer.
 
@@ -1096,13 +1096,13 @@ C. Add the developer to the administrator’s group in AWS IAM.
 
 D. Configure a password policy that ensures the developer’s password cannot be changed.
 
-E. Ensure the account password policy requires a minimum length.
+**E. Ensure the account password policy requires a minimum length.**
 
 ## 107. A company has multiple AWS accounts that include compute workloads that cannot be interrupted. The company wants to obtain billing discounts that are based on the company’s use of AWS services. Which AWS feature or purchasing option will meet these requirements?
 
 A. Resource tagging
 
-B. Consolidated billing
+**B. Consolidated billing**
 
 C. Pay-as-you-go pricing
 
@@ -1114,13 +1114,13 @@ A. Security groups
 
 B. AWS Firewall Manager
 
-C. IAM roles
+**C. IAM roles**
 
 D. IAM user SSH keys
 
 ## 109. A company wants a fully managed Windows file server for its Windows-based applications. Which AWS service will meet this requirement?
 
-A. Amazon FSx
+**A. Amazon FSx**
 
 B. Amazon Elastic Kubernetes Service (Amazon EKS)
 
@@ -1154,7 +1154,7 @@ A. Spot Instances
 
 B. On-Demand Instances
 
-C. Savings Plans
+**C. Savings Plans**
 
 D. Dedicated Hosts
 
@@ -1162,7 +1162,7 @@ D. Dedicated Hosts
 
 A. Amazon Polly
 
-B. Amazon Personalize
+**B. Amazon Personalize**
 
 C. Amazon Comprehend
 
@@ -1170,7 +1170,7 @@ D. Amazon Rekognition
 
 ## 114. A company is planning its migration to the AWS Cloud. The company is identifying its capability gaps by using the AWS Cloud Adoption Framework (AWS CAF) perspectives. Which phase of the cloud transformation journey includes these identification activities?
 
-A. Envision
+**A. Envision**
 
 B. Align
 
@@ -1182,7 +1182,7 @@ D. Launch
 
 A. Amazon Inspector
 
-B. AWS WAF
+**B. AWS WAF**
 
 C. Amazon GuardDuty
 
@@ -1190,7 +1190,7 @@ D. Amazon CloudWatch
 
 ## 116. Which fully managed AWS service assists with the creation, testing, and management of custom Amazon EC2 images?
 
-A. EC2 Image Builder
+**A. EC2 Image Builder**
 
 B. Amazon Machine Image (AMI)
 
@@ -1202,7 +1202,7 @@ D. AWS Elastic Beanstalk
 
 A. Amazon GuardDuty
 
-B. Amazon Inspector
+**B. Amazon Inspector**
 
 C. Amazon Detective
 
@@ -1212,7 +1212,7 @@ D. Amazon Cognito
 
 A. AWS Lambda
 
-B. Amazon EC2
+**B. Amazon EC2**
 
 C. AWS CodeDeploy
 
@@ -1232,7 +1232,7 @@ D. AWS Identity and Access Management (IAM)
 
 A. AWS Systems Manager Parameter Store
 
-B. AWS Secrets Manager
+**B. AWS Secrets Manager**
 
 C. AWS Config
 
@@ -1294,7 +1294,7 @@ A. AWS Shield
 
 B. AWS WAF
 
-C. AWS Trusted Advisor
+**C. AWS Trusted Advisor**
 
 D. AWS Service Catalog
 
@@ -1312,17 +1312,17 @@ D. Governance
 
 A. On-Demand Instances
 
-B. Reserved Instances
+**B. Reserved Instances**
 
 C. Spot Instances
 
-D. Saving Plans
+**D. Saving Plans**
 
 E. Dedicated Hosts
 
 ## 129. Which Amazon EC2 pricing model is the MOST cost efficient for an uninterruptible workload that runs once a year for 24 hours?
 
-A. On-Demand Instances
+**A. On-Demand Instances**
 
 B. Reserved Instances
 
@@ -1336,7 +1336,7 @@ A. Configuration of Amazon EC2 instance operating systems
 
 B. Application file system server-side encryption
 
-C. Patch management
+**C. Patch management**
 
 D. Security of the physical infrastructure
 
