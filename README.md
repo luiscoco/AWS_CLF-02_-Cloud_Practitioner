@@ -108,7 +108,7 @@ E. Implementing enforced tagging across AWS resources
 
 ## 11. Which of the following is an advantage that users experience when they move on-premises workloads to the AWS Cloud?
 
-A. Elimination of expenses for running and maintaining data centers
+**A. Elimination of expenses for running and maintaining data centers**
 
 B. Price discounts that are identical to discounts from hardware providers
 
@@ -160,13 +160,13 @@ D. AWS Managed Services (AMS)
 
 ## 16. An e-learning platform needs to run an application for 2 months each year. The application will be deployed on Amazon EC2 instances. Any application downtime during those 2 months must be avoided. Which EC2 purchasing option will meet these requirements MOST cost-effectively?
 
-**A. Reserved Instances**
+A. Reserved Instances
 
 B. Dedicated Hosts
 
 C. Spot Instances
 
-D. On-Demand Instances
+**D. On-Demand Instances**
 
 ## 17. A developer wants to deploy an application quickly on AWS without manually creating the required resources. Which AWS service will meet these requirements?
 
@@ -182,7 +182,7 @@ D. Amazon Personalize
 
 A. S3 Lifecycle rules
 
-B. S3 Versioning
+**B. S3 Versioning**
 
 C. S3 bucket policies
 
@@ -202,7 +202,7 @@ C. AWS Direct Connect
 
 A. On-Demand Instances
 
-B. Reserved Instances
+**B. Reserved Instances**
 
 C. Spot Instances
 
@@ -210,7 +210,7 @@ D. Spot Fleet
 
 ## 21. Which AWS service or feature allows a user to establish a dedicated network connection between a company’s on-premises data center and the AWS Cloud?
 
-A. AWS Direct Connect
+**A. AWS Direct Connect**
 
 B. VPC peering
 
@@ -222,7 +222,7 @@ D. Amazon Route 53
 
 A. AWS DataSync
 
-B. AWS Region
+**B. AWS Region**
 
 C. Amazon Connect
 
@@ -232,7 +232,7 @@ D. AWS Organizations
 
 A. Reliability
 
-B. Security
+**B. Security**
 
 C. Operational excellence
 
@@ -242,7 +242,7 @@ D. Performance efficiency
 
 A. To create a VPN connection to the VPC
 
-B. To allow communication between the VPC and the internet
+**B. To allow communication between the VPC and the internet**
 
 C. To impose bandwidth constraints on internet traffic
 
@@ -256,7 +256,7 @@ B. Use automation to deploy changes.
 
 C. Deploy the application to multiple locations.
 
-D. Implement loosely coupled dependencies.
+**D. Implement loosely coupled dependencies.**
 
 ## 26. A company has an AWS account. The company wants to audit its password and access key rotation details for compliance purposes. Which AWS service or tool will meet this requirement?
 
@@ -264,7 +264,7 @@ A. IAM Access Analyzer
 
 B. AWS Artifact
  
-C. IAM credential report
+**C. IAM credential report**
 
 D. AWS Audit Manager
 
@@ -272,11 +272,11 @@ D. AWS Audit Manager
 
 A. Amazon Simple Queue Service (Amazon SQS)
 
-B. AWS Budgets
+**B. AWS Budgets**
 
 C. Cost Explorer
 
-D. Amazon CloudWatch
+**D. Amazon CloudWatch**
 
 E. AWS Cost and Usage Report
 
@@ -288,13 +288,13 @@ B. Amazon Connect
 
 C. AWS Chatbot
 
-D. AWS Knowledge Center
+**D. AWS Knowledge Center**
 
 ## 29. Which tasks are customer responsibilities, according to the AWS shared responsibility model? (Choose two.)
 
-A. Configure the AWS provided security group firewall.
+**A. Configure the AWS provided security group firewall.**
 
-B. Classify company assets in the AWS Cloud.
+**B. Classify company assets in the AWS Cloud.**
 
 C. Determine which Availability Zones to use for Amazon S3 buckets.
 
@@ -338,7 +338,7 @@ D. AWS Key Management Service (AWS KMS) keys
 
 A. Reserved Instances
 
-B. Spot Instances
+**B. Spot Instances**
 
 C. On-Demand Instances
 
@@ -346,11 +346,11 @@ D. Dedicated Instances
 
 ## 34. What does the concept of agility mean in AWS Cloud computing? (Choose two.)
 
-A. The speed at which AWS resources are implemented
+**A. The speed at which AWS resources are implemented**
 
 B. The speed at which AWS creates new AWS Regions
 
-C. The ability to experiment quickly
+**C. The ability to experiment quickly**
 
 D. The elimination of wasted capacity
 
@@ -380,7 +380,7 @@ D. AWS Organizations
 
 A. Contact the AWS Compliance team.
 
-B. Download the reports from AWS Artifact.
+**B. Download the reports from AWS Artifact.**
 
 C. Open a case with AWS Support.
 
@@ -410,17 +410,17 @@ D. Avoid rotating credentials to prevent issues in production applications.
 
 A. How quickly an Amazon EC2 instance can be restarted
 
-B. The ability to rightsize resources as demand shifts
+**B. The ability to rightsize resources as demand shifts**
 
 C. The maximum amount of RAM an Amazon EC2 instance can use
 
-D. The pay-as-you-go billing model
+**D. The pay-as-you-go billing model**
 
 E. How easily resources can be procured when they are needed
 
 ## 41. Which service enables customers to audit API calls in their AWS accounts?
 
-A. AWS CloudTrail
+**A. AWS CloudTrail**
 
 B. AWS Trusted Advisor
 
@@ -430,7 +430,7 @@ D. AWS X-Ray
 
 ## 42. What is a customer responsibility when using AWS Lambda according to the AWS shared responsibility model?
 
-A. Managing the code within the Lambda function
+**A. Managing the code within the Lambda function**
 
 B. Confirming that the hardware is working in the data center
 
@@ -442,7 +442,7 @@ D. Shutting down Lambda functions when they are no longer in use
 
 A. Amazon Redshift
 
-B. Amazon Athena
+**B. Amazon Athena**
 
 C. Amazon Kinesis
 
@@ -451,8 +451,11 @@ D. Amazon RDS
 ## 44. Which AWS service can be used at no additional cost?
 
 A. Amazon SageMaker
+
 B. AWS Config
-C. AWS Organizations
+
+**C. AWS Organizations**
+
 D. Amazon CloudWatch
 
 ## 45. Which AWS Cloud Adoption Framework (AWS CAF) capability belongs to the people perspective?
@@ -461,7 +464,7 @@ A. Data architecture
 
 B. Event management
 
-C. Cloud fluency
+**C. Cloud fluency**
 
 D. Strategic partnership
 
@@ -471,9 +474,9 @@ A. Spot Instances
 
 B. On-Demand Instances
 
-C. Reserved Instances
+**C. Reserved Instances**
 
-D. Savings Plans
+**D. Savings Plans**
 
 E. Dedicated Hosts
 
@@ -483,7 +486,7 @@ A. Amazon Connect
 
 B. AWS Wavelength
 
-C. AWS Regions
+**C. AWS Regions**
 
 D. AWS Direct Connect
 
@@ -491,7 +494,7 @@ D. AWS Direct Connect
 
 A. AWS Free Tier
 
-B. AWS Pricing Calculator
+**B. AWS Pricing Calculator**
 
 C. AWS Billing and Cost Management
 
@@ -499,7 +502,7 @@ D. AWS Cost and Usage Report
 
 ## 49. A company is building an application that needs to deliver images and videos globally with minimal latency. Which approach can the company use to accomplish this in a cost effective manner?
 
-A. Deliver the content through Amazon CloudFront.
+**A. Deliver the content through Amazon CloudFront.**
 
 B. Store the content on Amazon S3 and enable S3 cross-region replication.
 
@@ -513,7 +516,7 @@ A. The ability to trade variable expense for fixed expense
 
 B. Increased speed and agility
 
-C. Lower variable costs over fixed costs
+**C. Lower variable costs over fixed costs**
 
 D. Increased operational costs across data centers
 
