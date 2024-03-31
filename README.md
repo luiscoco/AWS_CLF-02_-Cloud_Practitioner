@@ -48,7 +48,7 @@ A. Physical security of DynamoDB
 
 B. Patching of DynamoDB
 
-C. Access to DynamoDB tables
+**C. Access to DynamoDB tables**
 
 D. Encryption of data at rest in DynamoDB
 
@@ -58,7 +58,7 @@ A. Sustainability
 
 B. Performance efficiency
 
-C. Governance
+**C. Governance**
 
 D. Reliability
 
@@ -84,7 +84,7 @@ D. Configure the security group firewall.
 
 ## 9. Which AWS services or tools can identify rightsizing opportunities for Amazon EC2 instances? (Choose two.)
 
-A. AWS Cost Explorer
+**A. AWS Cost Explorer**
 
 B. AWS Billing Conductor
 
@@ -92,7 +92,7 @@ C. Amazon CodeGuru
 
 D. Amazon SageMaker
 
-E. AWS Compute Optimizer
+**E. AWS Compute Optimizer**
 
 ## 10. Which of the following are benefits of using AWS Trusted Advisor? (Choose two.)
 
@@ -100,9 +100,9 @@ A. Providing high-performance container orchestration
 
 B. Creating and rotating encryption keys
 
-C. Detecting underutilized resources to save costs
+**C. Detecting underutilized resources to save costs**
 
-D. Improving security by proactively monitoring the AWS environment
+**D. Improving security by proactively monitoring the AWS environment**
 
 E. Implementing enforced tagging across AWS resources
 
