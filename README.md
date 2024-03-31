@@ -512,11 +512,11 @@ D. Deliver the content through AWS PrivateLink.
 
 ## 50. Which option is a benefit of the economies of scale based on the advantages of cloud computing?
 
-A. The ability to trade variable expense for fixed expense
+**A. The ability to trade variable expense for fixed expense**
 
 B. Increased speed and agility
 
-**C. Lower variable costs over fixed costs**
+C. Lower variable costs over fixed costs
 
 D. Increased operational costs across data centers
 
@@ -526,7 +526,7 @@ A. AWS CLI
 
 B. AWS Developer Center
 
-C. AWS Cloud Development Kit (AWS CDK)
+**C. AWS Cloud Development Kit (AWS CDK)**
 
 D. AWS CodeStar
 
@@ -536,13 +536,13 @@ A. Amazon API Gateway
 
 B. IAM users
 
-C. AWS Security Token Service (AWS STS)
+**C. AWS Security Token Service (AWS STS)**
 
 D. IAM instance profiles
 
 ## 53. Which AWS service is a cloud security posture management (CSPM) service that aggregates alerts from various AWS services and partner products in a standardized format?
 
-A. AWS Security Hub
+**A. AWS Security Hub**
 
 B. AWS Trusted Advisor
 
@@ -554,7 +554,7 @@ D. Amazon GuardDuty
 
 A. Amazon S3
 
-B. AWS Identity and Access Management (IAM)
+**B. AWS Identity and Access Management (IAM)**
 
 C. Elastic Load Balancers
 
@@ -566,15 +566,18 @@ A. Amazon Redshift
 
 B. Amazon Aurora
 
-C. Amazon DynamoDB
+**C. Amazon DynamoDB**
 
 D. Amazon RDS
 
 ## 56. A company is using Amazon DynamoDB. Which task is the company’s responsibility, according to the AWS shared responsibility model?
 
 A. Patch the operating system.
+
 B. Provision hosts.
-C. Manage database access permissions.
+
+**C. Manage database access permissions.**
+
 D. Secure the operating system.
 
 ## 57. A company has a test AWS environment. A company is planning on testing an application within AWS. The application testing can be interrupted and does not need to run continuously. Which Amazon EC2 purchasing option will meet these requirements MOST cost-effectively?
@@ -583,13 +586,13 @@ A. On-Demand Instances
 
 B. Dedicated Instances
 
-C. Spot Instances
+**C. Spot Instances**
 
 D. Reserved Instances
 
 ## 58. Which AWS service gives users the ability to discover and protect sensitive data that is stored in Amazon S3 buckets?
 
-A. Amazon Macie
+**A. Amazon Macie**
 
 B. Amazon Detective
 
@@ -599,11 +602,11 @@ D. AWS IAM Access Analyzer
 
 ## 59. Which of the following services can be used to block network traffic to an instance? (Choose two.)
 
-A. Security groups
+**A. Security groups**
 
 B. Amazon Virtual Private Cloud (Amazon VPC) flow logs
 
-C. Network ACLs
+**C. Network ACLs**
 
 D. Amazon CloudWatch
 
@@ -613,7 +616,7 @@ E. AWS CloudTrail
 
 A. AWS Identity and Access Management (IAM)
 
-B. AWS CloudTrail
+**B. AWS CloudTrail**
 
 C. AWS Compute Optimizer
 
@@ -635,7 +638,7 @@ A. AWS Snowmobile
 
 B. AWS Local Zones
 
-C. AWS Outposts
+**C. AWS Outposts**
 
 D. AWS Fargate
 
@@ -645,7 +648,7 @@ A. Amazon DynamoDB
 
 B. Amazon Athena
 
-C. Amazon RDS
+**C. Amazon RDS**
 
 D. Amazon EMR
 
@@ -653,9 +656,9 @@ D. Amazon EMR
 
 A. Amazon Connect
 
-B. Amazon AppStream 2.0
+**B. Amazon AppStream 2.0**
 
-C. Amazon WorkSpaces
+**C. Amazon WorkSpaces**
 
 D. AWS Site-to-Site VPN
 
@@ -685,7 +688,7 @@ D. Amazon Neptune
 
 A. On-Demand Instances
 
-B. Spot Instances
+**B. Spot Instances**
 
 C. Reserved Instances
 
@@ -717,7 +720,7 @@ D. AWS Cloud Map
 
 A. VPC endpoints
 
-B. AWS Transit Gateway
+**B. AWS Transit Gateway**
 
 C. Amazon Route 53
 
@@ -736,8 +739,11 @@ C. AWS Developer Support
 ## 72. A company wants to establish a schedule for rotating database user credentials. Which AWS service will support this requirement with the LEAST amount of operational overhead?
 
 A. AWS Systems Manager
+
 **B. AWS Secrets Manager**
+
 C. AWS License Manager
+
 D. AWS Managed Services
 
 ## 73. Which AWS service or feature can be used to create a private connection between an on-premises workload and an AWS Cloud workload?
@@ -790,7 +796,7 @@ B. Elasticity
 
 C. Scalability
 
-D. High availability
+**D. High availability**
 
 ## 78. A developer needs to maintain a development environment infrastructure and a production environment infrastructure in a repeatable fashion. Which AWS service should the developer use to meet these requirements?
 
@@ -800,13 +806,13 @@ B. AWS Shield
 
 C. AWS IoT Device Defender
 
-D. AWS CloudFormation
+**D. AWS CloudFormation**
 
 ## 79. Which task is the customer’s responsibility, according to the AWS shared responsibility model?
 
 A. Maintain the security of the AWS Cloud.
 
-B. Configure firewalls and networks.
+**B. Configure firewalls and networks.**
 
 C. Patch the operating system of Amazon RDS instances.
 
@@ -816,7 +822,7 @@ D. Implement physical and environmental controls.
 
 A. AWS WAF
 
-B. AWS Global Accelerator
+**B. AWS Global Accelerator**
 
 C. AWS Shield
 
@@ -852,11 +858,11 @@ B. S3 Storage Lens
 
 C. AWS IAM Identity Center (AWS Single Sign-On)
 
-D. Access Analyzer for S3
+**D. Access Analyzer for S3**
 
 ## 84. What is the best resource for a user to find compliance-related information and reports about AWS?
 
-A. AWS Artifact
+**A. AWS Artifact**
 
 B. AWS Marketplace
 
@@ -866,7 +872,7 @@ D. AWS Support
 
 ## 85. Which AWS service enables companies to deploy an application close to end users?
 
-A. Amazon CloudFront
+**A. Amazon CloudFront**
 
 B. AWS Auto Scaling
 
@@ -880,13 +886,13 @@ A. Route table
 
 B. AWS Transit Gateway
 
-C. AWS Global Accelerator
+**C. AWS Global Accelerator**
 
 D. Amazon VPC
 
 ## 87. Which AWS service provides highly durable object storage?
 
-A. Amazon S3
+**A. Amazon S3**
 
 B. Amazon Elastic File System (Amazon EFS)
 
@@ -902,7 +908,7 @@ B. Database software patches
 
 C. Operating system patches
 
-D. Operating system installations
+**D. Operating system installations**
 
 ## 89. Which of the following are advantages of moving to the AWS Cloud? (Choose two.)
 
