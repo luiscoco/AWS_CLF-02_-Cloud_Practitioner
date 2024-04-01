@@ -1508,7 +1508,7 @@ D. Maintenance of VPC components
 
 ## 147. A company wants its Amazon EC2 instances to operate in a highly available environment, even if there is a natural disaster in a particular geographic area. Which approach will achieve this goal?
 
-A. Use EC2 instances in multiple AWS Regions.
+**A. Use EC2 instances in multiple AWS Regions.**
 
 B. Use EC2 instances in multiple Amazon CloudFront locations.
 
