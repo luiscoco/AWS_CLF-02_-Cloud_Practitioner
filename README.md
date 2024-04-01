@@ -1378,7 +1378,7 @@ A. Culture evolution
 
 B. Event management
 
-C. Data monetization
+**C. Data monetization**
 
 D. Platform architecture
 
@@ -1408,9 +1408,9 @@ A. Observability
 
 B. Incident and problem management
 
-C. Incident response
+**C. Incident response**
 
-D. Infrastructure protection
+**D. Infrastructure protection**
 
 E. Availability and continuity
 
@@ -1420,7 +1420,7 @@ A. AWS Graviton processor
 
 B. Dedicated Hosts
 
-C. EC2 Instance Savings Plans
+**C. EC2 Instance Savings Plans**
 
 D. Amazon EC2 Auto Scaling instances
 
@@ -1428,7 +1428,7 @@ D. Amazon EC2 Auto Scaling instances
 
 A. Agility
 
-B. Elasticity
+**B. Elasticity**
 
 C. Reliability
 
@@ -1438,13 +1438,13 @@ D. Durability
 
 A. Amazon WorkSpaces
 
-B. Amazon Simple Queue Service (Amazon SQS)
+**B. Amazon Simple Queue Service (Amazon SQS)**
 
 C. Amazon Connect
 
 D. AWS Trusted Advisor
 
-E. AWS Step Functions
+**E. AWS Step Functions**
 
 ## 141. Which AWS Cloud service can send alerts to customers if custom spending thresholds are exceeded?
 
@@ -1458,7 +1458,7 @@ D. AWS Organizations
 
 ## 142. A company plans to migrate to the AWS Cloud. The company wants to use the AWS Cloud Adoption Framework (AWS CAF) to define and track business outcomes as part of its cloud transformation journey. Which AWS CAF governance perspective capability will meet these requirements?
 
-A. Benefits management
+**A. Benefits management**
 
 B. Risk management
 
